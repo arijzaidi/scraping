@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
+from matplotlib import pyplot as plt
 import requests
 import pandas as pd
+import seaborn as sns
 
 url = 'https://www.automobile.tn/fr/occasion'
 nbre_page=175
@@ -81,14 +83,15 @@ for n in range(nbre_page):
     if len(prices) == len(marques) == len(modeles) == len(roads) == len(years) == len(boites) == len(transmissions) == len(horsepowers) == len(fuels):
         data = {'Marque': marques, 'Modèle': modeles, 'road': roads, 'year': years, 'boite': boites, 'transmission': transmissions, 'horsepower': horsepowers, 'fuel': fuels, 'Prix': prices}
         df = pd.DataFrame(data)
-        #print(df)
+        print(df)
     
     total_df = pd.concat([total_df, df], ignore_index=True)
 
 
 #la dataframe totale contenant les données scrapées de toutes les pages:
-total_df.to_csv('cars.csv', index=False)
+total_df.to_csv('data/cars.csv', index=False)
 print(df)
+
 
 
 
