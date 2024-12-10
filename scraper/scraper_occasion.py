@@ -5,7 +5,7 @@ import pandas as pd
 import seaborn as sns
 
 url = 'https://www.automobile.tn/fr/occasion'
-nbre_page=175
+nbre_page=2
 n=1 #page 1
 total_df = pd.DataFrame()
 
@@ -20,6 +20,12 @@ for n in range(nbre_page):
     soup= BeautifulSoup(html, 'html.parser')
 
     container=soup.findAll(class_='occasion-item-v2')
+    links = []
+    for item in container:
+        link_tag = item.find('a', class_='occasion-link-overlay', href=True)
+        if link_tag:
+            link = link_tag['href']
+            links.append(link)
 
     print(len(container))
     roads=[]
@@ -28,6 +34,8 @@ for n in range(nbre_page):
     transmissions=[]
     horsepowers=[]
     fuels=[]
+    nbre_portes=[]
+    cylindres=[]
 
 
     items = []

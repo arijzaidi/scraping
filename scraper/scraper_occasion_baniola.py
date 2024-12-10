@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 url_g="https://baniola.tn/voitures"
 
-nbre_page=40
+nbre_page=1
 n=0
 
 marques = []

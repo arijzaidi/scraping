@@ -34,6 +34,22 @@ def get_models(brand):
             model_links.append(link['href'])
     return model_links
 
+def checkUrl(Url):
+    full_url = f'https://www.automobile.tn{Url}'
+    response = requests.get(full_url, headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    Table = soup.find('table', {'class':'versions'})
+    if Table :
+        fiche_technique_links = soup.find_all('a', href=True, string="Fiche technique")
+
+        # Extract the URLs into a list
+        urls = [link['href'] for link in fiche_technique_links]
+
+        # Print the result
+        return urls
+    
+    return [Url]
+
 def get_car_details(car_url):
     full_url = f'https://www.automobile.tn{car_url}'
     response = requests.get(full_url, headers=headers)
@@ -61,7 +77,7 @@ def get_car_details(car_url):
 
 
 
-def save_to_csv(data, headers, filename='Data/cars_data.csv'):
+def save_to_csv(data, headers, filename='Data/Automobiletn_Neuf_Data.csv'):
     """ Write data to CSV, dynamically handling the headers """
     with open(filename, mode='a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
@@ -73,45 +89,58 @@ def save_to_csv(data, headers, filename='Data/cars_data.csv'):
 
 # Start scraping
 if __name__ == '__main__':
-    all_specs = set()  # A set to keep track of all unique spec keys
-    car_data = []      # List to collect all car data (to later write to CSV)
+    headers_set = set()  # A set to store unique spec keys
+    car_data = []        # List to collect all car data (to later write to CSV)
 
     Brands = get_brands()
     for brand in Brands:
         print(f"Scraping {brand}...")
         models = get_models(brand)
 
-        for model_url in models:
-            print(f"Scraping model: {model_url}")
-            try:
-                price, specs = get_car_details(model_url)
-                # Add all specs keys to the set of unique specs
-                all_specs.update(specs.keys())
+        for index, model_url in enumerate(models):
+            urls = checkUrl(model_url)
+            if len(urls) > 1:
+                models[index:index + 1] = urls
+            print(f"Scraping model: {models[index]}")
 
-                model_parts=model_url.strip('/').split('/')
+            try:
+                price, specs = get_car_details(models[index])
+
+                # Add the keys of the specs to the headers set (this ensures uniqueness)
+                headers_set.update(specs.keys())
+
+                model_parts = models[index].strip('/').split('/')
                 brand_index = model_parts.index(brand)
                 model_name = " ".join(model_parts[brand_index + 1:])
 
-                # Prepare the data row, starting with the brand, model URL, and price
-                row = [brand, model_url, price]
+                # Prepare the model's data (starting with brand, model name, and price)
+                model_row = {
+                    'Brand': brand,
+                    'Model': model_name,
+                    'Price': price
+                }
 
-                # Add spec values in the correct order of the columns
-                for key in all_specs:
-                    # Get the spec value, or leave it empty if it doesn't exist for this model
-                    row.append(specs.get(key, ''))
+                # Add spec values for the model
+                for key, value in specs.items():
+                    model_row[key] = value
 
-                car_data.append(row)
-                print(f"Data collected for {model_url}")
+                # Add this model's data to car_data
+                car_data.append(model_row)
+                print(f"Data collected for {models[index]}")
 
             except Exception as e:
-                print(f"Error occurred while scraping {model_url}: {e}")
+                print(f"Error occurred while scraping {models[index]}: {e}")
                 continue
 
             time.sleep(1)
 
-    # After collecting all data, write to CSV
-    if car_data:
-        headers = ['Brand', 'Model', 'Price'] + list(all_specs)
-        for row in car_data:
-            save_to_csv(row, headers,filename='cars_neuf.csv')
-        print("Data saved to CSV.")
+    # After collecting all data, create the final header list (sorted)
+    headers = ['Brand', 'Model', 'Price'] + sorted(headers_set)
+
+    # Now, reorder the data in car_data to match the headers order
+    for row in car_data:
+        # Reorder row to match header order, filling missing specs with 'None'
+        reordered_row = [row.get(header, None) for header in headers]
+        save_to_csv(reordered_row, headers)
+
+    print("Data saved to CSV.")
