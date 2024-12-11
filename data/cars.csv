@@ -1,37 +1,25 @@
-Marque,Modèle,road,year,boite,transmission,horsepower,fuel,Prix
-KIA,Rio Berline,90 500 km,2020,Manuelle,Traction,6 cv,Essence,52 000
-BMW,Série 4 Gran Coupé,70 000 km,2019,Automatique,Traction,7 cv,Essence,115 000
-KIA,Picanto,107 000 km,2014,Automatique,Traction,5 cv,Essence,35 000
-Chery,Tiggo 3X Luxury,47 000 km,2022,Automatique,Traction,6 cv,Essence,52 000
-Hyundai,Grand i10,208 000 km,2015,Manuelle,Traction,5 cv,Essence,32 000
-Mercedes-Benz,Classe C AMG +,146 000 km,2015,Automatique,Propulsion,8 cv,Essence,135 000
-Peugeot,Partner Origin Utilitaire Pack Clim PM,73 000 km,2019,Manuelle,Traction,5 cv,Diesel,56 000
-Volkswagen,Golf 8 Active,69 000 km,2021,Manuelle,Traction,6 cv,Essence,95 000
-Wallyscar,Iris,137 000 km,2020,Manuelle,Traction,4 cv,Essence,30 000
-Wallyscar,719,86 573 km,2023,Manuelle,Traction,7 cv,Essence,Sous leasing                    47 100
-Audi,A3 Sportback Sportback,210 000 km,2018,Manuelle,Traction,6 cv,Essence,69 000
-Hyundai,Tucson N Line,115 000 km,2021,Automatique,Traction,7 cv,Hybride,117 000
-KIA,Rio Berline,90 500 km,2020,Manuelle,Traction,6 cv,Essence,52 000
-BMW,Série 4 Gran Coupé,70 000 km,2019,Automatique,Traction,7 cv,Essence,115 000
-KIA,Picanto,107 000 km,2014,Automatique,Traction,5 cv,Essence,35 000
-Chery,Tiggo 3X Luxury,47 000 km,2022,Automatique,Traction,6 cv,Essence,52 000
-Hyundai,Grand i10,208 000 km,2015,Manuelle,Traction,5 cv,Essence,32 000
-Mercedes-Benz,Classe C AMG +,146 000 km,2015,Automatique,Propulsion,8 cv,Essence,135 000
-Peugeot,Partner Origin Utilitaire Pack Clim PM,73 000 km,2019,Manuelle,Traction,5 cv,Diesel,56 000
-Volkswagen,Golf 8 Active,69 000 km,2021,Manuelle,Traction,6 cv,Essence,95 000
-Wallyscar,Iris,137 000 km,2020,Manuelle,Traction,4 cv,Essence,30 000
-Wallyscar,719,86 573 km,2023,Manuelle,Traction,7 cv,Essence,Sous leasing                    47 100
-Audi,A3 Sportback Sportback,210 000 km,2018,Manuelle,Traction,6 cv,Essence,69 000
-Hyundai,Tucson N Line,115 000 km,2021,Automatique,Traction,7 cv,Hybride,117 000
-KIA,Rio Berline,90 500 km,2020,Manuelle,Traction,6 cv,Essence,52 000
-BMW,Série 4 Gran Coupé,70 000 km,2019,Automatique,Traction,7 cv,Essence,115 000
-KIA,Picanto,107 000 km,2014,Automatique,Traction,5 cv,Essence,35 000
-Chery,Tiggo 3X Luxury,47 000 km,2022,Automatique,Traction,6 cv,Essence,52 000
-Hyundai,Grand i10,208 000 km,2015,Manuelle,Traction,5 cv,Essence,32 000
-Mercedes-Benz,Classe C AMG +,146 000 km,2015,Automatique,Propulsion,8 cv,Essence,135 000
-Peugeot,Partner Origin Utilitaire Pack Clim PM,73 000 km,2019,Manuelle,Traction,5 cv,Diesel,56 000
-Volkswagen,Golf 8 Active,69 000 km,2021,Manuelle,Traction,6 cv,Essence,95 000
-Wallyscar,Iris,137 000 km,2020,Manuelle,Traction,4 cv,Essence,30 000
-Wallyscar,719,86 573 km,2023,Manuelle,Traction,7 cv,Essence,Sous leasing                    47 100
-Audi,A3 Sportback Sportback,210 000 km,2018,Manuelle,Traction,6 cv,Essence,69 000
-Hyundai,Tucson N Line,115 000 km,2021,Automatique,Traction,7 cv,Hybride,117 000
+Marque,Modèle,road,year,boite,transmission,horsepower,fuel,Prix,Nombre de portes,Cylindrée
+Fiat,Panda City Cross,82 675 km,2021,Manuelle,Traction,4 cv,Essence,38 000,5,"<re.Match object; span=(0, 4), match='1200'>"
+Land,Rover Range Rover Evoque,182 000 km,2014,Automatique,Intégrale,9 cv,Diesel,98 000,5,"<re.Match object; span=(0, 4), match='1500'>"
+KIA,Sportage Hybride,53 000 km,2020,Automatique,Intégrale,11 cv,Hybride,117 000,4,"<re.Match object; span=(0, 4), match='3000'>"
+Citroën,DS5,272 000 km,2012,Automatique,Intégrale,6 cv,Diesel,47 000,4,"<re.Match object; span=(0, 4), match='2000'>"
+Mini,Cabriolet,86 000 km,2010,Manuelle,Intégrale,7 cv,Essence,44 000,2,"<re.Match object; span=(0, 4), match='1999'>"
+Ford,Focus,140 000 km,2015,Manuelle,Intégrale,6 cv,Essence,38 000,5,"<re.Match object; span=(0, 3), match='999'>"
+Fiat,Doblo,41 000 km,2021,Manuelle,Traction,6 cv,Essence,51 000,5,"<re.Match object; span=(0, 4), match='1400'>"
+Mercedes-Benz,Classe E AMG,95 000 km,2018,Automatique,Traction,9 cv,Essence,155 000,4,"<re.Match object; span=(0, 4), match='2189'>"
+Mercedes-Benz,Classe C coupé AMG,86 000 km,2019,Automatique,Traction,10 cv,Hybride,178 000,4,"<re.Match object; span=(0, 4), match='1497'>"
+Land,Rover Range Rover Evoque R-Dynamic,150 000 km,2016,Automatique,Propulsion,10 cv,Diesel,122 000,4,"<re.Match object; span=(0, 4), match='1395'>"
+BMW,Série 4 Gran Coupé,90 000 km,2019,Automatique,Traction,7 cv,Essence,145 000,5,"<re.Match object; span=(0, 4), match='2000'>"
+Mercedes-Benz,Classe C AMG,135 000 km,2019,Automatique,Traction,8 cv,Essence,Sous leasing                    161 300,5,"<re.Match object; span=(0, 4), match='1499'>"
+Fiat,Panda City Cross,82 675 km,2021,Manuelle,Traction,4 cv,Essence,38 000,5,"<re.Match object; span=(0, 4), match='1200'>"
+Land,Rover Range Rover Evoque,182 000 km,2014,Automatique,Intégrale,9 cv,Diesel,98 000,5,"<re.Match object; span=(0, 4), match='1500'>"
+KIA,Sportage Hybride,53 000 km,2020,Automatique,Intégrale,11 cv,Hybride,117 000,4,"<re.Match object; span=(0, 4), match='3000'>"
+Citroën,DS5,272 000 km,2012,Automatique,Intégrale,6 cv,Diesel,47 000,4,"<re.Match object; span=(0, 4), match='2000'>"
+Mini,Cabriolet,86 000 km,2010,Manuelle,Intégrale,7 cv,Essence,44 000,2,"<re.Match object; span=(0, 4), match='1999'>"
+Ford,Focus,140 000 km,2015,Manuelle,Intégrale,6 cv,Essence,38 000,5,"<re.Match object; span=(0, 3), match='999'>"
+Fiat,Doblo,41 000 km,2021,Manuelle,Traction,6 cv,Essence,51 000,5,"<re.Match object; span=(0, 4), match='1400'>"
+Mercedes-Benz,Classe E AMG,95 000 km,2018,Automatique,Traction,9 cv,Essence,155 000,4,"<re.Match object; span=(0, 4), match='2189'>"
+Mercedes-Benz,Classe C coupé AMG,86 000 km,2019,Automatique,Traction,10 cv,Hybride,178 000,4,"<re.Match object; span=(0, 4), match='1497'>"
+Land,Rover Range Rover Evoque R-Dynamic,150 000 km,2016,Automatique,Propulsion,10 cv,Diesel,122 000,4,"<re.Match object; span=(0, 4), match='1395'>"
+BMW,Série 4 Gran Coupé,90 000 km,2019,Automatique,Traction,7 cv,Essence,145 000,5,"<re.Match object; span=(0, 4), match='2000'>"
+Mercedes-Benz,Classe C AMG,135 000 km,2019,Automatique,Traction,8 cv,Essence,Sous leasing                    161 300,5,"<re.Match object; span=(0, 4), match='1499'>"
