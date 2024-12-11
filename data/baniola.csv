@@ -1,51 +1,151 @@
-Marque,Modèle,year,puissances_fiscales,road,boite,fuel,cylindres,nbre_portes,negociable,Prix
-Volkswagen,Amarok,2014,7 CV,45 000 KM,Automatique,Diesel,5,,Négociable,125
-Infiniti,AUTRE,2023,10 CV,8 000 KM,Automatique,Essence,7 L,5,Non Négociable,215000
-Suzuki,Autres,2020,5 CV,90 000 KM,Manuelle,Essence,3 L,5,Négociable,35800
-Peugeot,Autres,2021,5 CV,74 000 KM,Manuelle,Essence,3 L,5,Négociable,33000
-Chery,Tiggo,2020,6 CV,100 000 KM,Manuelle,Essence,7 L,5,Non Négociable,42500
-Kia,RIO,2018,5 CV,108 KM,Manuelle,Essence,  3 L,5,Négociable,49900
-Peugeot,308,2015,5 CV,180 000 KM,Manuelle,Essence,3 L,5,Négociable,32000
-Mahindra,KUV 100,2022,5 CV,10 300 KM,Manuelle,Diesel,3 L,,Négociable,0
-Citroen,NEMO,2017,5 CV,150 KM,Manuelle,Diesel,4 L,5,Négociable,25
-Peugeot,3008,2020,9 CV,87 000 KM,Automatique,Essence,3 L,5,Négociable,90000
-Nissan,Micra,2020,5 CV,75 000 KM,Manuelle,Essence,3 L,5,Négociable,33500
-Volkswagen,Golf 6,2011,5 CV,170 KM,Manuelle,Diesel,7 L,5,Négociable,38
-Kia,PICANTO,2010,4 CV,137 KM,Manuelle,Essence,2 L,5,Négociable,24500
-Audi,A4,2013,7 CV,248 705 KM,Manuelle,Essence,9 L,5,Négociable,45000
-Kia,RIO,2021,5 CV,92 000 KM,Manuelle,Essence,5,,Négociable,43500
-Kia,RIO,2021,5 CV,89 000 KM,Manuelle,Essence,5,,Négociable,44000
-Hyundai,I20,2021,5 CV,39 000 KM,Manuelle,Essence,3 L,5,Non Négociable,63000
-Mazda,MAZDA5,2006,+20 CV,243 KM,Automatique,Diesel,11 L,5,Négociable,20
-Fiat,DOBLO,2014,4 CV,115 KM,Manuelle,Diesel,4 L,3,Non Négociable,20
-Ford,FIESTA,2013,5 CV,183 000 KM,Manuelle,Essence,5 L,5,Négociable,25900
-Kia,RIO,2017,5 CV,172 000 KM,Manuelle,Essence,3 L,5,Négociable,39000
-Fiat,PANDA,2009,4 CV,178 000 KM,Manuelle,Essence,1 L,5,Négociable,23900
-Citroen,C3,2019,4 CV,29 000 KM,Manuelle,Essence,5,,Non Négociable,42500
-Dacia,DOKKER,2021,6 CV,40 000 KM,Manuelle,Diesel,6 L,3,Négociable,39000
-Hyundai,I10,2021,5 CV,41 000 KM,Manuelle,Essence,3 L,5,Négociable,49500
-Seat,Ibiza,2017,4 CV,140 000 KM,Manuelle,Essence,1 L,5,Non Négociable,370000
-Hyundai,SANTA FE,2022,9 CV,23 000 KM,Automatique,Hybride,7 L,5,Négociable,85
-Renault,Clio,2008,5 CV,322 000 KM,Manuelle,Essence,3 L,5,Non Négociable,22500
-Fiat,AUTRE,2004,5 CV,298 000 KM,Manuelle,Essence,21 L,5,Non Négociable,17000000
-Fiat,PUNTO,1997,4 CV,297 000 KM,Manuelle,Essence,31 L,5,Négociable,13200
-Opel,Agila,2001,5 CV,284 000 KM,Manuelle,Essence,3 L,5,Négociable,16200
-Peugeot,206,2012,4 CV,110 000 KM,Manuelle,Essence,5,,Négociable,22700
-Kia,RIO,2022,5 CV,133 KM,Automatique,Essence,3 L,5,Négociable,59000
-Peugeot,307,2006,6 CV,490 000 KM,Manuelle,Essence,5,,Négociable,25000
-Mazda,CX-5,2018,9 CV,30 000 KM,Automatique,Diesel,,,Non Négociable,140000
-Great-wall,MK-GT,2021,6 CV,36 000 KM,Manuelle,Essence,3 L,5,Négociable,45500
-Mazda,MAZDA6,2018,8 CV,157 000 KM,Automatique,Essence,11 L,5,Négociable,61
-Audi,Q3,2019,6 CV,77 000 KM,Automatique,Essence,1 L,5,Non Négociable,95000
-Peugeot,405,1971,4 CV,1 KM,Manuelle,Diesel,5,,Négociable,22000
-Peugeot,508,2019,7 CV,112 000 KM,Automatique,Diesel,6 L,5,Négociable,95000
-Mahindra,KUV 100,2018,5 CV,68 000 KM,Manuelle,Essence,3 L,5,Non Négociable,26800
-Skoda,Octavia,2015,7 CV,181 000 KM,Automatique,Essence,5 L,5,Non Négociable,41000
-Hyundai,I10,2020,5 CV,142 000 KM,Manuelle,Essence,3 L,5,Négociable,33
-Opel,Corsa,1999,4 CV,100 000 KM,Manuelle,Essence,4 L,5,Négociable,11000
-Volkswagen,Tiguan,2019,6 CV,49 000 KM,Manuelle,Essence,1 L,5,Négociable,95
-Kia,SPORTAGE,2022,7 CV,80 KM,Automatique,Hybride,6 L,5,Non Négociable,0
-Ssangyong,Tivoli,2021,6 CV,130 KM,Manuelle,Essence,3 L,5,Négociable,65
-Chery,QQ,2018,4 CV,100 000 KM,Manuelle,Essence,1 L,5,Non Négociable,21000
-Dacia,SANDERO,2014,5 CV,154 KM,Manuelle,Essence,1 L,5,Non Négociable,36
-Peugeot,208,2016,5 CV,164 000 KM,Manuelle,Essence,3 L,5,Négociable,28000
+Marque,Modèle,year,road,boite,horsepower,fuel,nbre_portes,cylindrée,negociable,Prix
+Nissan,Micra,2020,74 500 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,33500
+Volkswagen,Golf,1995,287 204 KM,Manuelle,6 CV,Diesel,,5,Négociable,15700
+Mercedes,Classe E,2010,300 000 KM,Manuelle,7 CV,Diesel,5,12 L,Négociable,72000
+Suzuki,Autres,2020,88 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,36500
+Peugeot,308,2014,99 500 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,34000
+Suzuki,Autres,2020,90 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,35800
+Bmw,SERIE 3 VI,2007,250 000 KM,Automatique,10 CV,Diesel,,3,,1
+Peugeot,308,2015,180 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,32000
+Renault,Kangoo,2012,240 000 KM,Manuelle,5 CV,Diesel,3,6 L,,24500
+Volkswagen,Caddy,2021,179 000 KM,Manuelle,5 CV,Diesel,3,11 L,,50
+Volkswagen,Polo,2012,350 000 KM,Manuelle,5 CV,Diesel,5,7 L,Négociable,26000
+Seat,Arona,2021,58 000 KM,Manuelle,6 CV,Essence,5,7 L,,68000
+Volkswagen,Golf,2005,300 KM,Manuelle,5 CV,Diesel,5,5 L,Négociable,0
+Volkswagen,Amarok,2014,45 000 KM,Automatique,7 CV,Diesel,,5,Négociable,125
+Infiniti,AUTRE,2023,8 000 KM,Automatique,10 CV,Essence,5,7 L,,215000
+Chery,Tiggo,2020,100 000 KM,Manuelle,6 CV,Essence,5,7 L,,42500
+Kia,RIO,2018,108 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,49900
+Mahindra,KUV 100,2022,10 300 KM,Manuelle,5 CV,Diesel,,3 L,Négociable,0
+Citroen,NEMO,2017,150 KM,Manuelle,5 CV,Diesel,5,4 L,Négociable,25
+Peugeot,3008,2020,87 000 KM,Automatique,9 CV,Essence,5,3 L,Négociable,90000
+Volkswagen,Golf 6,2011,170 KM,Manuelle,5 CV,Diesel,5,7 L,Négociable,38
+Kia,PICANTO,2010,137 KM,Manuelle,4 CV,Essence,5,2 L,Négociable,24500
+Audi,A4,2013,248 705 KM,Manuelle,7 CV,Essence,5,9 L,Négociable,45000
+Kia,RIO,2021,92 000 KM,Manuelle,5 CV,Essence,,5,Négociable,43500
+Kia,RIO,2021,89 000 KM,Manuelle,5 CV,Essence,,5,Négociable,44000
+Hyundai,I20,2021,39 000 KM,Manuelle,5 CV,Essence,5,3 L,,63000
+Mazda,MAZDA5,2006,243 KM,Automatique,+20 CV,Diesel,5,11 L,Négociable,20
+Fiat,DOBLO,2014,115 KM,Manuelle,4 CV,Diesel,3,4 L,,20
+Ford,FIESTA,2013,183 000 KM,Manuelle,5 CV,Essence,5,5 L,Négociable,25900
+Kia,RIO,2017,172 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,39000
+Fiat,PANDA,2009,178 000 KM,Manuelle,4 CV,Essence,5,1 L,Négociable,23900
+Citroen,C3,2019,29 000 KM,Manuelle,4 CV,Essence,,5,,42500
+Dacia,DOKKER,2021,40 000 KM,Manuelle,6 CV,Diesel,3,6 L,Négociable,39000
+Hyundai,I10,2021,41 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,49500
+Seat,Ibiza,2017,140 000 KM,Manuelle,4 CV,Essence,5,1 L,,370000
+Hyundai,SANTA FE,2022,23 000 KM,Automatique,9 CV,Hybride,5,7 L,Négociable,85
+Renault,Clio,2008,322 000 KM,Manuelle,5 CV,Essence,5,3 L,,22500
+Fiat,AUTRE,2004,298 000 KM,Manuelle,5 CV,Essence,5,21 L,,17000000
+Fiat,PUNTO,1997,297 000 KM,Manuelle,4 CV,Essence,5,31 L,Négociable,13200
+Opel,Agila,2001,284 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,16200
+Peugeot,206,2012,110 000 KM,Manuelle,4 CV,Essence,,5,Négociable,22700
+Kia,RIO,2022,133 KM,Automatique,5 CV,Essence,5,3 L,Négociable,59000
+Peugeot,307,2006,490 000 KM,Manuelle,6 CV,Essence,,5,Négociable,25000
+Mazda,CX-5,2018,30 000 KM,Automatique,9 CV,Diesel,,,,140000
+Great-wall,MK-GT,2021,36 000 KM,Manuelle,6 CV,Essence,5,3 L,Négociable,45500
+Mazda,MAZDA6,2018,157 000 KM,Automatique,8 CV,Essence,5,11 L,Négociable,61
+Audi,Q3,2019,77 000 KM,Automatique,6 CV,Essence,5,1 L,,95000
+Peugeot,405,1971,1 KM,Manuelle,4 CV,Diesel,,5,Négociable,22000
+Peugeot,508,2019,112 000 KM,Automatique,7 CV,Diesel,5,6 L,Négociable,95000
+Mahindra,KUV 100,2018,68 000 KM,Manuelle,5 CV,Essence,5,3 L,,26800
+Nissan,Micra,2020,74 500 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,33500
+Volkswagen,Golf,1995,287 204 KM,Manuelle,6 CV,Diesel,,5,Négociable,15700
+Mercedes,Classe E,2010,300 000 KM,Manuelle,7 CV,Diesel,5,12 L,Négociable,72000
+Suzuki,Autres,2020,88 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,36500
+Peugeot,308,2014,99 500 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,34000
+Suzuki,Autres,2020,90 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,35800
+Bmw,SERIE 3 VI,2007,250 000 KM,Automatique,10 CV,Diesel,,3,,1
+Peugeot,308,2015,180 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,32000
+Renault,Kangoo,2012,240 000 KM,Manuelle,5 CV,Diesel,3,6 L,,24500
+Volkswagen,Caddy,2021,179 000 KM,Manuelle,5 CV,Diesel,3,11 L,,50
+Volkswagen,Polo,2012,350 000 KM,Manuelle,5 CV,Diesel,5,7 L,Négociable,26000
+Seat,Arona,2021,58 000 KM,Manuelle,6 CV,Essence,5,7 L,,68000
+Volkswagen,Golf,2005,300 KM,Manuelle,5 CV,Diesel,5,5 L,Négociable,0
+Volkswagen,Amarok,2014,45 000 KM,Automatique,7 CV,Diesel,,5,Négociable,125
+Infiniti,AUTRE,2023,8 000 KM,Automatique,10 CV,Essence,5,7 L,,215000
+Chery,Tiggo,2020,100 000 KM,Manuelle,6 CV,Essence,5,7 L,,42500
+Kia,RIO,2018,108 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,49900
+Mahindra,KUV 100,2022,10 300 KM,Manuelle,5 CV,Diesel,,3 L,Négociable,0
+Citroen,NEMO,2017,150 KM,Manuelle,5 CV,Diesel,5,4 L,Négociable,25
+Peugeot,3008,2020,87 000 KM,Automatique,9 CV,Essence,5,3 L,Négociable,90000
+Volkswagen,Golf 6,2011,170 KM,Manuelle,5 CV,Diesel,5,7 L,Négociable,38
+Kia,PICANTO,2010,137 KM,Manuelle,4 CV,Essence,5,2 L,Négociable,24500
+Audi,A4,2013,248 705 KM,Manuelle,7 CV,Essence,5,9 L,Négociable,45000
+Kia,RIO,2021,92 000 KM,Manuelle,5 CV,Essence,,5,Négociable,43500
+Kia,RIO,2021,89 000 KM,Manuelle,5 CV,Essence,,5,Négociable,44000
+Hyundai,I20,2021,39 000 KM,Manuelle,5 CV,Essence,5,3 L,,63000
+Mazda,MAZDA5,2006,243 KM,Automatique,+20 CV,Diesel,5,11 L,Négociable,20
+Fiat,DOBLO,2014,115 KM,Manuelle,4 CV,Diesel,3,4 L,,20
+Ford,FIESTA,2013,183 000 KM,Manuelle,5 CV,Essence,5,5 L,Négociable,25900
+Kia,RIO,2017,172 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,39000
+Fiat,PANDA,2009,178 000 KM,Manuelle,4 CV,Essence,5,1 L,Négociable,23900
+Citroen,C3,2019,29 000 KM,Manuelle,4 CV,Essence,,5,,42500
+Dacia,DOKKER,2021,40 000 KM,Manuelle,6 CV,Diesel,3,6 L,Négociable,39000
+Hyundai,I10,2021,41 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,49500
+Seat,Ibiza,2017,140 000 KM,Manuelle,4 CV,Essence,5,1 L,,370000
+Hyundai,SANTA FE,2022,23 000 KM,Automatique,9 CV,Hybride,5,7 L,Négociable,85
+Renault,Clio,2008,322 000 KM,Manuelle,5 CV,Essence,5,3 L,,22500
+Fiat,AUTRE,2004,298 000 KM,Manuelle,5 CV,Essence,5,21 L,,17000000
+Fiat,PUNTO,1997,297 000 KM,Manuelle,4 CV,Essence,5,31 L,Négociable,13200
+Opel,Agila,2001,284 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,16200
+Peugeot,206,2012,110 000 KM,Manuelle,4 CV,Essence,,5,Négociable,22700
+Kia,RIO,2022,133 KM,Automatique,5 CV,Essence,5,3 L,Négociable,59000
+Peugeot,307,2006,490 000 KM,Manuelle,6 CV,Essence,,5,Négociable,25000
+Mazda,CX-5,2018,30 000 KM,Automatique,9 CV,Diesel,,,,140000
+Great-wall,MK-GT,2021,36 000 KM,Manuelle,6 CV,Essence,5,3 L,Négociable,45500
+Mazda,MAZDA6,2018,157 000 KM,Automatique,8 CV,Essence,5,11 L,Négociable,61
+Audi,Q3,2019,77 000 KM,Automatique,6 CV,Essence,5,1 L,,95000
+Peugeot,405,1971,1 KM,Manuelle,4 CV,Diesel,,5,Négociable,22000
+Peugeot,508,2019,112 000 KM,Automatique,7 CV,Diesel,5,6 L,Négociable,95000
+Mahindra,KUV 100,2018,68 000 KM,Manuelle,5 CV,Essence,5,3 L,,26800
+Skoda,Octavia,2015,181 000 KM,Automatique,7 CV,Essence,5,5 L,,41000
+Hyundai,I10,2020,142 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,33
+Opel,Corsa,1999,100 000 KM,Manuelle,4 CV,Essence,5,4 L,Négociable,11000
+Volkswagen,Tiguan,2019,49 000 KM,Manuelle,6 CV,Essence,5,1 L,Négociable,95
+Kia,SPORTAGE,2022,80 KM,Automatique,7 CV,Hybride,5,6 L,,0
+Ssangyong,Tivoli,2021,130 KM,Manuelle,6 CV,Essence,5,3 L,Négociable,65
+Chery,QQ,2018,100 000 KM,Manuelle,4 CV,Essence,5,1 L,,21000
+Dacia,SANDERO,2014,154 KM,Manuelle,5 CV,Essence,5,1 L,,36
+Peugeot,208,2016,164 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,28000
+Mercedes,Classe C,2016,110 340 KM,Manuelle,8 CV,Essence,5,9 L,,90
+Volkswagen,Polo,2001,280 KM,Manuelle,5 CV,Essence,5,5 L,Négociable,16000
+Volkswagen,Polo,1998,555 KM,Manuelle,4 CV,Essence,5,1 L,,13200
+Renault,Clio,2003,304 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,11111
+Chevrolet,AVEO,2012,100 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,18000
+Kia,RIO,2018,101 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,41000
+Peugeot,108,2017,114 KM,Manuelle,4 CV,Essence,5,3 L,Négociable,30000
+Ssangyong,Actyon,2017,260 000 KM,Manuelle,7 CV,Diesel,5,7 L,Négociable,50
+Peugeot,106,1994,450 KM,Manuelle,5 CV,Essence,5,5 L,Négociable,111
+Peugeot,208,2019,95 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,34
+Suzuki,Swift,2018,131 KM,Manuelle,5 CV,Essence,,5,Négociable,34
+Hyundai,I20,2016,245 000 KM,Manuelle,4 CV,Essence,5,2 L,Négociable,34000
+Honda,CIVIC,2020,155 000 KM,Automatique,10 CV,Essence,5,6 L,Négociable,80000
+Fiat,PALIO WEEKEND,2008,120 000 KM,Manuelle,4 CV,Essence,5,3 L,,14500
+Peugeot,106,1997,0 KM,Manuelle,4 CV,Essence,5,31 L,Négociable,11900
+Ford,AUTRE,2013,232 KM,Manuelle,5 CV,Essence,5,3 L,,20500
+Seat,Ibiza,2023,31 000 KM,Automatique,6 CV,Essence,5,1 L,,0
+Kia,RIO,2022,86 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,63500
+Bmw,AUTRE,2009,300 KM,Manuelle,6 CV,Diesel,5,7 L,,1
+Renault,Clio,2024,14 000 KM,Manuelle,6 CV,Essence,5,1 L,Négociable,62500
+Volkswagen,Golf,2012,245 000 KM,Manuelle,6 CV,Diesel,3,7 L,,33500
+Audi,A4,2012,250 000 KM,Manuelle,7 CV,Essence,5,9 L,Négociable,37
+Peugeot,207,2012,260 000 KM,Manuelle,5 CV,Essence,5,5 L,Négociable,26500
+Citroen,C4,2012,192 000 KM,Manuelle,6 CV,Essence,5,5 L,,25000
+Ford,FOCUS,2012,230 000 KM,Manuelle,6 CV,Essence,,7 L,,30000
+Mercedes,Classe Glk,2009,66 000 KM,Automatique,16 CV,Essence,5,21 L,Négociable,80000
+Volkswagen,Jetta,2011,289 000 KM,Manuelle,7 CV,Essence,5,7 L,Négociable,34500
+Mercedes,Classe C,2012,168 350 KM,Automatique,9 CV,Essence,5,7 L,Négociable,80000
+Renault,Clio,2021,150 000 KM,Manuelle,5 CV,Essence,5,5 L,Négociable,44000
+Citroen,AUTRE,2017,140 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,1
+Citroen,AUTRE,2015,154 000 KM,Manuelle,4 CV,Essence,5,1 L,Négociable,23500
+Volkswagen,Golf,2021,100 KM,Manuelle,7 CV,Essence,5,6 L,Négociable,95
+Peugeot,Partner,2011,350 000 KM,Manuelle,7 CV,Diesel,3,10 L,Négociable,17
+Renault,Autres,2017,200 000 KM,Manuelle,5 CV,Essence,5,5 L,,40000
+Hyundai,I10,2017,97 000 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,39900
+Kia,RIO,2022,57 000 KM,Manuelle,5 CV,Essence,5,3 L,,63000
+Renault,Zoe,2010,83 KM,Manuelle,5 CV,Essence,5,3 L,Négociable,28886696
+Renault,Kadjar,2019,160 000 KM,Automatique,7 CV,Essence,,5,Négociable,55000
+Volkswagen,Caddy,2017,180 KM,Manuelle,5 CV,Diesel,3,7 L,Négociable,42
+Mercedes,Classe E,2017,60 000 KM,Automatique,10 CV,Essence,3,7 L,Négociable,185000
+Hyundai,TUCSON,2022,42 000 KM,Automatique,7 CV,Diesel,5,7 L,,135000

@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 
 url_g="https://baniola.tn/voitures"
 
-nbre_page=1
+# nbre_page=39
+nbre_page=2
 n=0
 
 marques = []
@@ -25,13 +26,14 @@ negotiables = []
 total_df = pd.DataFrame()
 
 for n in range(nbre_page):
-    n+=1
-    code_page=requests.get(url_g)
+
+    url=url_g+"?page="+str(n*50)
+
+    code_page=requests.get(url)
 
     soup=BeautifulSoup(code_page.text,'html.parser')
 
-    url=url_g+"?page="+str(n*50)
-    print(url)
+    print('the url now is :',url)
     
     #extraire les liens des voitures pour plus de details:
     links_container=soup.findAll('div',class_='card-body')
@@ -44,13 +46,11 @@ for n in range(nbre_page):
         if link_tag:
             link = link_tag['href']
             links.append(link)
-    # print(links)
     
 
     # extraire les features des voitures à partir de la page details de chaque voiture + les prix:
  
     for link in links:
-        # print(link)
         print('-------------------')
         page_voiture=requests.get(link)
         soup_voiture=BeautifulSoup(page_voiture.text,'html.parser')
@@ -63,48 +63,72 @@ for n in range(nbre_page):
             if price_number:
                 prices.append(price_number.group())
             else:
-                prices.append('N/A')  # Ajouter une valeur par défaut si le prix n'est pas trouvé
+                prices.append(np.nan)  
 
             # Vérifier la présence de l'état de négociation
             if 'Négociable' in price_text:
                 negotiables.append('Négociable')
-            else:
+            elif 'Non Négociable' in price_text:
                 negotiables.append('Non Négociable')
-        print(prices)
-        print(negotiables)
+            else:
+                negotiables.append(np.nan)
+
+        # print(prices)
+        # print(negotiables)
 
         liste_features=soup_voiture.findAll('div',class_='value')
-        print(liste_features.__len__())
+        # print(liste_features.__len__())
         for i in range(len(liste_features)):
 
             feature=liste_features[i].text.strip()
-            print(feature)
+            # print(feature)
 
-            if i == 0:
-                marques.append(feature)
-            elif i == 1:
-                modeles.append(feature)
-            elif i == 2:
-                years.append(feature)
-            elif i == 3:
-                puissances_fiscales.append(feature)
-            elif i == 4:
-                kilometrages.append(feature)
-            elif i == 5:
-                boites.append(feature)
-            elif i == 6:
-                fuels.append(feature)
-            elif i == 7:
-                cylindres.append(feature)
-            elif i == 8:
-                nbre_portes.append(feature)
-        # Ajouter NaN pour les valeurs manquantes
+            if feature:
+                if i == 0:
+                    marques.append(feature)
+                elif i == 1:
+                    modeles.append(feature)
+                elif i == 2:
+                    years.append(feature)
+                elif i == 3:
+                    puissances_fiscales.append(feature)
+                elif i == 4:
+                    kilometrages.append(feature)
+                elif i == 5:
+                    boites.append(feature)
+                elif i == 6:
+                    fuels.append(feature)
+                elif i == 7:
+                    cylindres.append(feature)
+                elif i == 8:
+                    nbre_portes.append(feature)
+            else:
+                if i == 0:
+                    marques.append(np.nan)
+                elif i == 1:
+                    modeles.append(np.nan)
+                elif i == 2:
+                    years.append(np.nan)
+                elif i == 3:
+                    puissances_fiscales.append(np.nan)
+                elif i == 4:
+                    kilometrages.append(np.nan)
+                elif i == 5:
+                    boites.append(np.nan)
+                elif i == 6:
+                    fuels.append(np.nan)
+                elif i == 7:
+                    cylindres.append(np.nan)
+                elif i == 8:
+                    nbre_portes.append(np.nan)
+
+     
         if len(cylindres) < len(prices):
             cylindres.append(np.nan)
-            print(len(cylindres))
+            # print(len(cylindres))
         if len(nbre_portes) < len(prices):
             nbre_portes.append(np.nan)
-            print(len(nbre_portes))
+            # print(len(nbre_portes))
                 
     if len(prices) == len(marques) == len(modeles) == len(kilometrages) == len(years) == len(boites) == len(puissances_fiscales) == len(fuels) == len(negotiables) == len(cylindres) == len(nbre_portes):
             data = {
@@ -122,8 +146,8 @@ for n in range(nbre_page):
             }
             df = pd.DataFrame(data)
             print(df)
-            df.to_csv('cars.csv', index=False)
+            
     total_df = pd.concat([total_df, df], ignore_index=True)
 
-    total_df.to_csv('data/baniola.csv', index=False)
+    total_df.to_csv('../data/baniola.csv', index=False)
     print(df)

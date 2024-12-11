@@ -1,25 +1,25 @@
-Marque,Modèle,road,year,boite,transmission,horsepower,fuel,Prix,Nombre de portes,Cylindrée
-Mercedes-Benz,GLA AMG,150 000 km,2017,Automatique,Propulsion,7 cv,Essence,105 000,5,2200
-Peugeot,208,110 000 km,2015,Manuelle,Traction,5 cv,Essence,29 000,5,1995
-BMW,Série 3 coupé Kit M///,152 000 km,2012,Manuelle,Traction,10 cv,Essence,74 000,4,1198
-Mercedes-Benz,Classe C AMG,200 000 km,2011,Automatique,Traction,9 cv,Essence,71 000,5,1388
-Toyota,C-HR Sport,162 000 km,2020,Automatique,Traction,6 cv,Essence,73 000,5,1599
-Seat,Ibiza,98 000 km,2019,Manuelle,Traction,4 cv,Essence,51 000,4,1595
-Toyota,C-HR,80 000 km,2020,Automatique,Traction,6 cv,Essence,75 000,4,1400
-Mercedes-Benz,Classe E AMG,98 000 km,2021,Automatique,Traction,11 cv,Hybride,228 000,5,1500
-Mahindra,KUV 100 K6+,47 000 km,2021,Manuelle,Traction,5 cv,Essence,32 500,5,1400
-Volkswagen,Tiguan,123 000 km,2021,Manuelle,Traction,8 cv,Essence,95 000,4,1998
-Fiat,500 Dolcevita,78 000 km,2021,Manuelle,Traction,4 cv,Hybride,55 000,4,1598
-Fiat,Tipo 5 portes,68 000 km,2021,Manuelle,Traction,5 cv,Essence,49 500,5,999
-Mercedes-Benz,GLA AMG,150 000 km,2017,Automatique,Propulsion,7 cv,Essence,105 000,5,2200
-Peugeot,208,110 000 km,2015,Manuelle,Traction,5 cv,Essence,29 000,5,1995
-BMW,Série 3 coupé Kit M///,152 000 km,2012,Manuelle,Traction,10 cv,Essence,74 000,4,1198
-Mercedes-Benz,Classe C AMG,200 000 km,2011,Automatique,Traction,9 cv,Essence,71 000,5,1388
-Toyota,C-HR Sport,162 000 km,2020,Automatique,Traction,6 cv,Essence,73 000,5,1599
-Seat,Ibiza,98 000 km,2019,Manuelle,Traction,4 cv,Essence,51 000,4,1595
-Toyota,C-HR,80 000 km,2020,Automatique,Traction,6 cv,Essence,75 000,4,1400
-Mercedes-Benz,Classe E AMG,98 000 km,2021,Automatique,Traction,11 cv,Hybride,228 000,5,1500
-Mahindra,KUV 100 K6+,47 000 km,2021,Manuelle,Traction,5 cv,Essence,32 500,5,1400
-Volkswagen,Tiguan,123 000 km,2021,Manuelle,Traction,8 cv,Essence,95 000,4,1998
-Fiat,500 Dolcevita,78 000 km,2021,Manuelle,Traction,4 cv,Hybride,55 000,4,1598
-Fiat,Tipo 5 portes,68 000 km,2021,Manuelle,Traction,5 cv,Essence,49 500,5,999
+Marque,Modèle,year,road,boite,horsepower,fuel,nombre_de_portes,cylindrée,transmission,Prix
+Volkswagen,Polo,2004,193 000 km,Manuelle,5 cv,Essence,5,1000,Propulsion,16 400
+Land,Rover Range Rover Evoque,2014,198 000 km,Automatique,11 cv,Diesel,5,1197,Intégrale,110 000
+Mercedes-Benz,GLA AMG,2017,150 000 km,Automatique,7 cv,Essence,4,3000,Propulsion,105 000
+Peugeot,208,2015,110 000 km,Manuelle,5 cv,Essence,5,1498,Traction,29 000
+BMW,Série 3 coupé Kit M///,2012,152 000 km,Manuelle,10 cv,Essence,5,2000,Traction,74 000
+Mercedes-Benz,Classe C AMG,2011,200 000 km,Automatique,9 cv,Essence,5,1598,Traction,71 000
+Toyota,C-HR Sport,2020,162 000 km,Automatique,6 cv,Essence,5,1399,Traction,73 000
+Seat,Ibiza,2019,98 000 km,Manuelle,4 cv,Essence,4,1598,Traction,51 000
+Toyota,C-HR,2020,80 000 km,Automatique,6 cv,Essence,5,1600,Traction,75 000
+Mercedes-Benz,Classe E AMG,2021,98 000 km,Automatique,11 cv,Hybride,5,2000,Traction,228 000
+Mahindra,KUV 100 K6+,2021,47 000 km,Manuelle,5 cv,Essence,5,1197,Traction,32 500
+Volkswagen,Tiguan,2021,123 000 km,Manuelle,8 cv,Essence,4,1498,Traction,95 000
+Volkswagen,Polo,2004,193 000 km,Manuelle,5 cv,Essence,5,1000,Propulsion,16 400
+Land,Rover Range Rover Evoque,2014,198 000 km,Automatique,11 cv,Diesel,5,1197,Intégrale,110 000
+Mercedes-Benz,GLA AMG,2017,150 000 km,Automatique,7 cv,Essence,4,3000,Propulsion,105 000
+Peugeot,208,2015,110 000 km,Manuelle,5 cv,Essence,5,1498,Traction,29 000
+BMW,Série 3 coupé Kit M///,2012,152 000 km,Manuelle,10 cv,Essence,5,2000,Traction,74 000
+Mercedes-Benz,Classe C AMG,2011,200 000 km,Automatique,9 cv,Essence,5,1598,Traction,71 000
+Toyota,C-HR Sport,2020,162 000 km,Automatique,6 cv,Essence,5,1399,Traction,73 000
+Seat,Ibiza,2019,98 000 km,Manuelle,4 cv,Essence,4,1598,Traction,51 000
+Toyota,C-HR,2020,80 000 km,Automatique,6 cv,Essence,5,1600,Traction,75 000
+Mercedes-Benz,Classe E AMG,2021,98 000 km,Automatique,11 cv,Hybride,5,2000,Traction,228 000
+Mahindra,KUV 100 K6+,2021,47 000 km,Manuelle,5 cv,Essence,5,1197,Traction,32 500
+Volkswagen,Tiguan,2021,123 000 km,Manuelle,8 cv,Essence,4,1498,Traction,95 000
