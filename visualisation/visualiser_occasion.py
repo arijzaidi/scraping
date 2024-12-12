@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Charger les données
-df = pd.read_csv('cars.csv')
+df = pd.read_csv('../dataaaa/final_data.csv')
 
 # Convertir les colonnes numériques
 df['road'] = pd.to_numeric(df['road'].str.replace(' ', ''), errors='coerce')
