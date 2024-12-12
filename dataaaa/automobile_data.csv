@@ -1,0 +1,1201 @@
+Marque,Modèle,year,road,boite,horsepower,fuel,nbre_portes,cylindrée,transmission,Prix
+Peugeot,Partner,2014,220 000 km,Manuelle,5 cv,Diesel,,,Traction,37
+Mercedes-Benz,Classe E AMG,2018,95 000 km,Automatique,9 cv,Essence,4,1499,Traction,155
+Land,Rover Range Rover Evoque R-Dynamic,2016,150 000 km,Automatique,10 cv,Diesel,5,1111,Propulsion,122
+Mercedes-Benz,Classe C AMG,2019,135 000 km,Automatique,8 cv,Essence,5,999,Traction,161
+BMW,Série 4 Gran Coupé,2019,90 000 km,Automatique,7 cv,Essence,4,1968,Traction,145
+Mercedes-Benz,GLA AMG,2023,20 000 km,Automatique,7 cv,Essence,4,1500,Traction,189
+Mercedes-Benz,Classe C coupé AMG,2019,86 000 km,Automatique,10 cv,Hybride,5,1200,Traction,178
+Land,Rover Range Rover Velar R-Dynamic,2020,55 000 km,Automatique,10 cv,Diesel,4,3000,Propulsion,258
+Mercedes-Benz,Classe S S 350 phase 2,2010,165 000 km,Automatique,18 cv,Essence,5,1498,Traction,122
+Hyundai,Kona Hybride N Line,2020,19 500 km,Automatique,6 cv,Hybride,5,1599,Intégrale,97
+Audi,Q3,2019,110 000 km,Automatique,9 cv,Essence,4,1400,Propulsion,112
+Porsche,Cayenne,2012,195 000 km,Automatique,21 cv,Essence,4,3000,Propulsion,152
+MG,HS Trophy,2021,35 000 km,Automatique,15 cv,Essence,5,3000,Traction,103
+Volkswagen,Golf 7 Join,2018,83 000 km,Manuelle,4 cv,Essence,2,1999,Propulsion,72
+Mercedes-Benz,Classe S S350. Toit ouvrant,2009,147 000 km,Automatique,19 cv,Essence,5,1498,Traction,98
+Mercedes-Benz,Classe C,2022,7 300 km,Automatique,9 cv,Essence,5,2799,Propulsion,230
+KIA,Sportage SX,2022,37 000 km,Automatique,10 cv,Essence,5,3000,Intégrale,139
+Mercedes-Benz,Classe C Classic,2019,125 000 km,Automatique,8 cv,Essence,4,1998,Propulsion,103
+Volkswagen,Golf 7 GTI,2016,75 000 km,Automatique,13 cv,Essence,4,1798,Traction,102
+Ssangyong,Tivoli Confort Plus,2016,127 000 km,Automatique,7 cv,Essence,4,2200,Traction,59
+BMW,Série 3 318i Pack sport,2019,89 000 km,Automatique,7 cv,Essence,5,1499,Traction,89
+Haval,H6 Luxury,2022,80 000 km,Automatique,8 cv,Essence,4,1600,Traction,98
+Audi,A3 Berline BVA,2020,17 000 km,Manuelle,6 cv,Essence,5,1200,Traction,88
+Jeep,Wrangler Sahara,2018,115 000 km,Automatique,20 cv,Essence,,,Traction,225
+Peugeot,3008 Allure,2019,38 000 km,Automatique,7 cv,Essence,4,1498,Traction,88
+Mercedes-Benz,Classe C Avantgarde,2022,27 000 km,Automatique,8 cv,Essence,4,1591,Traction,159
+Peugeot,3008 Allure,2020,75 000 km,Automatique,6 cv,Essence,5,1998,Traction,75
+BMW,X4,2018,140 000 km,Automatique,10 cv,Diesel,5,2925,Traction,139
+Volkswagen,Polo R-Line,2020,70 000 km,Manuelle,4 cv,Essence,5,3000,Traction,65
+Volkswagen,Golf 7 BVA,2020,200 000 km,Automatique,5 cv,Essence,5,1600,Traction,69
+BMW,Série 1 Pack Sport M,2016,165 000 km,Automatique,7 cv,Essence,4,999,Traction,75
+Hyundai,Tucson Top Grade,2022,40 000 km,Automatique,10 cv,Essence,5,1000,Intégrale,147
+Lada,4x4 Urban,2020,58 000 km,Manuelle,7 cv,Essence,5,1190,Traction,41
+Mercedes-Benz,Classe X,2020,68 000 km,Automatique,8 cv,Diesel,4,1389,Traction,205
+Seat,Arona Xperience,2022,47 000 km,Automatique,6 cv,Essence,5,2996,Traction,81
+Toyota,Corolla Dynamic,2020,85 000 km,Automatique,6 cv,Essence,4,2000,Traction,69
+Fiat,500X Pop Star,2018,60 000 km,Automatique,7 cv,Essence,4,1497,Traction,65
+Land,Rover Discovery,2015,170 000 km,Automatique,15 cv,Essence,4,1198,Traction,115
+Haval,Jolion,2021,40 000 km,Automatique,9 cv,Essence,4,1600,Traction,88
+Toyota,C-HR,2018,130 000 km,Automatique,6 cv,Essence,5,1199,Traction,73
+Nissan,Juke Tekna,2024,6 000 km,Automatique,6 cv,Essence,4,999,Traction,92
+Mercedes-Benz,Classe C AMG,2023,20 000 km,Automatique,9 cv,Essence,4,1400,Traction,255
+Mercedes-Benz,CLA Kit Amg 200,2020,150 000 km,Manuelle,9 cv,Essence,5,1000,Traction,129
+Seat,Ibiza Xcellence,2021,68 000 km,Manuelle,6 cv,Essence,5,1198,Traction,62
+KIA,Rio 5p SX,2020,70 000 km,Manuelle,5 cv,Essence,5,1598,Traction,57
+MG,ZS Luxury,2022,20 000 km,Automatique,7 cv,Essence,4,999,Traction,72
+Chery,Tiggo 7 Pro,2024,0 km,Automatique,9 cv,Essence,4,1500,Traction,101
+Audi,Q3 BVA,2023,3 000 km,Automatique,9 cv,Essence,5,1499,Traction,165
+Peugeot,408 GT,2024,10 000 km,Automatique,11 cv,Essence,5,1136,Traction,155
+BMW,Série 6 Face Lift,2009,190 000 km,Automatique,17 cv,Essence,5,2500,Traction,85
+Land,Rover Range Rover Sport HSE Dynamic,2016,300 000 km,Automatique,19 cv,Diesel,5,3000,Traction,189
+KIA,Rio 5p GT-Line,2021,70 000 km,Manuelle,5 cv,Essence,4,1193,Traction,62
+KIA,Sportage GT-Line,2024,15 000 km,Automatique,7 cv,Hybride,5,1499,Traction,188
+Mercedes-Benz,GLA 250e Pack AMG,2023,26 000 km,Automatique,8 cv,Hybride,3,4000,Traction,225
+Mahindra,Pick-up SC,2021,120 000 km,Manuelle,7 cv,Diesel,,,Traction,39
+Peugeot,3008,2020,112 000 km,Automatique,7 cv,Essence,5,1993,Traction,69
+KIA,Rio 5p GT-Line,2023,9 000 km,Manuelle,5 cv,Essence,5,1398,Traction,73
+Mercedes-Benz,Classe C Pack AMG Pack night,2019,120 000 km,Automatique,10 cv,Hybride,5,1200,Traction,152
+Peugeot,3008 GT GT-line,2020,125 000 km,Automatique,6 cv,Essence,2,2000,Traction,89
+MG,HS Luxury,2020,87 000 km,Automatique,9 cv,Essence,4,1200,Traction,77
+Mercedes-Benz,GLA AMG,2021,90 000 km,Automatique,9 cv,Essence,5,1499,Traction,173
+BMW,Série 4 Coupé 420i,2015,180 000 km,Automatique,10 cv,Essence,5,1400,Traction,87
+Chery,Tiggo 7 Pro,2022,40 000 km,Automatique,9 cv,Essence,5,1000,Traction,88
+Suzuki,Jimny,2023,20 000 km,Automatique,6 cv,Essence,5,1999,Traction,98
+Mercedes-Benz,CLA Kit AMG,2014,124 000 km,Automatique,9 cv,Essence,4,1595,Traction,83
+Citroën,C3 Shine,2018,88 000 km,Manuelle,4 cv,Essence,5,1300,Traction,37
+Mercedes-Benz,Classe C coupé AMG,2012,200 000 km,Automatique,9 cv,Essence,5,2996,Traction,63
+Renault,Clio 4,2021,120 000 km,Manuelle,5 cv,Essence,5,1300,Traction,45
+Mini,3 portes One,2009,200 000 km,Manuelle,5 cv,Essence,5,1599,Traction,29
+Hyundai,Tucson High Grade,2023,19 000 km,Automatique,9 cv,Essence,5,2925,Traction,129
+Nissan,Juke Tekna,2021,53 000 km,Automatique,6 cv,Essence,5,999,Traction,87
+Jeep,Renegade,2021,88 000 km,Automatique,8 cv,Essence,2,1798,Traction,88
+Mercedes-Benz,Classe C AMG,2019,120 000 km,Automatique,10 cv,Hybride,4,1998,Traction,152
+Ford,Mondeo Hybride,2020,34 000 km,Automatique,7 cv,Hybride,5,1600,Traction,109
+Land,Rover Range Rover Evoque,2018,145 000 km,Automatique,8 cv,Diesel,5,1190,Traction,120
+Volkswagen,Passat,2016,160 000 km,Manuelle,6 cv,Essence,4,1999,Traction,59
+Haval,H6,2022,16 000 km,Automatique,8 cv,Essence,2,1600,Traction,117
+Haval,H6 Luxury,2021,55 000 km,Automatique,9 cv,Essence,4,2499,Traction,85
+Volkswagen,Golf 8 1.4,2022,40 000 km,Automatique,6 cv,Essence,4,2500,Traction,105
+Jaguar,F-Pace R_Dynamic,2017,165 000 km,Automatique,10 cv,Diesel,5,1200,Traction,179
+Renault,Kadjar,2018,140 000 km,Automatique,7 cv,Essence,4,3000,Traction,70
+Toyota,Corolla,2022,24 000 km,Automatique,6 cv,Essence,5,1998,Traction,79
+Peugeot,308,2020,128 000 km,Manuelle,6 cv,Essence,5,1197,Traction,47
+Mercedes-Benz,Classe C coupé AMG,2018,130 000 km,Automatique,8 cv,Essence,4,899,Traction,167
+Citroën,C3 Shine,2020,45 000 km,Manuelle,4 cv,Essence,4,1995,Traction,47
+Ford,Focus Titanium,2015,200 000 km,Manuelle,6 cv,Essence,5,2143,Traction,40
+Porsche,Panamera,2011,82 000 km,Automatique,20 cv,Essence,4,1600,Traction,178
+KIA,Seltos,2021,130 000 km,Automatique,8 cv,Essence,4,4000,Traction,89
+Seat,Ibiza FR,2023,40 000 km,Automatique,6 cv,Essence,4,1600,Propulsion,81
+Alfa,Romeo Giulietta,2019,37 000 km,Automatique,7 cv,Essence,5,1500,Traction,77
+Land,Rover Discovery R-DYNAMIC,2020,87 000 km,Automatique,8 cv,Diesel,5,2000,Traction,235
+Volkswagen,Golf 7 Confortline,2013,190 000 km,Automatique,6 cv,Essence,5,1598,Traction,49
+Renault,Megane 4 Diesel,2020,125 000 km,Manuelle,5 cv,Diesel,4,1500,Traction,64
+KIA,Rio 5p GT-Line,2021,60 000 km,Manuelle,5 cv,Essence,5,1198,Traction,65
+Fiat,Fiorino,2021,120 000 km,Manuelle,5 cv,Diesel,4,2000,Traction,35
+Dacia,Duster Techroad,2020,35 000 km,Manuelle,6 cv,Essence,5,1499,Traction,75
+BMW,Série 5 530e Xdrive Pack m,2021,50 000 km,Automatique,10 cv,Hybride,4,2000,Traction,278
+BMW,Série 4 Gran Coupé 418 Luxury,2016,133 000 km,Automatique,7 cv,Essence,5,1799,Traction,97
+Volkswagen,Passat R-Line DSG,2022,40 000 km,Automatique,7 cv,Essence,,,Traction,125
+Toyota,Hilux Double Cabine Gr Sport,2024,7 000 km,Manuelle,9 cv,Diesel,4,1498,Traction,290
+Toyota,C-HR,2022,55 000 km,Automatique,6 cv,Essence,5,1566,Traction,91
+Audi,A5 Sportback S-Line,2019,120 000 km,Automatique,8 cv,Essence,4,2000,Traction,109
+Peugeot,2008,2021,100 000 km,Manuelle,6 cv,Diesel,5,1400,Traction,80
+KIA,Rio 5p,2022,85 000 km,Manuelle,5 cv,Essence,3,1000,Traction,59
+Honda,CR-V,2018,67 000 km,Automatique,11 cv,Essence,5,1000,Traction,91
+Audi,Q5 S-line,2021,40 000 km,Automatique,11 cv,Diesel,,,Traction,295
+KIA,Sportage Hybride,2021,114 000 km,Automatique,7 cv,Hybride,4,999,Traction,107
+KIA,Sportage GT-Line,2021,19 000 km,Manuelle,7 cv,Diesel,2,1200,Traction,128
+Dacia,Duster Techroad,2020,34 000 km,Manuelle,6 cv,Essence,5,1198,Traction,76
+Mercedes-Benz,Classe S,2022,3 000 km,Automatique,16 cv,Hybride,5,2000,Traction,630
+BMW,X5 Hybride Xdrive E45,2021,19 000 km,Automatique,15 cv,Hybride,4,1198,Traction,455
+Hyundai,Tucson Hybride Xcellence,2022,120 000 km,Automatique,10 cv,Hybride,4,1991,Traction,138
+BMW,Série 1 I Pack Sport,2019,200 000 km,Automatique,7 cv,Essence,,,Traction,75
+KIA,Sportage GT-Line,2017,140 000 km,Automatique,10 cv,Diesel,5,1796,Traction,105
+Mercedes-Benz,Classe C AMG,2023,50 000 km,Automatique,9 cv,Essence,5,1200,Traction,235
+Jaguar,XE,2017,140 000 km,Automatique,9 cv,Diesel,5,899,Traction,120
+Peugeot,Rifter,2020,95 000 km,Manuelle,7 cv,Diesel,5,1400,Traction,72
+BMW,Série 7 740LI,2010,98 000 km,Automatique,23 cv,Essence,4,1398,Traction,110
+Peugeot,Rifter 5 places,2020,95 000 km,Manuelle,7 cv,Diesel,5,1226,Traction,72
+Land,Rover Range Rover Evoque Hybride,2019,50 000 km,Automatique,9 cv,Diesel,5,2899,Traction,187
+Ford,Mondeo Hybride,2020,32 000 km,Automatique,7 cv,Hybride,2,1591,Traction,115
+KIA,Rio 5p GT-Line,2021,64 000 km,Manuelle,5 cv,Essence,4,1598,Traction,64
+Mercedes-Benz,GLC AMG,2017,115 000 km,Automatique,12 cv,Essence,4,1600,Traction,169
+Mini,5 portes One,2016,78 000 km,Manuelle,6 cv,Essence,4,2000,Traction,57
+Citroën,C3 Shine,2020,28 000 km,Manuelle,4 cv,Essence,5,1197,Traction,48
+Audi,A3 Berline,2019,50 000 km,Automatique,6 cv,Essence,5,999,Traction,85
+KIA,Sportage,2019,127 000 km,Automatique,8 cv,Essence,5,1500,Traction,83
+Mercedes-Benz,GLA AMG,2023,12 000 km,Automatique,11 cv,Essence,5,4198,Traction,235
+Audi,Q3,2017,95 000 km,Automatique,7 cv,Essence,5,1000,Traction,95
+Mercedes-Benz,GLB 200 d,2021,111 000 km,Automatique,9 cv,Diesel,,,Traction,210
+Audi,A4 Face_lift,2016,143 000 km,Automatique,7 cv,Essence,5,1400,Traction,58
+Land,Rover Range Rover Evoque Face_lift,2016,170 000 km,Automatique,15 cv,Essence,5,999,Traction,95
+BMW,Série 1 Pack M,2020,40 000 km,Automatique,7 cv,Essence,3,999,Traction,135
+Land,Rover Range Rover Evoque Hybride,2019,40 000 km,Automatique,9 cv,Diesel,5,1200,Traction,195
+Haval,H6 Luxury,2020,120 000 km,Automatique,9 cv,Essence,5,1600,Traction,79
+Iveco,Daily Simple Cabine,2022,40 000 km,Manuelle,10 cv,Diesel,4,1998,Propulsion,105
+Land,Rover Discovery Sport,2017,128 000 km,Automatique,8 cv,Diesel,5,1611,Traction,128
+Haval,H6 Luxury,2021,40 000 km,Automatique,9 cv,Essence,4,1998,Traction,90
+KIA,Sportage Hybride,2020,140 000 km,Automatique,7 cv,Hybride,4,1498,Traction,98
+KIA,Sportage,2019,125 000 km,Automatique,8 cv,Essence,,,Traction,85
+Hyundai,Tucson Hybride,2021,80 000 km,Automatique,7 cv,Hybride,5,1999,Traction,137
+Audi,Q5 QUATTRO 40 TDI,2019,170 000 km,Automatique,12 cv,Diesel,4,2000,Traction,165
+Fiat,Panda City Cross,2020,52 000 km,Manuelle,4 cv,Essence,4,1498,Traction,43
+Volkswagen,Golf 6 Match,2012,240 000 km,Manuelle,6 cv,Diesel,4,1598,Traction,45
+Ford,Ranger Raptor,2022,100 000 km,Automatique,7 cv,Diesel,3,1200,Traction,228
+BMW,Série 4 Coupé Pack M,2021,140 000 km,Automatique,7 cv,Essence,5,999,Traction,130
+Mercedes-Benz,Classe B,2014,100 000 km,Manuelle,7 cv,Essence,4,1498,Traction,48
+MG,ZS Luxury,2022,80 000 km,Automatique,7 cv,Essence,5,3000,Traction,75
+Land,Rover Range Rover Evoque Hybride,2019,60 000 km,Automatique,8 cv,Diesel,4,1599,Traction,210
+Renault,Kadjar,2019,70 000 km,Manuelle,7 cv,Essence,4,1200,Traction,68
+Mazda,3 Sky active,2017,103 000 km,Manuelle,6 cv,Essence,4,1200,Traction,56
+Audi,Q8 S_Line,2021,16 000 km,Automatique,23 cv,Essence,5,3200,Traction,398
+Mercedes-Benz,Classe C coupé AMG,2019,50 000 km,Automatique,9 cv,Essence,4,1600,Traction,173
+MG,ZS,2022,35 000 km,Manuelle,7 cv,Essence,5,1599,Traction,78
+Suzuki,Baleno,2017,160 000 km,Automatique,5 cv,Essence,4,1332,Traction,40
+KIA,Sportage,2019,69 000 km,Automatique,8 cv,Essence,5,1200,Traction,95
+Ford,Kuga,2017,100 000 km,Manuelle,8 cv,Essence,3,899,Traction,69
+Mercedes-Benz,CLS AMG,2011,160 000 km,Automatique,11 cv,Diesel,5,1496,Traction,119
+Mercedes-Benz,GLA 180 Pack AMG,2022,40 000 km,Automatique,7 cv,Essence,4,5555,Traction,185
+Seat,Arona,2021,26 000 km,Manuelle,6 cv,Essence,4,2998,Traction,73
+Toyota,Corolla,2021,90 000 km,Automatique,6 cv,Essence,4,4244,Traction,71
+Haval,H6 Luxury,2020,115 000 km,Automatique,9 cv,Essence,5,1400,Traction,79
+Skoda,Superb Ambassador,2021,30 000 km,Automatique,8 cv,Essence,4,1200,Traction,125
+MG,6,2021,22 000 km,Automatique,8 cv,Essence,5,1500,Traction,79
+Mercedes-Benz,GLC Coupé AMG,2017,190 000 km,Automatique,9 cv,Diesel,5,1000,Traction,189
+Mercedes-Benz,Classe C 180 elegance,2016,170 000 km,Automatique,8 cv,Essence,5,1197,Traction,89
+Mercedes-Benz,GLC Coupé AMG,2020,69 000 km,Automatique,12 cv,Hybride,4,1300,Traction,278
+Mercedes-Benz,Classe E 180,2018,90 000 km,Automatique,9 cv,Essence,5,1200,Traction,135
+Ssangyong,Actyon Sports,2017,200 000 km,Manuelle,7 cv,Diesel,5,998,Traction,42
+DS,3,2012,138 000 km,Automatique,6 cv,Essence,5,1300,Traction,35
+Nissan,Qashqai,2011,147 000 km,Automatique,9 cv,Essence,4,1198,Traction,43
+BMW,Série 5 Confort Luxury,2015,200 000 km,Automatique,10 cv,Essence,5,1500,Traction,90
+Volkswagen,Passat R-Line,2019,100 000 km,Automatique,8 cv,Essence,5,1499,Traction,101
+Land,Rover Discovery Sport,2017,160 000 km,Automatique,8 cv,Diesel,4,1198,Traction,125
+Citroën,C3 Shine,2019,90 000 km,Manuelle,4 cv,Essence,4,1800,Traction,44
+Volkswagen,Amarok,2012,370 000 km,Manuelle,7 cv,Diesel,5,1591,Traction,49
+Mercedes-Benz,Classe E Business,2022,8 000 km,Automatique,9 cv,Essence,5,1800,Traction,291
+Mini,3 portes one,2013,140 000 km,Manuelle,4 cv,Essence,4,1500,Traction,37
+BMW,Série 1,2017,126 000 km,Manuelle,7 cv,Essence,4,1600,Traction,68
+Toyota,Hilux Double Cabine 4*4,2024,3 000 km,Manuelle,8 cv,Essence,4,1499,Traction,231
+Peugeot,2008 Allure,2022,34 000 km,Automatique,7 cv,Essence,4,1800,Traction,97
+Mercedes-Benz,Classe A AMG,2022,20 000 km,Automatique,8 cv,Essence,5,1197,Traction,158
+Volkswagen,Passat R-Line,2020,60 000 km,Automatique,8 cv,Essence,5,1395,Traction,106
+Volkswagen,Tiguan,2018,60 000 km,Automatique,7 cv,Essence,5,1499,Traction,90
+Mercedes-Benz,Classe C AMG,2014,160 000 km,Automatique,9 cv,Essence,5,1200,Traction,99
+Chery,Tiggo 8 Pro,2022,80 000 km,Automatique,11 cv,Essence,4,1400,Traction,96
+BYD,F3,2022,10 000 km,Manuelle,7 cv,Essence,5,1600,Traction,47
+Citroën,C3 Shine,2019,58 000 km,Manuelle,5 cv,Essence,4,1500,Traction,44
+BMW,Série 4 Coupé 420i Pack M,2015,160 000 km,Automatique,10 cv,Essence,5,1590,Traction,107
+Audi,Q3 S-line,2017,100 000 km,Automatique,7 cv,Essence,2,1468,Traction,90
+Volkswagen,Golf 8 United,2020,26 000 km,Manuelle,6 cv,Essence,5,1499,Traction,109
+Peugeot,208,2020,60 000 km,Manuelle,4 cv,Essence,5,1600,Traction,35
+Audi,A5 Cabriolet S-line,2010,120 000 km,Automatique,10 cv,Essence,5,1499,Traction,59
+Honda,Accord,2022,11 000 km,Automatique,10 cv,Essence,4,999,Traction,135
+Volkswagen,Golf 7,2019,40 000 km,Manuelle,5 cv,Essence,5,1499,Traction,74
+KIA,Sportage,2020,40 000 km,Automatique,8 cv,Essence,5,1000,Traction,119
+BMW,Série 2 Gran Coupé 218i,2022,21 000 km,Automatique,8 cv,Essence,4,1497,Traction,135
+Fiat,Tipo 5 portes,2018,75 000 km,Manuelle,5 cv,Essence,5,1598,Traction,46
+Haval,H6,2022,13 000 km,Automatique,8 cv,Essence,4,1999,Traction,150
+Volkswagen,Golf 7 Smartline,2015,140 000 km,Automatique,5 cv,Essence,4,1660,Traction,52
+Haval,H6 Luxury,2019,90 000 km,Automatique,9 cv,Essence,2,2800,Traction,78
+Chevrolet,Cruze,2018,90 000 km,Manuelle,7 cv,Essence,5,1799,Traction,40
+Volkswagen,Golf 7,2019,29 000 km,Manuelle,6 cv,Essence,4,2450,Traction,76
+Mercedes-Benz,Classe E 200,2010,330 000 km,Automatique,10 cv,Essence,4,998,Traction,51
+Mercedes-Benz,Classe E e220,2011,330 000 km,Automatique,9 cv,Diesel,5,2000,Traction,77
+Volkswagen,Golf 8 R-Line,2021,40 000 km,Automatique,8 cv,Essence,4,1595,Traction,145
+Mercedes-Benz,Classe C AMG,2023,16 000 km,Automatique,9 cv,Essence,5,1198,Traction,240
+Dodge,RAM Rumble bee,2019,65 000 km,Automatique,18 cv,Essence,5,4395,Traction,212
+Mercedes-Benz,CLA,2014,163 000 km,Automatique,7 cv,Essence,5,1499,Traction,81
+Haval,H2 Luxury,2019,40 000 km,Automatique,9 cv,Essence,5,1600,Traction,69
+Haval,H6 Luxury,2019,32 000 km,Automatique,9 cv,Essence,4,1498,Traction,86
+Mercedes-Benz,CLA AMG,2021,30 000 km,Automatique,7 cv,Essence,4,1200,Traction,169
+Mercedes-Benz,Classe A 180d,2019,50 000 km,Automatique,6 cv,Diesel,4,999,Traction,98
+Volkswagen,Golf 7,2019,64 000 km,Automatique,6 cv,Essence,4,1998,Traction,74
+Audi,A3 Sportback S-Line,2019,70 000 km,Automatique,7 cv,Essence,5,1395,Traction,95
+Mercedes-Benz,Classe C AMG,2022,40 000 km,Automatique,9 cv,Essence,5,2143,Traction,205
+DS,7 Crossback Grand Chic,2021,140 000 km,Automatique,10 cv,Essence,5,1200,Traction,105
+Mercedes-Benz,Classe C AMG,2022,50 000 km,Automatique,9 cv,Essence,5,1400,Traction,264
+Volkswagen,Golf 7 Join,2018,70 000 km,Automatique,6 cv,Essence,4,1600,Traction,84
+Mercedes-Benz,CLA 220,2013,240 000 km,Automatique,9 cv,Diesel,2,1219,Traction,79
+BMW,X6 Pack M,2008,270 000 km,Automatique,15 cv,Diesel,5,1000,Traction,110
+Audi,A5 Cabriolet S-line,2010,120 000 km,Automatique,10 cv,Essence,5,1200,Traction,59
+Seat,Leon Style,2020,65 000 km,Manuelle,6 cv,Essence,3,1999,Traction,73
+Citroën,Berlingo Utilitaire,2018,170 000 km,Manuelle,5 cv,Diesel,5,1400,Traction,37
+KIA,Sportage,2022,23 000 km,Automatique,10 cv,Essence,3,1300,Traction,143
+Volkswagen,Golf 7,2019,180 000 km,Automatique,5 cv,Essence,5,1198,Traction,64
+Mercedes-Benz,Classe S Executive,2008,170 000 km,Automatique,19 cv,Essence,4,900,Traction,78
+Volkswagen,Tiguan Confortline,2020,33 000 km,Automatique,8 cv,Essence,5,999,Traction,128
+Volkswagen,Golf 7 R-Line,2018,130 000 km,Manuelle,6 cv,Essence,2,2000,Traction,80
+Hyundai,Kona,2021,30 000 km,Manuelle,6 cv,Hybride,4,1999,Traction,79
+Seat,Leon FR,2022,70 000 km,Automatique,8 cv,Essence,5,1591,Traction,122
+Hyundai,Grand i10,2022,30 000 km,Manuelle,5 cv,Essence,,,Traction,53
+Peugeot,2008 GT_LINE,2021,30 000 km,Manuelle,7 cv,Essence,5,2000,Traction,92
+Mercedes-Benz,Classe C coupé AMG,2019,40 000 km,Automatique,9 cv,Essence,5,1200,Traction,179
+KIA,Sportage GT-Line,2021,120 000 km,Automatique,6 cv,Hybride,4,1700,Traction,119
+BMW,Série 3 318i,2017,117 000 km,Automatique,7 cv,Essence,5,1800,Traction,88
+Chery,Tiggo 2 Confort,2020,60 000 km,Manuelle,6 cv,Essence,4,1199,Traction,43
+Haval,Jolion,2022,40 000 km,Automatique,9 cv,Essence,4,1800,Traction,87
+Mercedes-Benz,Classe C AMG,2022,40 000 km,Automatique,9 cv,Essence,5,1993,Traction,208
+Hyundai,Grand i10,2021,54 000 km,Automatique,5 cv,Essence,5,1998,Traction,53
+Seat,Ibiza FR,2020,100 000 km,Automatique,6 cv,Essence,4,1124,Traction,68
+Mercedes-Benz,CLA AMG,2020,20 000 km,Automatique,7 cv,Essence,4,2000,Traction,169
+Seat,Ibiza FR,2020,50 000 km,Manuelle,6 cv,Essence,4,1498,Traction,67
+Volkswagen,T-roc,2020,87 000 km,Manuelle,6 cv,Essence,5,1599,Traction,85
+Mercedes-Benz,GLA AMG,2016,74 000 km,Automatique,8 cv,Essence,,,Traction,113
+Mercedes-Benz,Classe C AMG,2014,170 000 km,Automatique,9 cv,Essence,5,1197,Traction,115
+Audi,Q3 Sportback,2021,10 000 km,Automatique,8 cv,Essence,5,1500,Traction,188
+Audi,Q5,2018,100 000 km,Automatique,11 cv,Diesel,4,1997,Traction,215
+Volkswagen,Golf 8 R-Line,2021,70 000 km,Automatique,8 cv,Essence,5,1600,Traction,125
+Peugeot,3008 GT-line,2017,260 000 km,Automatique,9 cv,Essence,4,999,Traction,77
+Land,Rover Range Rover Velar R-Dynamic,2019,100 000 km,Automatique,19 cv,Diesel,5,999,Traction,350
+Porsche,Panamera PLATINUM édition,2014,100 000 km,Automatique,20 cv,Essence,5,1199,Traction,255
+Land,Rover Range Rover Velar R-Dynamic,2020,90 000 km,Automatique,11 cv,Essence,4,1197,Traction,295
+Dongfeng,Forthing T5 EVO,2023,4 000 km,Automatique,9 cv,Essence,4,1900,Traction,182
+Chery,Tiggo 3,2018,75 000 km,Manuelle,8 cv,Essence,4,1798,Traction,47
+Audi,Q3,2017,77 000 km,Automatique,7 cv,Essence,5,1991,Traction,85
+Renault,Kadjar Intens,2018,150 000 km,Automatique,7 cv,Essence,4,1497,Traction,66
+Volkswagen,Golf 8 R-Line,2021,40 000 km,Automatique,8 cv,Essence,5,1000,Traction,155
+Mercedes-Benz,Classe C AMG,2020,35 000 km,Automatique,6 cv,Hybride,4,1200,Propulsion,205
+Volkswagen,Golf 7 Join,2019,120 000 km,Automatique,6 cv,Essence,5,1600,Traction,80
+BMW,Série 4 Gran Coupé Luxury,2018,100 000 km,Automatique,7 cv,Essence,4,2998,Traction,99
+Hyundai,Tucson,2023,24 000 km,Automatique,10 cv,Essence,3,2000,Traction,161
+Hyundai,Tucson,2020,120 000 km,Automatique,8 cv,Essence,5,1599,Traction,87
+BMW,Série 1 Pack sport,2020,70 000 km,Automatique,7 cv,Essence,4,3000,Traction,92
+Fiat,Panda City Cross,2022,20 000 km,Manuelle,4 cv,Essence,4,1124,Traction,45
+BMW,Série 4 Gran Coupé 418 PACK M,2017,110 000 km,Automatique,7 cv,Essence,4,1300,Traction,125
+Mercedes-Benz,Classe E AMG,2011,135 000 km,Automatique,10 cv,Essence,5,1200,Traction,77
+Mercedes-Benz,Classe C AMG,2022,80 000 km,Automatique,9 cv,Essence,4,1598,Traction,215
+Dongfeng,SX3,2021,30 000 km,Manuelle,7 cv,Essence,2,2800,Traction,65
+Volkswagen,Golf 8 United,2021,16 000 km,Manuelle,6 cv,Essence,4,1500,Traction,128
+Mercedes-Benz,Classe A AMG,2022,15 000 km,Automatique,8 cv,Essence,5,1498,Traction,172
+Mercedes-Benz,Classe C AMG,2019,80 000 km,Automatique,9 cv,Diesel,5,1398,Traction,148
+MG,GS Luxe,2017,115 000 km,Automatique,9 cv,Essence,4,2000,Traction,62
+Mitsubishi,ASX 4WD,2021,55 000 km,Automatique,9 cv,Essence,4,1000,Traction,122
+Land,Rover Discovery,2017,130 000 km,Automatique,8 cv,Diesel,5,1200,Traction,126
+Audi,A5 Sportback,2021,70 000 km,Automatique,8 cv,Essence,5,1199,Traction,185
+BMW,Série 7 Individuel,2008,300 000 km,Automatique,22 cv,Essence,5,1599,Traction,45
+Land,Rover Range Rover Sport,2014,160 000 km,Automatique,15 cv,Diesel,5,2925,Traction,245
+BMW,Série 4 Coupé,2017,78 000 km,Automatique,7 cv,Essence,5,1500,Traction,110
+MG,GS Luxe Plus,2017,100 000 km,Automatique,13 cv,Essence,5,3000,Traction,61
+Peugeot,RCZ,2011,171 000 km,Manuelle,7 cv,Essence,4,1598,Traction,40
+Land,Rover Discovery Sport,2016,94 000 km,Automatique,8 cv,Diesel,2,2500,Traction,118
+Volkswagen,Amarok AWD,2016,180 000 km,Manuelle,7 cv,Diesel,5,1395,Intégrale,87
+BMW,Série 7 740I FACE-LIFT,2008,220 000 km,Automatique,22 cv,Essence,5,1799,Traction,55
+Mercedes-Benz,Classe A,2015,123 000 km,Automatique,6 cv,Essence,4,1700,Traction,69
+Peugeot,Landtrek Simple Cabine Avec cabine frigorifique,2023,45 000 km,Manuelle,6 cv,Diesel,,,Propulsion,78
+Chery,Tiggo 8 Pro,2022,43 000 km,Automatique,11 cv,Essence,4,1998,Propulsion,95
+Mercedes-Benz,GLC,2018,130 000 km,Automatique,10 cv,Hybride,4,1000,Traction,197
+Peugeot,5008,2019,160 000 km,Manuelle,7 cv,Essence,4,1298,Traction,78
+Mercedes-Benz,Classe E,2020,158 000 km,Automatique,8 cv,Diesel,5,2143,Traction,168
+Mercedes-Benz,Classe E Business,2010,300 000 km,Manuelle,7 cv,Diesel,5,1500,Propulsion,72
+Hyundai,Grand i10 High Grade,2023,47 000 km,Manuelle,5 cv,Essence,5,1496,Traction,48
+Citroën,C4 Dynamique,2017,87 000 km,Manuelle,5 cv,Essence,4,1598,Traction,45
+BMW,Série 3 Confort Luxury Line,2016,145 000 km,Automatique,7 cv,Essence,5,1250,Propulsion,79
+KIA,Picanto GT-Line,2021,85 000 km,Automatique,5 cv,Essence,5,1197,Traction,49
+KIA,Rio 5p,2021,117 000 km,Manuelle,5 cv,Essence,5,1998,Traction,56
+Volkswagen,Golf 8,2021,69 000 km,Manuelle,6 cv,Essence,5,899,Traction,87
+BMW,Série 5,2015,280 000 km,Automatique,9 cv,Essence,5,1500,Traction,65
+Land,Rover Range Rover Velar,2019,19 000 km,Automatique,15 cv,Essence,4,1598,Traction,289
+Suzuki,Swift GLX Pack,2021,80 000 km,Manuelle,5 cv,Essence,5,1800,Traction,43
+Fiat,Fiorino Utilitaire,2023,13 000 km,Manuelle,5 cv,Diesel,5,1197,Traction,44
+Hyundai,i20 High Grade,2022,54 000 km,Manuelle,5 cv,Essence,5,1999,Traction,64
+Volkswagen,Polo Smartline,2021,63 000 km,Manuelle,4 cv,Essence,3,2000,Traction,53
+Seat,Ibiza,2021,134 000 km,Manuelle,4 cv,Essence,4,1598,Traction,46
+KIA,Sorento,2015,352 000 km,Automatique,12 cv,Diesel,5,1599,Traction,72
+Dacia,Dokker Van Lux Tolée Plus,2022,140 000 km,Manuelle,5 cv,Essence,4,1200,Traction,39
+Dongfeng,SX3 Confort,2020,65 000 km,Manuelle,8 cv,Essence,5,1591,Traction,52
+Renault,Megane,2020,156 000 km,Automatique,5 cv,Essence,4,2000,Traction,49
+BMW,X5 Confort xLine,2020,112 000 km,Automatique,14 cv,Essence,4,1598,Traction,265
+Land,Rover Range Rover Evoque,2012,137 000 km,Automatique,15 cv,Essence,3,1598,Intégrale,84
+Mercedes-Benz,Classe E,2010,197 000 km,Automatique,11 cv,Essence,5,1000,Propulsion,67
+KIA,Picanto,2021,28 000 km,Automatique,4 cv,Essence,5,1995,Traction,46
+Mercedes-Benz,Classe A,2020,100 000 km,Automatique,7 cv,Essence,5,2000,Traction,108
+Audi,Q5,2008,369 000 km,Automatique,15 cv,Diesel,4,2000,Intégrale,70
+Peugeot,5008,2023,7 000 km,Automatique,9 cv,Essence,4,1699,Traction,138
+BMW,X2,2020,76 000 km,Automatique,8 cv,Essence,2,1199,Traction,122
+Volkswagen,Golf 8 Style,2021,100 000 km,Manuelle,6 cv,Essence,5,998,Traction,88
+Porsche,Cayenne,2008,207 000 km,Automatique,21 cv,Essence,4,1798,Intégrale,68
+Peugeot,Partner,2014,218 000 km,Manuelle,5 cv,Diesel,5,1699,Traction,27
+Seat,Leon,2013,207 000 km,Manuelle,6 cv,Essence,5,2143,Traction,40
+Toyota,C-HR,2017,155 000 km,Automatique,6 cv,Essence,4,1498,Traction,69
+KIA,Rio 5p,2021,68 000 km,Manuelle,5 cv,Essence,5,2000,Traction,62
+Ford,Ranger,2019,229 000 km,Automatique,7 cv,Diesel,5,1200,Propulsion,134
+Volkswagen,Golf 8,2020,75 000 km,Manuelle,7 cv,Essence,5,1600,Traction,122
+Hyundai,Creta,2019,76 000 km,Manuelle,7 cv,Essence,4,1600,Traction,74
+Audi,A5 Sportback Ambition Luxe,2015,132 000 km,Automatique,10 cv,Essence,4,1598,Traction,89
+Audi,A4,2014,199 000 km,Manuelle,7 cv,Essence,5,999,Traction,53
+BAIC,YX Kenbo S3,2017,108 000 km,Manuelle,7 cv,Essence,5,1595,Intégrale,34
+MG,GS,2018,149 000 km,Automatique,9 cv,Essence,4,1500,Intégrale,51
+Nissan,Navara,2008,295 000 km,Manuelle,8 cv,Diesel,5,1200,Intégrale,47
+Volkswagen,Golf 7,2019,79 000 km,Manuelle,6 cv,Essence,4,1498,Traction,75
+Audi,A6,2016,124 000 km,Automatique,10 cv,Essence,4,1197,Traction,102
+Ford,Ecosport,2019,151 000 km,Automatique,7 cv,Essence,5,1000,Traction,55
+Ford,Focus Rs,2018,114 000 km,Manuelle,6 cv,Essence,5,1490,Traction,54
+Mitsubishi,Pajero,2001,384 000 km,Automatique,10 cv,Diesel,5,1149,Intégrale,59
+Land,Rover Range Rover Evoque,2021,43 000 km,Automatique,13 cv,Hybride,4,1600,Intégrale,205
+Nissan,Patrol,1993,166 000 km,Manuelle,11 cv,Diesel,4,999,Intégrale,54
+Porsche,Cayenne,2010,249 000 km,Automatique,15 cv,Diesel,5,1599,Intégrale,152
+Ssangyong,Tivoli,2017,40 000 km,Manuelle,7 cv,Essence,5,1149,Traction,60
+KIA,Sportage GT-Line,2019,124 000 km,Automatique,8 cv,Diesel,5,1000,Traction,97
+Mercedes-Benz,Classe E,2022,15 000 km,Automatique,9 cv,Essence,4,1398,Propulsion,248
+Renault,Kadjar Intens,2018,141 000 km,Automatique,7 cv,Essence,5,3000,Traction,69
+Volkswagen,Polo,2020,128 000 km,Manuelle,4 cv,Essence,5,1000,Traction,42
+Mazda,BT-50,2015,162 000 km,Manuelle,9 cv,Diesel,4,899,Intégrale,65
+Nissan,Qashqai,2016,148 000 km,Manuelle,6 cv,Essence,5,1197,Traction,60
+Ford,Ranger,2019,223 000 km,Automatique,8 cv,Diesel,4,1198,Intégrale,155
+Peugeot,508 GT Line,2020,115 000 km,Automatique,9 cv,Essence,4,1600,Traction,116
+Hyundai,Veloster,2019,87 000 km,Automatique,11 cv,Essence,5,1499,Traction,112
+Mercedes-Benz,Classe C,2017,137 000 km,Automatique,8 cv,Essence,5,1399,Propulsion,115
+Fiat,Doblo,2021,38 000 km,Manuelle,5 cv,Diesel,4,3000,Traction,44
+Volkswagen,Golf 7,2017,135 000 km,Automatique,6 cv,Essence,4,2998,Traction,69
+Mercedes-Benz,Classe C AMG,2022,29 000 km,Automatique,9 cv,Essence,5,1395,Propulsion,228
+Mercedes-Benz,GLA AMG,2016,65 000 km,Automatique,8 cv,Essence,5,1200,Traction,118
+Volkswagen,Amarok Highline Double Cabine,2017,215 000 km,Automatique,7 cv,Diesel,5,1461,Traction,94
+Land,Rover Range Rover Evoque,2016,138 000 km,Automatique,15 cv,Essence,5,1197,Traction,97
+BMW,Série 5 Confort Luxury,2016,119 000 km,Automatique,9 cv,Essence,5,1000,Traction,109
+Hyundai,Tucson Hybride,2021,51 000 km,Automatique,7 cv,Hybride,5,1995,Traction,145
+BMW,Série 5 Luxury Line,2018,73 000 km,Automatique,10 cv,Essence,4,1598,Propulsion,128
+Volkswagen,Golf 8 Style,2021,20 000 km,Manuelle,6 cv,Essence,4,1199,Traction,94
+Mercedes-Benz,Classe C coupé AMG,2021,80 000 km,Automatique,8 cv,Essence,4,1598,Propulsion,158
+Mercedes-Benz,GLA AMG,2021,49 000 km,Automatique,8 cv,Hybride,4,1598,Traction,169
+Audi,Q2 S-Line,2021,30 000 km,Automatique,8 cv,Essence,3,1599,Traction,114
+Honda,CR-V LX,2022,60 000 km,Automatique,10 cv,Essence,4,1598,Intégrale,138
+Nissan,Qashqai Tekna High,2018,150 000 km,Automatique,6 cv,Essence,4,1198,Traction,68
+Volkswagen,Golf 7 Confortline,2020,145 000 km,Automatique,6 cv,Essence,5,1500,Traction,64
+Volkswagen,Golf 7 Join,2020,120 000 km,Automatique,6 cv,Essence,5,1598,Traction,76
+BMW,X2 Lounge,2024,0 km,Automatique,8 cv,Essence,4,1598,Traction,199
+Land,Rover Range Rover Evoque R-Dynamic,2021,59 000 km,Automatique,8 cv,Diesel,5,1999,Intégrale,169
+Volkswagen,Golf 8 R-Line,2022,12 000 km,Manuelle,8 cv,Hybride,,,Traction,110
+Mercedes-Benz,GLA,2018,30 000 km,Automatique,7 cv,Essence,4,1595,Traction,124
+Mercedes-Benz,GLC Coupé AMG,2021,50 000 km,Automatique,12 cv,Hybride,5,2987,Intégrale,259
+Mercedes-Benz,Classe C AMG +,2021,60 000 km,Automatique,10 cv,Essence,5,1600,Intégrale,169
+Volkswagen,T-roc 1.5,2024,9 000 km,Automatique,8 cv,Hybride,5,1495,Traction,155
+Mercedes-Benz,Classe C AMG,2022,32 000 km,Automatique,12 cv,Essence,5,918,Propulsion,197
+Land,Rover Range Rover Evoque R-Dynamic S,2021,59 000 km,Automatique,16 cv,Hybride,5,2000,Intégrale,218
+Volkswagen,Golf 8,2020,40 000 km,Automatique,8 cv,Hybride,5,2000,Propulsion,115
+Mercedes-Benz,Classe C AMG +,2024,11 000 km,Automatique,9 cv,Hybride,04,2000,Propulsion,248
+Suzuki,Jimny,2021,60 000 km,Automatique,6 cv,Essence,4,3500,Intégrale,89
+Mercedes-Benz,Classe E coupé AMG,2010,180 000 km,Automatique,19 cv,Essence,5,1197,Traction,68
+Volkswagen,T-roc Toit ouvrant,2020,44 000 km,Manuelle,6 cv,Essence,4,1599,Propulsion,94
+Mercedes-Benz,Classe C AMG,2016,180 000 km,Automatique,8 cv,Essence,5,1199,Propulsion,99
+Mercedes-Benz,Classe E AMG,2024,0 km,Automatique,10 cv,Hybride,4,1498,Intégrale,435
+Mercedes-Benz,Classe C,2016,175 000 km,Automatique,8 cv,Essence,4,2000,Propulsion,105
+BMW,Série 5 Luxury Line,2017,155 000 km,Automatique,10 cv,Essence,5,1998,Propulsion,124
+Mercedes-Benz,Classe A A200,2024,8 000 km,Automatique,8 cv,Hybride,2,2000,Traction,169
+KIA,Sportage GT-Line,2023,40 000 km,Automatique,10 cv,Hybride,4,1498,Intégrale,149
+Land,Rover Range Rover Velar R-Dynamic,2019,33 000 km,Automatique,17 cv,Essence,4,1600,Intégrale,268
+BMW,Série 7 B7 ALPINA,2011,115 000 km,Automatique,17 cv,Essence,2,3998,Propulsion,158
+Volkswagen,Golf 8 ÉDITION,2021,45 000 km,Manuelle,6 cv,Essence,5,6000,Traction,89
+Mercedes-Benz,Classe E AMG,2024,0 km,Automatique,10 cv,Hybride,4,900,Intégrale,450
+Mercedes-Benz,GLC Coupé AMG,2024,0 km,Automatique,11 cv,Essence,4,1000,Intégrale,415
+Mercedes-Benz,CLA AMG,2020,42 000 km,Automatique,8 cv,Hybride,3,2498,Traction,169
+Mercedes-Benz,Classe A A 200,2018,57 000 km,Automatique,9 cv,Essence,5,2000,Traction,124
+Mercedes-Benz,CLA AMG,2023,30 000 km,Automatique,7 cv,Essence,4,1200,Traction,188
+Porsche,Panamera 4S E-hybride plugin,2021,32 000 km,Automatique,33 cv,Hybride,5,2000,Intégrale,535
+Mercedes-Benz,GLC Coupé AMG,2016,106 000 km,Automatique,13 cv,Essence,4,1600,Intégrale,225
+Audi,Q3 Sportback hybrid,2021,50 000 km,Automatique,8 cv,Hybride,5,1197,Traction,175
+Porsche,Cayenne Coupé,2020,37 000 km,Automatique,23 cv,Essence,4,1598,Intégrale,380
+Jaguar,F-Pace R-Dynamic S,2021,27 000 km,Automatique,16 cv,Essence,5,2945,Intégrale,269
+BMW,X1 FACELIFT PACK M,2020,87 000 km,Automatique,8 cv,Essence,5,2497,Traction,129
+Volkswagen,Golf 7 Smartline,2019,89 000 km,Manuelle,6 cv,Essence,4,3500,Traction,75
+Seat,Ibiza Style Plus,2021,100 000 km,Manuelle,4 cv,Essence,5,3000,Traction,53
+KIA,Sportage Hybride,2020,53 000 km,Automatique,11 cv,Hybride,4,2000,Intégrale,117
+KIA,Picanto,2013,100 000 km,Automatique,5 cv,Essence,4,1598,Traction,32
+Fiat,Fiorino,2021,77 000 km,Manuelle,6 cv,Diesel,4,2499,Traction,35
+Chery,Tiggo 7 Pro,2019,123 000 km,Automatique,9 cv,Essence,5,1399,Traction,64
+KIA,Sorento,2013,273 000 km,Automatique,12 cv,Diesel,4,1497,Traction,58
+KIA,Rio 5p,2014,180 000 km,Manuelle,5 cv,Essence,5,1200,Traction,37
+Peugeot,208,2022,46 000 km,Manuelle,5 cv,Essence,5,1200,Traction,48
+Citroën,C4,2016,154 000 km,Manuelle,6 cv,Essence,3,899,Traction,36
+Fiat,500,2012,199 000 km,Automatique,4 cv,Essence,5,1400,Traction,29
+Citroën,C4,2015,218 000 km,Manuelle,6 cv,Essence,5,1000,Traction,34
+Suzuki,Jimny,2020,75 000 km,Manuelle,6 cv,Essence,5,1598,Traction,82
+Seat,Ibiza Style,2021,169 000 km,Manuelle,4 cv,Essence,5,1598,Traction,47
+Chevrolet,Spark,2019,163 000 km,Manuelle,5 cv,Essence,5,1559,Traction,36
+Honda,City,2021,49 000 km,Automatique,6 cv,Essence,5,1500,Traction,65
+Mazda,3,2015,94 000 km,Manuelle,6 cv,Essence,5,1199,Traction,48
+Isuzu,D-Max Simple Cabine,2021,94 000 km,Manuelle,8 cv,Essence,5,1800,Traction,60
+KIA,Sportage GT-Line,2020,79 000 km,Automatique,7 cv,Diesel,2,2800,Traction,120
+Toyota,Agya,2022,21 000 km,Manuelle,4 cv,Essence,5,1598,Traction,36
+BMW,Série 1 F20,2012,120 000 km,Automatique,7 cv,Essence,5,2500,Traction,53
+Fiat,500,2015,127 000 km,Manuelle,4 cv,Essence,5,2000,Traction,33
+Fiat,500,2021,93 000 km,Manuelle,4 cv,Essence,5,2000,Traction,48
+BYD,Tang Supreme,2023,53 000 km,Automatique,11 cv,Essence,5,1998,Traction,135
+Nissan,Juke,2021,55 000 km,Automatique,6 cv,Essence,4,2987,Traction,85
+Peugeot,2008 Allure,2014,141 000 km,Manuelle,5 cv,Essence,5,1197,Traction,31
+BMW,Série 3 E90 restylé N45,2012,127 000 km,Automatique,7 cv,Essence,4,1500,Traction,51
+Renault,Kwid Populaire,2022,45 000 km,Manuelle,4 cv,Essence,5,1199,Traction,36
+BMW,Série 3 coupé,2010,253 000 km,Manuelle,7 cv,Essence,4,999,Traction,44
+Suzuki,Celerio,2022,45 000 km,Manuelle,4 cv,Essence,4,1600,Traction,38
+Renault,Clio,2016,167 000 km,Manuelle,5 cv,Essence,4,1197,Traction,38
+Mazda,CX-9,2017,70 000 km,Automatique,15 cv,Essence,3,1560,Traction,119
+Fiat,500,2009,192 000 km,Manuelle,4 cv,Essence,5,2000,Traction,26
+Nissan,Micra,2017,120 000 km,Manuelle,5 cv,Essence,4,1000,Traction,29
+Fiat,Doblo,2021,30 000 km,Manuelle,5 cv,Diesel,5,3000,Traction,43
+Fiat,Ducato,2012,211 000 km,Manuelle,8 cv,Diesel,4,1699,Traction,45
+Volkswagen,Golf 8,2021,5 000 km,Manuelle,6 cv,Essence,4,1600,Traction,85
+Nissan,Qashqai,2010,279 000 km,Manuelle,6 cv,Diesel,5,1000,Traction,42
+Mazda,CX-9 Signature,2019,155 000 km,Automatique,15 cv,Essence,5,1600,Traction,104
+Ford,Fiesta Titanium,2013,223 000 km,Manuelle,5 cv,Essence,5,1998,Traction,29
+Mercedes-Benz,CLA AMG,2020,100 000 km,Automatique,7 cv,Essence,5,1556,Traction,144
+MG,HS Trophy,2022,111 000 km,Automatique,9 cv,Essence,3,1199,Traction,90
+Ssangyong,Tivoli,2018,235 000 km,Automatique,8 cv,Essence,5,1499,Traction,48
+Mahindra,KUV 100 K6+,2022,59 000 km,Manuelle,5 cv,Essence,4,1390,Traction,32
+Hyundai,H-1,2006,999 999 km,Manuelle,10 cv,Essence,5,1600,Traction,18
+Porsche,Panamera,2019,11 000 km,Automatique,22 cv,Essence,4,900,Traction,450
+Hyundai,i20 High Grade,2023,21 000 km,Automatique,5 cv,Essence,2,2123,Traction,79
+Skoda,Rapid,2019,46 000 km,Manuelle,5 cv,Essence,4,1800,Traction,55
+Ford,Fiesta Titanium,2012,105 000 km,Manuelle,5 cv,Essence,5,1000,Traction,31
+Volkswagen,Jetta Highline,2009,139 000 km,Automatique,7 cv,Essence,4,1597,Traction,34
+Fiat,Panda City Cross,2020,70 000 km,Manuelle,4 cv,Essence,4,1599,Traction,41
+Great,Wall M4,2018,100 000 km,Manuelle,7 cv,Essence,4,1600,Traction,39
+Hyundai,Grand i10,2022,82 000 km,Manuelle,4 cv,Essence,4,2000,Traction,42
+Mercedes-Benz,Classe C,2018,172 000 km,Automatique,8 cv,Essence,4,1498,Traction,105
+KIA,Optima,2012,206 000 km,Automatique,10 cv,Essence,5,899,Traction,40
+KIA,Rio Berline,2017,87 000 km,Manuelle,5 cv,Essence,4,1198,Traction,44
+BMW,X6,2008,146 000 km,Automatique,22 cv,Essence,4,899,Traction,65
+Ford,Ranger Raptor,2022,57 000 km,Automatique,7 cv,Diesel,4,1600,Traction,235
+BMW,Série 5 Luxury,2022,58 000 km,Automatique,10 cv,Hybride,4,1998,Traction,236
+Citroën,C4,2014,195 000 km,Manuelle,6 cv,Essence,4,1598,Traction,28
+Hyundai,Tucson Hybride,2021,109 000 km,Automatique,7 cv,Hybride,5,1599,Traction,120
+Honda,City,2021,89 000 km,Automatique,7 cv,Essence,5,2500,Traction,48
+KIA,Picanto,2019,111 000 km,Automatique,5 cv,Essence,5,1200,Traction,40
+Nissan,Juke,2015,125 000 km,Automatique,7 cv,Essence,,,Traction,47
+Fiat,Siena,2004,300 000 km,Manuelle,5 cv,Essence,5,1450,Traction,17
+Seat,Leon SC,2016,70 000 km,Manuelle,6 cv,Essence,4,3000,Traction,49
+Jeep,Grand Cherokee,2016,132 000 km,Automatique,20 cv,Essence,5,1600,Traction,180
+MG,ZS Luxe,2020,96 000 km,Automatique,7 cv,Essence,4,1595,Traction,65
+Audi,Q2,2018,78 000 km,Automatique,7 cv,Essence,5,1500,Traction,99
+Volkswagen,Polo,2006,144 000 km,Manuelle,4 cv,Essence,4,1798,Traction,21
+Citroën,C3,2011,192 000 km,Manuelle,5 cv,Essence,5,2000,Traction,27
+Volkswagen,Polo 8,2021,112 000 km,Manuelle,4 cv,Essence,5,1600,Traction,44
+Peugeot,301,2018,195 000 km,Manuelle,5 cv,Essence,4,1999,Traction,25
+Peugeot,208,2020,11 000 km,Manuelle,4 cv,Essence,5,1200,Traction,39
+Hyundai,H-1,2002,224 000 km,Manuelle,8 cv,Diesel,4,1598,Traction,23
+Peugeot,208,2022,37 000 km,Manuelle,4 cv,Essence,4,1000,Traction,43
+Mercedes-Benz,ML,2009,240 000 km,Automatique,15 cv,Diesel,5,1000,Traction,80
+KIA,Sportage,2016,143 000 km,Automatique,10 cv,Diesel,4,1500,Traction,100
+Chery,Tiggo 3X,2022,74 000 km,Automatique,6 cv,Essence,5,1000,Traction,54
+BMW,Série 3 F30 Pack Modern,2012,139 000 km,Automatique,10 cv,Essence,5,1000,Traction,61
+Chevrolet,Groove Premier,2024,6 500 km,Automatique,6 cv,Essence,4,1500,Traction,76
+Seat,Ibiza,2024,1 300 km,Automatique,6 cv,Essence,5,898,Traction,77
+Suzuki,Swift,2023,14 000 km,Automatique,5 cv,Essence,5,1600,Traction,52
+MG,5,2022,26 000 km,Automatique,7 cv,Essence,5,1000,Traction,70
+Seat,Ibiza,2018,124 000 km,Manuelle,4 cv,Essence,4,1198,Traction,42
+Volkswagen,Caddy,2016,85 000 km,Manuelle,5 cv,Diesel,5,1999,Traction,41
+Citroën,C4,2013,199 000 km,Manuelle,6 cv,Essence,4,1332,Traction,31
+Land,Rover Range Rover Sport,2008,184 000 km,Automatique,13 cv,Diesel,5,1197,Traction,79
+Citroën,C3,2011,115 000 km,Manuelle,5 cv,Essence,4,3000,Traction,27
+MG,3,2024,12 000 km,Manuelle,6 cv,Essence,5,1500,Traction,53
+Hyundai,Autre H350 Solati,2021,26 000 km,Manuelle,8 cv,Diesel,4,1200,Traction,72
+Volkswagen,Caddy,2022,38 000 km,Manuelle,7 cv,Diesel,4,3000,Traction,68
+Mercedes-Benz,ML,2006,283 000 km,Automatique,15 cv,Diesel,4,2000,Traction,38
+Toyota,Prado,2002,330 000 km,Manuelle,11 cv,Diesel,4,2000,Traction,50
+Peugeot,207,2011,290 000 km,Manuelle,6 cv,Diesel,5,999,Traction,27
+Seat,Leon,2020,159 000 km,Manuelle,6 cv,Essence,5,1599,Traction,64
+Mercedes-Benz,Classe A,2014,174 000 km,Manuelle,6 cv,Essence,5,3450,Traction,56
+Citroën,C4 Cactus,2019,146 000 km,Manuelle,5 cv,Diesel,2,1200,Traction,58
+Suzuki,Swift,2018,139 000 km,Automatique,5 cv,Essence,4,1500,Traction,37
+Land,Rover Range Rover Sport,2009,200 000 km,Automatique,13 cv,Diesel,4,1299,Traction,81
+Chery,Tiggo 2 Confort,2020,135 000 km,Manuelle,6 cv,Essence,4,1595,Traction,41
+Geely,GC6,2021,77 000 km,Manuelle,6 cv,Essence,5,1599,Traction,35
+Citroën,Jumpy Fourgon,2015,183 000 km,Manuelle,6 cv,Diesel,5,1300,Traction,38
+Volkswagen,Golf 6,2010,262 000 km,Manuelle,7 cv,Essence,4,1300,Traction,34
+Fiat,Strada,2001,228 000 km,Manuelle,7 cv,Diesel,4,1598,Traction,24
+Toyota,Hilux Double Cabine,2018,214 000 km,Manuelle,8 cv,Diesel,5,1200,Traction,119
+Nissan,Qashqai,2017,141 000 km,Automatique,6 cv,Essence,5,2200,Traction,74
+Ford,Fiesta Ghia,2008,260 000 km,Manuelle,5 cv,Essence,5,3000,Traction,24
+Ford,Ranger,2020,70 000 km,Automatique,7 cv,Diesel,4,999,Traction,145
+Volkswagen,Passat,2007,212 000 km,Manuelle,7 cv,Essence,5,1197,Traction,28
+Hyundai,Grand i10,2020,97 000 km,Automatique,4 cv,Essence,4,1998,Traction,41
+KIA,Sportage,2018,150 000 km,Automatique,8 cv,Essence,5,920,Traction,76
+BMW,Série 3 coupé,2009,232 000 km,Manuelle,7 cv,Essence,4,1298,Traction,39
+Volkswagen,Polo 7,2011,316 000 km,Manuelle,4 cv,Diesel,4,1400,Traction,31
+Volkswagen,Golf Plus Sportsvan Join,2018,72 000 km,Manuelle,6 cv,Essence,5,1400,Traction,79
+Land,Rover Defender 110 LXV,2014,115 000 km,Manuelle,8 cv,Diesel,5,1200,Traction,200
+Ford,Focus Ecoboost,2016,227 000 km,Manuelle,6 cv,Essence,5,899,Traction,36
+Mercedes-Benz,Classe E,2017,252 000 km,Automatique,9 cv,Essence,4,899,Traction,110
+BMW,Série 7 X-Drive,2012,200 000 km,Automatique,20 cv,Diesel,5,1995,Traction,155
+Renault,Clio Life Plus,2021,149 000 km,Manuelle,5 cv,Essence,5,999,Traction,43
+Mercedes-Benz,ML,2006,237 000 km,Automatique,15 cv,Diesel,5,1000,Traction,56
+Volkswagen,Golf 7 Cup,2015,139 000 km,Automatique,7 cv,Essence,3,1000,Traction,59
+Mahindra,KUV 100 K8,2022,79 000 km,Manuelle,5 cv,Essence,4,1200,Traction,36
+Mazda,CX-7,2009,165 000 km,Automatique,18 cv,Essence,5,1599,Traction,45
+Mazda,CX-9,2019,169 000 km,Automatique,15 cv,Essence,5,1400,Traction,89
+Seat,Leon,2014,96 000 km,Automatique,6 cv,Essence,4,2000,Traction,53
+KIA,Picanto,2021,91 000 km,Automatique,5 cv,Essence,4,6999,Traction,45
+Volkswagen,Golf 7,2014,175 000 km,Manuelle,5 cv,Essence,5,1599,Traction,45
+BMW,Série 3,2008,241 000 km,Manuelle,7 cv,Essence,5,1200,Traction,41
+Renault,Clio,2020,47 000 km,Manuelle,4 cv,Essence,4,1675,Traction,39
+Mercedes-Benz,Classe C,2017,146 000 km,Automatique,8 cv,Essence,5,1598,Traction,119
+Skoda,Octavia,2016,174 000 km,Automatique,8 cv,Essence,5,1600,Traction,51
+Nissan,Juke Tekna,2024,5 000 km,Automatique,6 cv,Essence,4,7000,Traction,95
+Mercedes-Benz,Classe E,2021,37 000 km,Automatique,10 cv,Hybride,5,1499,Traction,260
+Skoda,Scala,2021,94 000 km,Automatique,6 cv,Essence,5,1200,Traction,64
+Mitsubishi,L200 Sportero Double Cabine,2022,60 000 km,Automatique,8 cv,Diesel,4,3000,Traction,130
+Audi,A6,2015,117 000 km,Automatique,10 cv,Essence,5,1498,Traction,99
+Seat,Ibiza,2020,87 000 km,Manuelle,6 cv,Essence,4,5461,Traction,63
+Ssangyong,Tivoli,2018,83 000 km,Manuelle,7 cv,Essence,5,1798,Traction,50
+Mini,Countryman,2010,179 000 km,Manuelle,6 cv,Essence,5,1482,Traction,41
+Audi,A4,2017,141 000 km,Automatique,8 cv,Essence,5,1000,Traction,85
+Jeep,Cherokee,2015,297 000 km,Automatique,10 cv,Diesel,4,1298,Traction,69
+Porsche,Panamera,2009,192 000 km,Automatique,30 cv,Essence,5,1500,Traction,165
+Mercedes-Benz,Classe S,2007,112 000 km,Automatique,19 cv,Essence,5,1600,Traction,78
+BMW,Série 5,2018,135 000 km,Automatique,10 cv,Essence,4,5663,Traction,134
+Mercedes-Benz,Classe E coupé,2009,194 000 km,Automatique,12 cv,Essence,5,1599,Traction,49
+Dongfeng,AX4,2022,33 000 km,Manuelle,7 cv,Essence,5,1000,Traction,59
+Chevrolet,Sonic LS,2021,89 000 km,Manuelle,5 cv,Essence,4,999,Traction,41
+Peugeot,3008,2017,131 000 km,Manuelle,7 cv,Essence,4,998,Traction,62
+Foton,Forland Aumark C6514,2016,35 000 km,Manuelle,10 cv,Diesel,4,1389,Traction,55
+Chery,Tiggo 7 Pro,2021,60 000 km,Automatique,9 cv,Essence,5,1999,Traction,75
+Citroën,C4 Cactus,2015,142 000 km,Manuelle,5 cv,Essence,4,900,Traction,37
+Nissan,Qashqai Tekna,2016,95 000 km,Manuelle,6 cv,Essence,4,1999,Traction,63
+BMW,X5,2007,283 000 km,Automatique,15 cv,Diesel,5,1000,Traction,68
+Citroën,C4 Picasso,2011,270 000 km,Automatique,6 cv,Diesel,5,1598,Traction,39
+Volkswagen,Passat,2012,181 000 km,Automatique,9 cv,Essence,4,3000,Traction,44
+DFSK,K02S,2019,99 000 km,Manuelle,6 cv,Essence,2,1198,Traction,18
+Citroën,C3,2020,156 000 km,Manuelle,4 cv,Essence,5,1200,Traction,36
+Mercedes-Benz,Classe E,2009,189 000 km,Automatique,11 cv,Diesel,2,1999,Traction,63
+Audi,Q3 Sportback,2021,122 000 km,Automatique,9 cv,Essence,5,1599,Traction,152
+Volkswagen,Golf 7,2019,181 000 km,Automatique,6 cv,Essence,5,1197,Traction,56
+Haval,Jolion,2023,24 000 km,Automatique,9 cv,Essence,5,1600,Traction,93
+Suzuki,Vitara,2017,183 000 km,Automatique,6 cv,Essence,4,1000,Traction,55
+Peugeot,301,2014,93 000 km,Manuelle,5 cv,Essence,4,1300,Traction,26
+Volkswagen,Jetta,2018,171 000 km,Manuelle,7 cv,Essence,5,899,Traction,56
+Mercedes-Benz,CLA,2013,191 000 km,Automatique,8 cv,Essence,4,1332,Traction,77
+Isuzu,D-Max Double Cabine,2013,244 000 km,Manuelle,8 cv,Diesel,5,1999,Traction,115
+Volkswagen,Golf 7,2015,54 000 km,Manuelle,5 cv,Essence,5,1800,Traction,58
+Hyundai,Grand i10,2021,43 000 km,Manuelle,4 cv,Essence,5,999,Traction,41
+Renault,Clio 4,2020,90 000 km,Manuelle,5 cv,Essence,,,Traction,44
+Jaguar,XJL,2014,51 000 km,Automatique,16 cv,Essence,5,1395,Traction,180
+Haval,H6,2023,12 000 km,Automatique,8 cv,Essence,4,1500,Traction,125
+Porsche,Cayenne,2008,184 000 km,Automatique,21 cv,Essence,5,1000,Traction,85
+Nissan,Patrol,1991,417 000 km,Manuelle,17 cv,Diesel,5,1600,Traction,32
+Peugeot,2008 Allure,2016,60 000 km,Manuelle,5 cv,Essence,5,999,Traction,45
+Porsche,Cayenne,2010,206 000 km,Automatique,21 cv,Essence,,1499,Traction,115
+Land,Rover Range Rover Velar,2019,60 000 km,Automatique,11 cv,Diesel,2,1498,Traction,330
+Mercedes-Benz,CLA,2022,36 000 km,Automatique,7 cv,Essence,5,1500,Traction,185
+BMW,Série 5,2012,197 000 km,Automatique,10 cv,Essence,5,998,Traction,79
+Ford,Ecosport,2016,101 000 km,Automatique,6 cv,Essence,4,1000,Traction,59
+Toyota,Land Cruiser 79 LX,2016,174 000 km,Manuelle,17 cv,Diesel,4,1397,Traction,115
+Renault,Megane,2020,93 000 km,Manuelle,5 cv,Diesel,4,2993,Traction,58
+Hyundai,i20,2016,132 000 km,Manuelle,5 cv,Essence,5,998,Traction,43
+Peugeot,Partner,2018,113 000 km,Manuelle,5 cv,Diesel,3,1600,Traction,39
+Hyundai,i20 GLS,2021,68 000 km,Manuelle,5 cv,Essence,5,1798,Traction,52
+Ford,Ka,2010,185 000 km,Manuelle,4 cv,Essence,6,1198,Traction,21
+Seat,Tarraco FR,2024,13 000 km,Automatique,9 cv,Essence,5,1598,Traction,159
+Ford,Ecosport Titanium,2021,99 000 km,Automatique,7 cv,Essence,3,1500,Traction,67
+KIA,Optima,2014,176 000 km,Automatique,10 cv,Essence,5,1200,Traction,45
+Toyota,Prado,2014,56 000 km,Manuelle,11 cv,Essence,4,1600,Traction,195
+Chery,Tiggo 3X Luxury,2022,56 000 km,Automatique,6 cv,Essence,5,1999,Traction,55
+Volkswagen,Tiguan,2018,104 000 km,Automatique,8 cv,Essence,4,1498,Traction,117
+BMW,X5,2010,159 000 km,Automatique,19 cv,Diesel,5,2400,Traction,86
+Citroën,DS5,2012,205 000 km,Automatique,6 cv,Diesel,4,1598,Traction,40
+Citroën,Jumpy Fourgon,2022,123 000 km,Manuelle,7 cv,Diesel,4,1499,Traction,72
+Audi,A5 Coupé S-Line,2011,201 000 km,Automatique,10 cv,Essence,5,1995,Traction,48
+Volkswagen,Polo,2021,26 000 km,Manuelle,4 cv,Essence,5,1200,Traction,55
+Audi,A5 Coupé,2009,168 000 km,Automatique,13 cv,Essence,5,1200,Traction,53
+Suzuki,Vitara,2018,96 000 km,Automatique,6 cv,Essence,4,1991,Traction,72
+Land,Rover Range Rover Evoque,2015,130 000 km,Automatique,10 cv,Diesel,5,1400,Traction,139
+Opel,Corsa,2022,41 000 km,Manuelle,5 cv,Essence,3,1199,Traction,59
+Dacia,Sandero Stepway,2015,75 000 km,Manuelle,5 cv,Essence,2,2123,Traction,40
+Mercedes-Benz,Classe E,2009,160 000 km,Automatique,12 cv,Diesel,5,3000,Traction,57
+Mercedes-Benz,Classe E,2012,176 000 km,Automatique,11 cv,Essence,4,1000,Traction,72
+Mercedes-Benz,Classe C,2016,157 000 km,Automatique,6 cv,Diesel,5,1400,Traction,125
+BMW,X1,2020,78 000 km,Automatique,8 cv,Essence,5,1197,Traction,98
+Mercedes-Benz,Classe E,2022,15 000 km,Automatique,9 cv,Essence,5,1499,Traction,248
+Volkswagen,Golf 7,2019,183 000 km,Manuelle,6 cv,Diesel,5,2000,Traction,73
+Citroën,Jumper,2010,476 000 km,Manuelle,7 cv,Diesel,5,1248,Traction,29
+Nissan,Patrol,1991,481 000 km,Manuelle,11 cv,Diesel,5,1000,Traction,42
+Great,Wall Poer MT,2021,61 000 km,Manuelle,11 cv,Diesel,5,1200,Traction,88
+Toyota,C-HR,2021,47 000 km,Automatique,6 cv,Essence,5,1399,Traction,89
+Opel,Mokka,2014,37 000 km,Manuelle,7 cv,Diesel,5,2000,Traction,59
+BMW,X5,2007,295 000 km,Automatique,16 cv,Diesel,5,2498,Traction,65
+Hyundai,Grand i10,2022,34 000 km,Manuelle,5 cv,Essence,4,1700,Traction,49
+Peugeot,Rifter,2019,67 000 km,Manuelle,6 cv,Essence,5,1197,Traction,69
+KIA,Optima,2012,379 000 km,Automatique,10 cv,Essence,4,2998,Traction,38
+Peugeot,208 3P,2017,104 000 km,Manuelle,5 cv,Essence,5,2000,Traction,29
+Mercedes-Benz,Classe C Avantgarde,2009,185 000 km,Automatique,9 cv,Essence,4,1399,Traction,49
+Toyota,Land Cruiser 80,1996,506 000 km,Manuelle,17 cv,Diesel,4,1197,Traction,69
+Volkswagen,Golf 7,2016,75 000 km,Automatique,13 cv,Essence,5,1200,Traction,110
+Toyota,C-HR,2017,150 000 km,Automatique,6 cv,Essence,5,1248,Traction,69
+Skoda,Fabia,2021,105 000 km,Manuelle,4 cv,Essence,5,1399,Traction,43
+Volkswagen,Passat CC,2014,191 000 km,Automatique,10 cv,Essence,4,3598,Traction,53
+Toyota,Land Cruiser,1999,347 000 km,Manuelle,17 cv,Diesel,4,1198,Traction,55
+Mazda,3 High Grade,2017,107 000 km,Manuelle,6 cv,Essence,5,1200,Traction,56
+Citroën,C3 Shine,2019,62 000 km,Automatique,6 cv,Essence,5,1399,Traction,47
+Mercedes-Benz,GLA,2016,97 000 km,Automatique,8 cv,Essence,4,2398,Traction,92
+Volkswagen,Passat CC,2009,150 000 km,Automatique,12 cv,Essence,5,1499,Traction,35
+Ford,Ecosport Titanium,2018,97 000 km,Automatique,7 cv,Essence,5,4000,Traction,62
+Mercedes-Benz,Classe C,2017,113 000 km,Automatique,8 cv,Essence,5,1200,Traction,135
+BMW,Série 3,2018,177 000 km,Automatique,7 cv,Essence,5,3778,Traction,85
+Ford,Focus Titanium,2018,161 000 km,Manuelle,6 cv,Essence,5,1200,Traction,39
+MG,ZS,2020,68 000 km,Automatique,7 cv,Essence,5,1398,Traction,64
+Haval,H6,2023,11 000 km,Automatique,8 cv,Essence,5,1000,Traction,126
+BMW,Série 5,2013,179 000 km,Automatique,10 cv,Essence,5,1600,Traction,79
+BMW,Série 4 Gran Coupé,2019,99 000 km,Automatique,7 cv,Essence,2,1498,Traction,115
+Mercedes-Benz,Classe A,2020,101 000 km,Automatique,7 cv,Essence,4,1968,Traction,129
+Iveco,Daily Fourgon,2015,31 000 km,Manuelle,16 cv,Diesel,5,2000,Traction,110
+Mercedes-Benz,Classe E,2017,223 000 km,Automatique,9 cv,Essence,2,1559,Traction,119
+Toyota,Hilux Double Cabine,2019,114 000 km,Manuelle,8 cv,Diesel,5,1498,Traction,160
+Mercedes-Benz,Classe C,2019,112 000 km,Automatique,10 cv,Hybride,5,1600,Traction,145
+Hyundai,Coupe,2003,138 000 km,Manuelle,7 cv,Essence,2,1198,Traction,30
+Volkswagen,Amarok,2013,81 000 km,Manuelle,11 cv,Essence,5,1197,Traction,53
+Peugeot,Landtrek Double Cabine,2022,34 000 km,Manuelle,6 cv,Diesel,5,2700,Traction,95
+KIA,Sportage,2011,232 000 km,Automatique,11 cv,Essence,4,1898,Traction,47
+BMW,Série 5,2016,151 000 km,Automatique,9 cv,Essence,5,1200,Traction,120
+Porsche,Cayenne,2012,195 000 km,Automatique,15 cv,Diesel,5,999,Traction,155
+KIA,Rio Berline,2022,35 000 km,Automatique,6 cv,Essence,5,1500,Traction,69
+Mitsubishi,Pajero Sport,1999,510 000 km,Manuelle,9 cv,Diesel,4,1500,Traction,45
+Great,Wall M4,2019,51 000 km,Manuelle,6 cv,Essence,4,1496,Traction,45
+Chery,E3,2018,95 000 km,Manuelle,6 cv,Essence,5,1500,Traction,32
+BMW,Série 1,2016,105 000 km,Manuelle,6 cv,Essence,3,1000,Traction,59
+Peugeot,3008,2010,261 000 km,Manuelle,7 cv,Essence,3,1199,Traction,32
+BMW,Série 2 Gran Coupé,2020,61 000 km,Automatique,8 cv,Essence,5,2000,Traction,120
+Nissan,Patrol,2006,359 000 km,Manuelle,12 cv,Diesel,5,2000,Traction,66
+Audi,A4,2011,233 000 km,Manuelle,7 cv,Essence,5,1500,Traction,46
+Peugeot,traveller,2019,98 000 km,Manuelle,5 cv,Diesel,4,1998,Traction,85
+Mercedes-Benz,CLA,2017,239 000 km,Automatique,7 cv,Essence,4,2697,Traction,92
+Mercedes-Benz,Classe E,2010,199 000 km,Automatique,11 cv,Essence,5,1499,Traction,55
+Citroën,C4 Coupé,2009,300 000 km,Manuelle,7 cv,Essence,5,998,Traction,21
+BMW,X2,2020,75 000 km,Automatique,8 cv,Essence,3,993,Traction,134
+Fiat,500 Dolcevita,2021,21 000 km,Automatique,4 cv,Essence,5,1685,Traction,55
+Haval,H6 Luxury,2019,110 000 km,Automatique,9 cv,Essence,4,1800,Traction,77
+Land,Rover Range Rover Sport,2007,211 000 km,Automatique,32 cv,Essence,2,1498,Traction,88
+Fiat,500,2020,20 000 km,Manuelle,4 cv,Hybride,4,3498,Traction,59
+KIA,Sorento,2015,209 000 km,Automatique,12 cv,Diesel,5,1400,Traction,89
+Ford,Kuga,2017,208 000 km,Automatique,11 cv,Essence,5,2000,Traction,65
+Peugeot,208 3P,2016,74 000 km,Manuelle,5 cv,Essence,4,1198,Traction,38
+Land,Rover Range Rover Sport,2019,47 000 km,Automatique,17 cv,Hybride,5,1399,Traction,340
+Volkswagen,Golf 6,2011,295 000 km,Automatique,5 cv,Diesel,4,1498,Traction,41
+Mercedes-Benz,CLA,2021,70 000 km,Automatique,7 cv,Essence,5,1400,Traction,149
+Mercedes-Benz,Classe E Avantgarde,2009,238 000 km,Automatique,9 cv,Diesel,4,1999,Propulsion,64
+Citroën,Jumpy Combi,2018,124 000 km,Manuelle,6 cv,Diesel,4,1600,Traction,82
+Suzuki,Vitara,1993,270 000 km,Automatique,9 cv,Essence,4,2999,Traction,33
+Mercedes-Benz,Classe A Progressive,2019,137 000 km,Automatique,7 cv,Essence,2,1389,Traction,85
+Chery,Tiggo 8,2022,44 000 km,Automatique,9 cv,Essence,4,1998,Traction,79
+KIA,Sportage,2012,324 000 km,Automatique,11 cv,Diesel,5,1591,Traction,54
+Volkswagen,Golf 6,2012,252 000 km,Automatique,5 cv,Diesel,4,999,Traction,42
+Land,Rover Discovery Sport,2015,126 000 km,Automatique,9 cv,Diesel,4,1000,Traction,122
+Mercedes-Benz,GLA,2016,65 000 km,Automatique,8 cv,Essence,4,2498,Traction,118
+Citroën,C3,2019,51 000 km,Manuelle,4 cv,Essence,5,899,Traction,44
+Hyundai,Tucson Hybride,2022,40 000 km,Automatique,7 cv,Hybride,4,3996,Traction,167
+Mercedes-Benz,Classe A,2013,182 000 km,Manuelle,7 cv,Essence,4,1598,Traction,62
+Ford,Ranger,2014,191 000 km,Automatique,7 cv,Diesel,5,1500,Traction,68
+Haval,H6 Luxury,2018,227 000 km,Automatique,9 cv,Essence,5,2999,Traction,46
+Citroën,Jumpy Fourgon,2019,170 000 km,Manuelle,7 cv,Diesel,4,2000,Traction,65
+Audi,Q7,2010,180 000 km,Automatique,16 cv,Diesel,5,1197,Traction,69
+Mercedes-Benz,CLA,2018,20 000 km,Automatique,7 cv,Essence,5,4200,Traction,115
+Land,Rover Range Rover Velar R-Dynamic,2022,26 000 km,Automatique,16 cv,Essence,4,2000,Traction,380
+BMW,X6,2015,85 000 km,Automatique,34 cv,Essence,5,1600,Traction,335
+Seat,Leon FR,2011,193 000 km,Manuelle,7 cv,Essence,2,1198,Traction,37
+Lada,Niva,2018,34 000 km,Manuelle,7 cv,Essence,4,4000,Traction,48
+Mercedes-Benz,Classe S,2008,151 000 km,Automatique,19 cv,Essence,5,1600,Traction,95
+Peugeot,3008,2010,230 000 km,Manuelle,7 cv,Essence,4,1989,Traction,33
+Audi,A4,2008,241 000 km,Automatique,11 cv,Essence,4,1197,Traction,50
+Peugeot,3008,2018,132 000 km,Automatique,9 cv,Essence,4,1497,Traction,84
+Jaguar,XJL,2014,163 000 km,Automatique,16 cv,Essence,5,1998,Traction,120
+Chery,Tiggo 3X Luxury,2022,15 000 km,Automatique,6 cv,Essence,5,2967,Traction,62
+Citroën,C3 Shine,2017,98 000 km,Manuelle,4 cv,Essence,5,1000,Traction,36
+Haval,H6 Luxury,2017,100 000 km,Automatique,9 cv,Essence,5,2999,Traction,65
+Mercedes-Benz,CLA,2019,59 000 km,Automatique,7 cv,Essence,4,900,Traction,134
+BMW,Série 3,2016,152 000 km,Automatique,7 cv,Essence,4,1700,Traction,85
+Seat,Leon Style Plus,2017,118 000 km,Manuelle,6 cv,Essence,5,3000,Traction,62
+Volkswagen,Golf 7,2015,191 000 km,Manuelle,5 cv,Essence,4,1300,Traction,49
+Porsche,Cayenne,2009,212 000 km,Automatique,30 cv,Essence,5,1600,Traction,78
+BMW,Série 4 Coupé,2014,151 000 km,Automatique,10 cv,Essence,5,1499,Traction,86
+Audi,A4,2014,175 000 km,Manuelle,7 cv,Essence,5,1500,Traction,50
+Dongfeng,SX3,2021,32 000 km,Manuelle,8 cv,Essence,4,3000,Traction,65
+Mercedes-Benz,Classe E,2003,276 000 km,Automatique,10 cv,Essence,5,1489,Traction,32
+Volkswagen,Jetta,2010,349 000 km,Manuelle,6 cv,Diesel,5,1598,Traction,32
+Skoda,Octavia,2022,30 000 km,Automatique,8 cv,Essence,5,1198,Traction,114
+Haval,H6 Luxury,2020,120 000 km,Automatique,9 cv,Essence,5,2143,Traction,77
+Peugeot,3008 Allure,2020,169 000 km,Automatique,7 cv,Essence,4,1197,Traction,80
+Volkswagen,Amarok,2012,264 000 km,Manuelle,7 cv,Diesel,5,1777,Traction,48
+BMW,X3,2014,219 000 km,Automatique,11 cv,Essence,4,1000,Traction,75
+Ford,Ranger XLT,2014,248 000 km,Manuelle,7 cv,Diesel,5,1200,Traction,55
+Audi,Q7,2006,249 000 km,Automatique,16 cv,Diesel,4,1398,Traction,60
+Haval,Jolion,2021,25 000 km,Automatique,9 cv,Essence,4,6999,Traction,91
+KIA,Sportage,2018,101 000 km,Automatique,8 cv,Essence,5,1498,Traction,85
+Land,Rover Range Rover Sport,2019,82 000 km,Automatique,17 cv,Essence,3,1599,Traction,350
+KIA,Sportage,2016,176 000 km,Automatique,8 cv,Essence,3,900,Traction,79
+KIA,Sorento,2012,210 000 km,Automatique,12 cv,Diesel,4,2498,Traction,60
+Infiniti,FX,2008,190 000 km,Automatique,20 cv,Essence,2,2800,Traction,52
+Ford,Transit,2017,256 000 km,Manuelle,6 cv,Diesel,4,3600,Traction,38
+BMW,Série 3,2014,201 000 km,Automatique,7 cv,Essence,5,1198,Traction,69
+BMW,Série 3,2016,167 000 km,Automatique,7 cv,Essence,5,2198,Traction,80
+KIA,Sportage GT-Line,2018,132 000 km,Automatique,10 cv,Diesel,5,1200,Traction,110
+Nissan,Qashqai,2015,121 000 km,Automatique,6 cv,Essence,4,1500,Traction,69
+MG,ZS Luxury,2022,67 000 km,Automatique,7 cv,Essence,4,2000,Traction,77
+Hyundai,Veloster,2016,140 000 km,Automatique,8 cv,Essence,5,1598,Traction,44
+Mazda,6,2014,125 000 km,Automatique,9 cv,Essence,5,1000,Traction,51
+Mercedes-Benz,CLS AMG,2009,178 000 km,Automatique,15 cv,Essence,5,1498,Propulsion,57
+Haval,H6 Luxury,2019,55 000 km,Automatique,9 cv,Essence,4,1598,Traction,85
+Ford,F 250 V8,2005,90 000 km,Automatique,24 cv,Diesel,5,1799,Traction,75
+Mercedes-Benz,Classe C C180,2018,143 000 km,Automatique,9 cv,Essence,4,1498,Traction,119
+Mazda,3 High Grade,2017,148 000 km,Manuelle,6 cv,Essence,5,3600,Traction,57
+Mahindra,Scorpio SUV,2013,328 000 km,Manuelle,8 cv,Diesel,5,1498,Traction,31
+Mazda,3,2017,135 000 km,Manuelle,6 cv,Essence,4,1600,Traction,58
+BMW,Série 5 Luxury Line,2019,30 000 km,Automatique,10 cv,Essence,4,2198,Traction,225
+MG,GS Luxe,2017,160 000 km,Automatique,9 cv,Essence,4,998,Traction,58
+Toyota,Prado VX,2006,290 000 km,Automatique,11 cv,Diesel,5,1332,Intégrale,115
+Ford,Focus,2020,60 000 km,Automatique,6 cv,Essence,4,1000,Traction,75
+Peugeot,208 Like,2020,65 000 km,Manuelle,4 cv,Essence,4,1499,Propulsion,34
+Volkswagen,Golf 7 R-Line,2016,155 000 km,Manuelle,6 cv,Essence,4,1498,Propulsion,74
+Peugeot,Rifter Active Pack,2021,123 000 km,Manuelle,5 cv,Diesel,4,1798,Propulsion,84
+Hyundai,ix35,2016,160 000 km,Automatique,11 cv,Diesel,4,1498,Traction,66
+Volkswagen,Polo Sedan,2020,170 000 km,Manuelle,5 cv,Essence,5,999,Traction,41
+Mercedes-Benz,Classe A AMG,2014,180 000 km,Automatique,6 cv,Essence,2,1219,Traction,68
+Mazda,CX-5 High Grade,2019,63 000 km,Automatique,9 cv,Essence,4,2200,Intégrale,115
+MG,ZS,2019,65 000 km,Automatique,7 cv,Essence,5,1198,Traction,65
+Peugeot,206,2005,183 000 km,Manuelle,4 cv,Essence,2,1332,Traction,17
+Audi,A3 Sportback,2018,100 000 km,Manuelle,6 cv,Essence,5,1395,Traction,67
+Renault,Megane Sedan,2019,46 000 km,Manuelle,7 cv,Essence,4,899,Traction,61
+Ford,Ecosport,2022,19 000 km,Manuelle,7 cv,Essence,4,1598,Traction,78
+Wallyscar,719,2023,87 434 km,Manuelle,7 cv,Essence,5,1200,Traction,47
+MG,5 Luxe,2022,37 000 km,Automatique,7 cv,Essence,5,1200,Traction,55
+Volkswagen,Polo,2004,193 000 km,Manuelle,5 cv,Essence,5,999,Propulsion,16
+BMW,Série 3 Confort Sport Line,2013,82 000 km,Automatique,7 cv,Essence,5,1998,Propulsion,65
+Renault,Clio Classic Confort,2006,98 000 km,Manuelle,5 cv,Essence,5,1200,Traction,31
+Volkswagen,Polo Sedan Trendline,2022,76 000 km,Manuelle,5 cv,Essence,5,1600,Traction,49
+Volkswagen,Caddy Prestige,2020,93 000 km,Manuelle,6 cv,Diesel,2,1198,Traction,51
+Peugeot,301 Active,2021,73 000 km,Manuelle,5 cv,Essence,5,1599,Traction,33
+Renault,Symbol Confort,2022,111 000 km,Manuelle,5 cv,Essence,3,1500,Traction,37
+Volkswagen,Tiguan,2020,110 000 km,Automatique,8 cv,Essence,4,1498,Traction,122
+Hyundai,i20 GLS,2022,76 000 km,Manuelle,5 cv,Essence,5,1498,Traction,53
+Volkswagen,Polo Prestige,2022,54 000 km,Manuelle,4 cv,Essence,5,1984,Traction,63
+Volkswagen,Polo R-Line,2020,47 000 km,Manuelle,4 cv,Essence,4,1698,Traction,67
+Jeep,Renegade Limited,2019,130 000 km,Automatique,8 cv,Essence,5,1600,Traction,66
+KIA,Rio 5p GT-Line,2021,72 000 km,Manuelle,5 cv,Essence,2,1598,Traction,65
+KIA,Rio 5p,2021,124 000 km,Manuelle,5 cv,Essence,5,5001,Traction,49
+Seat,Leon Style,2016,167 000 km,Automatique,6 cv,Essence,5,1499,Traction,52
+Suzuki,Swift,2021,80 000 km,Manuelle,5 cv,Essence,4,1500,Traction,41
+Honda,City LX Sport,2022,80 000 km,Automatique,6 cv,Essence,5,1995,Traction,67
+Volkswagen,Virtus Confortline,2023,30 000 km,Manuelle,6 cv,Essence,5,1198,Traction,61
+Toyota,Yaris Sedan Elegance,2020,134 000 km,Manuelle,6 cv,Essence,5,1499,Traction,46
+KIA,Sportage Toit Ouvrant,2018,96 000 km,Automatique,8 cv,Essence,5,1000,Traction,78
+Volkswagen,Polo,2021,67 000 km,Manuelle,4 cv,Essence,4,1500,Traction,52
+KIA,Rio 5p,2021,84 000 km,Manuelle,5 cv,Essence,3,1600,Traction,51
+KIA,Cee'd Comfort,2019,178 000 km,Manuelle,6 cv,Essence,5,1199,Traction,52
+Mercedes-Benz,Classe A AMG,2020,63 000 km,Automatique,9 cv,Essence,5,2000,Traction,144
+MG,RX8 4x4 SUV,2023,24 000 km,Automatique,16 cv,Essence,5,1599,Traction,135
+Geely,GX3,2022,90 000 km,Manuelle,6 cv,Essence,5,1630,Traction,58
+Chevrolet,Sonic Comfort,2021,87 000 km,Manuelle,5 cv,Essence,5,1197,Traction,41
+Volkswagen,Golf 7 Smartline,2019,170 000 km,Automatique,6 cv,Essence,5,1388,Traction,57
+Mercedes-Benz,GLA AMG,2021,57 000 km,Automatique,8 cv,Hybride,3,1500,Traction,179
+Seat,Arona FR,2022,15 000 km,Automatique,6 cv,Essence,2,1199,Traction,96
+Audi,A3 Sportback,2018,128 000 km,Manuelle,6 cv,Essence,4,1332,Traction,69
+Ford,Focus,2016,130 000 km,Manuelle,6 cv,Essence,5,1599,Traction,41
+Mercedes-Benz,GLC Coupé AMG,2021,29 000 km,Automatique,12 cv,Hybride,5,1200,Propulsion,256
+MG,HS Trophy,2021,46 000 km,Automatique,10 cv,Essence,5,918,Traction,83
+BMW,Série 5 Business Line,2018,132 000 km,Automatique,10 cv,Essence,4,1600,Propulsion,130
+Smart,ForTwo Sport,2010,101 000 km,Manuelle,5 cv,Essence,5,1300,Propulsion,27
+Mercedes-Benz,Classe C Avantgarde,2014,48 000 km,Automatique,8 cv,Essence,4,1998,Propulsion,120
+Land,Rover Range Rover Evoque,2014,198 000 km,Automatique,11 cv,Diesel,5,2200,Intégrale,110
+Mercedes-Benz,GLA AMG,2016,150 000 km,Automatique,8 cv,Essence,3,2198,Propulsion,105
+Peugeot,208,2015,110 000 km,Manuelle,5 cv,Essence,5,1198,Traction,29
+BMW,Série 3 coupé Kit M///,2012,152 000 km,Manuelle,10 cv,Essence,,,Traction,74
+Mercedes-Benz,Classe C AMG,2011,200 000 km,Automatique,9 cv,Essence,5,1200,Traction,71
+Toyota,C-HR Sport,2020,162 000 km,Automatique,6 cv,Essence,5,1197,Traction,73
+Seat,Ibiza,2019,98 000 km,Manuelle,4 cv,Essence,5,1600,Traction,51
+Toyota,C-HR,2020,80 000 km,Automatique,6 cv,Essence,5,1500,Traction,75
+Mercedes-Benz,Classe E AMG,2021,98 000 km,Automatique,11 cv,Hybride,5,1000,Traction,228
+Mahindra,KUV 100 K6+,2021,47 000 km,Manuelle,5 cv,Essence,4,1700,Traction,32
+Volkswagen,Tiguan,2021,123 000 km,Manuelle,8 cv,Essence,4,1498,Traction,95
+Fiat,500 Dolcevita,2021,78 000 km,Manuelle,4 cv,Hybride,4,3000,Traction,55
+Fiat,Tipo 5 portes,2021,68 000 km,Manuelle,5 cv,Essence,5,1799,Traction,49
+Renault,Clio,2020,138 000 km,Manuelle,4 cv,Diesel,4,1197,Traction,49
+Mercedes-Benz,Classe C,2015,158 000 km,Automatique,8 cv,Essence,4,2000,Traction,99
+Suzuki,Celerio,2024,0 km,Manuelle,4 cv,Essence,4,3726,Traction,39
+Volkswagen,Golf 7,2015,153 000 km,Manuelle,5 cv,Essence,4,1900,Traction,48
+Renault,Megane,2021,148 000 km,Manuelle,5 cv,Diesel,5,1599,Traction,59
+Peugeot,208 Style,2020,128 000 km,Manuelle,5 cv,Diesel,5,1197,Traction,45
+Audi,Q5 S-line,2014,270 000 km,Automatique,10 cv,Diesel,4,2000,Traction,78
+Citroën,C1 Importée Tn245,2021,56 000 km,Manuelle,4 cv,Essence,4,2500,Traction,38
+Peugeot,3008,2020,148 000 km,Automatique,6 cv,Diesel,4,1389,Traction,79
+Volkswagen,Amarok TDI 4*4,2012,198 000 km,Manuelle,7 cv,Diesel,5,1598,Traction,57
+Mercedes-Benz,CLA AMG,2020,138 000 km,Automatique,6 cv,Diesel,4,1800,Traction,145
+Mercedes-Benz,CLA Importée Tn245,2020,138 000 km,Automatique,6 cv,Diesel,5,1000,Traction,118
+Mercedes-Benz,CLA,2021,87 000 km,Automatique,8 cv,Essence,4,1998,Traction,149
+Volkswagen,Golf 8 STYLE 1.5 BVA eTSI importée,2021,87 000 km,Automatique,8 cv,Essence,5,1499,Traction,110
+KIA,Sportage GT-Line,2019,119 000 km,Automatique,7 cv,Diesel,4,1200,Traction,98
+Mercedes-Benz,Classe A,2021,66 000 km,Automatique,8 cv,Hybride,5,1600,Traction,135
+Land,Rover Range Rover V8 4.2 SUPERCHARGED,2010,60 000 km,Automatique,32 cv,Essence,4,1400,Intégrale,189
+Mercedes-Benz,Classe C AMG,2020,69 000 km,Automatique,10 cv,Hybride,4,1700,Propulsion,165
+Mercedes-Benz,GLE Coupé,2020,54 000 km,Automatique,18 cv,Diesel,4,2198,Intégrale,420
+KIA,Sportage,2018,139 000 km,Automatique,7 cv,Diesel,4,1598,Traction,91
+Volkswagen,Golf 7 Confortline,2020,69 000 km,Manuelle,6 cv,Essence,,,Traction,75
+BMW,Série 1 Urban Line,2015,144 000 km,Automatique,7 cv,Essence,4,1498,Propulsion,55
+Mercedes-Benz,Classe A Sport AMG,2019,35 000 km,Automatique,8 cv,Essence,5,1499,Traction,125
+Ford,Ecosport Titanium,2022,60 000 km,Manuelle,7 cv,Essence,5,1998,Traction,68
+Jeep,Renegade Limited,2021,80 000 km,Automatique,8 cv,Essence,5,1559,Traction,87
+KIA,Rio 5p SX Plus,2018,103 000 km,Manuelle,5 cv,Essence,5,3000,Traction,49
+Mercedes-Benz,Classe C,2019,67 000 km,Automatique,6 cv,Diesel,4,1950,Propulsion,135
+Ford,Ecosport Titanium,2022,44 000 km,Manuelle,7 cv,Essence,5,1000,Traction,67
+Hyundai,Tucson Top Grade,2022,37 000 km,Automatique,10 cv,Essence,4,1500,Intégrale,145
+KIA,Quoris,2014,134 000 km,Automatique,20 cv,Essence,5,1197,Propulsion,95
+Volkswagen,Golf 7,2015,216 000 km,Manuelle,5 cv,Essence,4,1598,Traction,45
+Mercedes-Benz,Classe C AMG,2018,54 000 km,Automatique,11 cv,Hybride,4,1598,Intégrale,165
+Volkswagen,Golf 8 Active,2021,69 000 km,Manuelle,6 cv,Essence,5,1498,Traction,95
+Peugeot,Partner Origin Utilitaire Pack Clim PM,2019,73 000 km,Manuelle,5 cv,Diesel,4,3000,Traction,56
+Mercedes-Benz,Classe C AMG +,2015,146 000 km,Automatique,8 cv,Essence,3,1199,Propulsion,135
+Haval,H6,2019,89 000 km,Automatique,9 cv,Essence,5,1400,Traction,76
+BMW,Série 4 Gran Coupé M,2017,110 000 km,Automatique,7 cv,Essence,5,1199,Propulsion,120
+Mercedes-Benz,Classe E coupé,2011,160 000 km,Automatique,11 cv,Essence,4,1496,Propulsion,62
+Volkswagen,Amarok Double Cabine,2016,200 000 km,Manuelle,10 cv,Diesel,5,3000,Intégrale,79
+Land,Rover Range Rover Sport,2016,200 000 km,Automatique,16 cv,Diesel,5,2000,Intégrale,189
+BMW,Série 5 Access Plus,2011,270 000 km,Automatique,10 cv,Diesel,5,1598,Traction,59
+Hyundai,Grand i10 Sedan,2019,90 000 km,Manuelle,5 cv,Essence,5,2000,Traction,34
+Ssangyong,Korando,2021,80 000 km,Automatique,9 cv,Essence,5,999,Traction,92
+BMW,Série 3,2013,170 000 km,Automatique,7 cv,Essence,4,1000,Traction,65
+Ssangyong,Korando Classic,2021,160 000 km,Automatique,7 cv,Essence,5,3200,Propulsion,75
+Dacia,Logan Écran tactile,2021,20 000 km,Manuelle,5 cv,Essence,4,1000,Traction,54
+Nissan,Micra,2015,160 000 km,Manuelle,5 cv,Essence,4,1498,Traction,33
+Mercedes-Benz,CLS AMG,2011,250 000 km,Automatique,10 cv,Diesel,3,1200,Traction,85
+KIA,Picanto,2022,90 000 km,Manuelle,5 cv,Essence,4,1197,Traction,42
+Renault,Megane,2020,155 000 km,Manuelle,7 cv,Essence,5,2200,Propulsion,50
+Hyundai,Grand i10,2022,19 000 km,Manuelle,4 cv,Essence,2,2798,Traction,44
+BMW,Série 7,2009,150 000 km,Automatique,31 cv,Essence,4,3000,Traction,92
+Dacia,Dokker Van,2021,150 000 km,Manuelle,6 cv,Diesel,4,1400,Traction,33
+BMW,X6 TT Options,2010,190 000 km,Automatique,15 cv,Diesel,4,1998,Traction,95
+Hyundai,Trucks H350 TT Options,2022,26 000 km,Manuelle,10 cv,Diesel,5,1600,Propulsion,74
+BMW,Série 3,2013,210 000 km,Automatique,7 cv,Essence,4,1498,Propulsion,63
+Land,Rover Range Rover Sport Autobiography,2011,200 000 km,Automatique,16 cv,Diesel,5,1600,Intégrale,119
+Suzuki,Swift,2020,220 000 km,Manuelle,5 cv,Essence,5,1000,Traction,33
+Mercedes-Benz,ML 320 CDI,2010,250 000 km,Automatique,15 cv,Diesel,5,1500,Intégrale,79
+BMW,X6,2010,200 000 km,Automatique,15 cv,Diesel,,,Intégrale,98
+Dacia,Dokker Van,2020,90 000 km,Manuelle,6 cv,Diesel,4,1499,Traction,34
+Toyota,Hilux Simple Cabine,2010,480 000 km,Manuelle,10 cv,Diesel,4,1198,Intégrale,73
+Peugeot,3008 Crossway,2018,140 000 km,Automatique,7 cv,Essence,5,1149,Traction,82
+KIA,Sportage GT-Line,2016,140 000 km,Automatique,10 cv,Diesel,5,2143,Propulsion,97
+BMW,Série 5,2005,190 000 km,Automatique,18 cv,Diesel,4,2000,Propulsion,87
+Nissan,350Z,2003,40 000 km,Automatique,20 cv,Essence,4,3000,Propulsion,87
+Volkswagen,Golf 7,2016,70 000 km,Automatique,13 cv,Essence,5,999,Traction,106
+Suzuki,Swift GL,2018,90 000 km,Manuelle,5 cv,Essence,4,4400,Traction,33
+BMW,Série 3,1988,180 000 km,Manuelle,7 cv,Diesel,4,1598,Propulsion,20
+Geely,GC6,2021,61 000 km,Manuelle,6 cv,Essence,5,1498,Traction,38
+MG,ZS,2020,77 800 km,Automatique,5 cv,Essence,5,1497,Traction,69
+Land,Rover Range Rover Evoque,2014,182 000 km,Automatique,9 cv,Diesel,5,1390,Intégrale,98
+Toyota,RAV 4,2016,280 000 km,Automatique,9 cv,Essence,4,1998,Traction,56
+Peugeot,3008,2019,87 000 km,Automatique,7 cv,Essence,5,1200,Traction,82
+Volkswagen,Golf 7,2017,73 000 km,Automatique,13 cv,Essence,5,1200,Traction,115
+Porsche,Macan,2023,6 900 km,Automatique,17 cv,Essence,4,1124,Intégrale,375
+BMW,Série 3,2021,80 000 km,Automatique,9 cv,Essence,3,1242,Traction,174
+Porsche,Cayenne Coupé,2019,59 000 km,Automatique,25 cv,Essence,5,1496,Intégrale,370
+Toyota,Land Cruiser,2016,98 000 km,Automatique,18 cv,Diesel,4,1600,Intégrale,350
+Mini,5 portes,2015,75 000 km,Manuelle,5 cv,Essence,5,1400,Traction,58
+Mercedes-Benz,Classe E coupé,2018,86 000 km,Automatique,33 cv,Hybride,4,1998,Traction,340
+Mitsubishi,L200 Sportero,2022,19 000 km,Automatique,8 cv,Diesel,5,2000,Intégrale,168
+Porsche,Cayenne,2022,15 000 km,Automatique,22 cv,Hybride,4,999,Intégrale,510
+Audi,A5 Sportback S-Line,2020,85 000 km,Automatique,8 cv,Essence,5,3000,Traction,147
+Mercedes-Benz,CLA,2020,93 000 km,Automatique,6 cv,Diesel,4,1600,Traction,148
+Mercedes-Benz,GLC Coupé,2020,70 000 km,Automatique,12 cv,Hybride,4,1240,Intégrale,245
+Mercedes-Benz,Classe G,2010,168 000 km,Automatique,16 cv,Diesel,4,2000,Intégrale,350
+Peugeot,508,2020,46 000 km,Automatique,8 cv,Essence,5,1149,Traction,85
+Mercedes-Benz,Classe S,2015,79 000 km,Automatique,11 cv,Hybride,4,1989,Traction,195
+Peugeot,508,2019,137 000 km,Automatique,8 cv,Essence,4,1200,Traction,83
+Land,Rover Range Rover Sport,2019,100 000 km,Automatique,19 cv,Hybride,5,1998,Traction,340
+Mercedes-Benz,ML,2010,231 000 km,Automatique,12 cv,Diesel,4,1200,Intégrale,88
+Mercedes-Benz,Classe G AMG,2015,30 000 km,Automatique,47 cv,Essence,5,1595,Intégrale,630
+Suzuki,Jimny GL,2019,100 000 km,Automatique,6 cv,Essence,5,1598,Traction,85
+Porsche,Cayenne E-Hybrid,2019,40 000 km,Automatique,21 cv,Hybride,5,998,Intégrale,420
+Mercedes-Benz,Classe C,2020,115 000 km,Automatique,8 cv,Diesel,5,1499,Intégrale,150
+Audi,A3 Berline,2023,40 000 km,Automatique,8 cv,Essence,5,1599,Intégrale,125
+Toyota,Hilux Double Cabine,2020,90 000 km,Manuelle,8 cv,Diesel,5,1498,Intégrale,150
+Mercedes-Benz,Classe E,2024,0 km,Automatique,11 cv,Essence,4,1200,Intégrale,430
+Hyundai,Tucson,2024,0 km,Automatique,7 cv,Hybride,4,3000,Intégrale,212
+Volkswagen,Tiguan,2024,0 km,Automatique,8 cv,Hybride,2,1998,Intégrale,225
+Volkswagen,Passat R-Line DSG,2020,45 000 km,Automatique,8 cv,Essence,5,1599,Intégrale,110
+Mercedes-Benz,GLE Coupé,2022,30 000 km,Automatique,8 cv,Hybride,5,1000,Intégrale,420
+Mercedes-Benz,GLC Coupé,2024,0 km,Automatique,11 cv,Hybride,5,1600,Intégrale,440
+Mercedes-Benz,Classe C,2020,9 000 km,Automatique,10 cv,Hybride,5,1000,Intégrale,185
+Mercedes-Benz,Classe E,2012,60 000 km,Automatique,15 cv,Essence,5,4999,Intégrale,110
+Mercedes-Benz,ML,2010,127 000 km,Automatique,19 cv,Essence,5,1500,Intégrale,75
+Mitsubishi,Pajero,2016,200 000 km,Automatique,15 cv,Essence,3,1399,Intégrale,107
+Mercedes-Benz,CLA,2023,16 000 km,Automatique,9 cv,Hybride,4,1998,Intégrale,220
+Jaguar,XJL,2016,50 000 km,Automatique,16 cv,Essence,4,2993,Intégrale,175
+Land,Rover Range Rover Evoque,2016,160 000 km,Automatique,8 cv,Diesel,4,1500,Intégrale,110
+Peugeot,3008,2017,130 000 km,Manuelle,7 cv,Essence,4,1595,Intégrale,65
+Land,Rover Range Rover Sport,2014,130 000 km,Automatique,16 cv,Diesel,5,1200,Intégrale,198
+BMW,Série 7,2018,80 000 km,Automatique,15 cv,Essence,4,1200,Intégrale,275
+Volkswagen,CC,2015,120 000 km,Automatique,10 cv,Essence,5,2000,Intégrale,65
+Volkswagen,Golf 8,2020,37 000 km,Manuelle,5 cv,Essence,5,1800,Intégrale,88
+Land,Rover Range Rover Sport Autobiography,2023,12 000 km,Automatique,28 cv,Hybride,4,1598,Intégrale,740
+Land,Rover Range Rover Sport,2012,180 000 km,Automatique,16 cv,Diesel,5,1500,Intégrale,150
+Land,Rover Range Rover Sport,2015,100 000 km,Automatique,19 cv,Diesel,4,2000,Intégrale,230
+Land,Rover Range Rover Evoque,2016,180 000 km,Automatique,15 cv,Essence,4,1499,Intégrale,105
+Peugeot,2008,2017,100 000 km,Manuelle,6 cv,Essence,5,999,Intégrale,43
+Jaguar,XF,2009,139 000 km,Automatique,17 cv,Essence,3,1300,Intégrale,55
+BMW,Série 7,2008,160 000 km,Automatique,31 cv,Essence,5,1500,Intégrale,85
+BMW,Série 5 Luxury Line,2018,70 000 km,Automatique,10 cv,Essence,4,999,Intégrale,147
+BMW,Série 3,2019,120 000 km,Automatique,7 cv,Essence,4,1587,Intégrale,90
+Audi,A3,2006,414 000 km,Manuelle,5 cv,Diesel,5,3000,Traction,28
+Volkswagen,Polo,2016,185 000 km,Manuelle,4 cv,Essence,5,1198,Traction,35
+KIA,Rio 5p,2019,145 000 km,Manuelle,5 cv,Essence,5,1599,Traction,49
+Volkswagen,Golf 7,2018,88 000 km,Manuelle,8 cv,Essence,5,2199,Traction,95
+Jaguar,XF Luxe,2014,120 000 km,Automatique,15 cv,Essence,5,1000,Propulsion,95
+Volkswagen,Transporter Combi 6.1,2019,224 000 km,Manuelle,7 cv,Diesel,2,1199,Traction,88
+Volkswagen,T5,2014,249 000 km,Manuelle,7 cv,Diesel,4,1498,Traction,34
+Ssangyong,Tivoli Confort Plus,2020,95 000 km,Automatique,8 cv,Essence,4,3000,Traction,69
+Volkswagen,Golf 6 Confortline,2008,148 800 km,Manuelle,5 cv,Essence,3,1200,Traction,42
+Mercedes-Benz,Classe C,2012,159 000 km,Automatique,9 cv,Essence,5,1400,Propulsion,73
+Peugeot,207,2006,220 000 km,Manuelle,4 cv,Diesel,5,1499,Propulsion,25
+Mercedes-Benz,GLC,2016,83 000 km,Automatique,12 cv,Essence,4,1699,Intégrale,158
+Seat,Leon Cupra,2020,74 000 km,Automatique,18 cv,Essence,5,1200,Traction,132
+Volkswagen,Touareg,2006,308 000 km,Automatique,16 cv,Diesel,3,2000,Intégrale,48
+BMW,Série 5,2021,32 000 km,Automatique,10 cv,Essence,5,1958,Traction,208
+BMW,X6,2011,180 000 km,Automatique,21 cv,Essence,4,899,Intégrale,98
+BMW,Série 5,2020,93 000 km,Automatique,10 cv,Essence,5,1995,Traction,178
+Mercedes-Benz,GLC Coupé,2024,0 km,Automatique,12 cv,Essence,5,1395,Intégrale,400
+Mercedes-Benz,Classe S,2020,40 000 km,Automatique,32 cv,Hybride,5,1199,Intégrale,450
+Mini,Clubman,2019,34 000 km,Manuelle,5 cv,Essence,5,1198,Traction,100
+Nissan,Qashqai,2022,26 000 km,Automatique,8 cv,Essence,5,1598,Traction,95
+Mercedes-Benz,Classe E,2022,9 000 km,Automatique,9 cv,Essence,5,999,Traction,245
+Mercedes-Benz,GLC Coupé,2023,6 600 km,Automatique,12 cv,Essence,4,2000,Intégrale,360
+KIA,Picanto GT-Line,2022,63 000 km,Automatique,4 cv,Essence,4,1400,Traction,54
+BYD,F3,2022,10 000 km,Manuelle,7 cv,Essence,5,2555,Traction,47
+Toyota,Prado,2003,449 000 km,Automatique,11 cv,Diesel,5,1499,Intégrale,88
+Land,Rover Range Rover Sport,2020,37 000 km,Automatique,19 cv,Hybride,4,1598,Intégrale,350
+Mercedes-Benz,CLA,2021,69 000 km,Automatique,8 cv,Hybride,4,1500,Traction,174
+Porsche,Cayenne E-Hybrid,2019,86 000 km,Automatique,20 cv,Hybride,4,999,Intégrale,410
+Audi,A5 Sportback,2021,58 000 km,Automatique,8 cv,Essence,5,2993,Traction,170
+Citroën,DS5,2014,160 000 km,Automatique,9 cv,Essence,4,1498,Intégrale,41
+KIA,Sportage,2022,30 000 km,Automatique,10 cv,Essence,5,3000,Traction,122
+Toyota,C-HR,2020,102 000 km,Automatique,6 cv,Essence,5,1197,Traction,78
+Land,Rover Range Rover Velar R-Dynamic,2021,85 000 km,Automatique,16 cv,Essence,4,7000,Traction,240
+Mercedes-Benz,Classe E coupé AMG,2018,90 000 km,Automatique,11 cv,Essence,4,2999,Traction,164
+Mercedes-Benz,Classe C,2013,56 000 km,Automatique,9 cv,Essence,5,1600,Traction,88
+Porsche,Cayenne,2010,183 000 km,Automatique,41 cv,Essence,5,1000,Traction,158
+Toyota,Yaris Cross Hybride,2024,2 000 km,Automatique,5 cv,Hybride,5,999,Traction,114
+Jeep,Compass,2020,76 000 km,Automatique,11 cv,Essence,4,1998,Traction,95
+Jaguar,F-Pace,2018,84 000 km,Automatique,10 cv,Diesel,5,2200,Traction,180
+Land,Rover Range Rover Evoque,2015,122 000 km,Automatique,15 cv,Essence,5,1599,Traction,95
+Cupra,Formentor Exclusive,2022,23 000 km,Automatique,11 cv,Essence,5,4395,Traction,145
+Peugeot,2008,2014,136 000 km,Manuelle,5 cv,Essence,2,1198,Traction,34
+MG,HS Luxury,2020,100 000 km,Automatique,9 cv,Essence,2,999,Traction,78
+Audi,A5 Sportback S-Line,2019,255 000 km,Automatique,8 cv,Essence,4,1798,Traction,85
+Skoda,Scala Essence,2020,95 000 km,Automatique,6 cv,Essence,5,2000,Traction,67
+Mercedes-Benz,Classe C AMG +,2013,201 000 km,Automatique,9 cv,Essence,5,1400,Intégrale,81
+BMW,Série 1,2018,72 000 km,Automatique,7 cv,Essence,5,1499,Traction,76
+Volkswagen,Golf 6,2010,235 000 km,Manuelle,5 cv,Diesel,4,1400,Traction,41
+Peugeot,508 Active,2011,200 000 km,Manuelle,9 cv,Essence,5,1400,Traction,27
+Renault,Kadjar Intens,2018,68 000 km,Automatique,7 cv,Essence,5,1000,Propulsion,62
+Mini,5 portes,2016,160 000 km,Manuelle,5 cv,Essence,5,3000,Traction,46
+BMW,Série 3,2016,142 000 km,Automatique,7 cv,Essence,2,3000,Traction,79
+BMW,Série 3 Luxury Line,2015,131 000 km,Manuelle,7 cv,Essence,5,1500,Traction,66
+BMW,Série 3,2016,92 000 km,Manuelle,10 cv,Essence,5,3956,Traction,92
+Mercedes-Benz,GLA AMG,2015,104 000 km,Automatique,8 cv,Essence,4,1598,Traction,95
+Peugeot,Landtrek Double Cabine,2021,124 000 km,Manuelle,6 cv,Diesel,,,Traction,64
+KIA,Rio 5p,2019,91 000 km,Manuelle,5 cv,Essence,4,1400,Traction,52
+BMW,Série 1 Business Line,2019,111 074 km,Automatique,7 cv,Essence,5,1200,Traction,81
+Hyundai,Creta,2020,90 500 km,Automatique,6 cv,Essence,3,1461,Traction,74
+BMW,X4,2019,50 000 km,Automatique,11 cv,Essence,4,1000,Intégrale,243
+Ford,Ecosport,2021,77 000 km,Automatique,7 cv,Essence,5,999,Traction,66
+Audi,A3 Sportback,2016,154 000 km,Manuelle,6 cv,Essence,3,1600,Traction,64
+Seat,Arona,2020,43 000 km,Automatique,6 cv,Essence,5,1000,Traction,75
+Nissan,Qashqai,2010,228 000 km,Manuelle,6 cv,Diesel,,,Traction,37
+Haval,Jolion,2021,35 000 km,Automatique,9 cv,Essence,4,1124,Traction,84
+Mercedes-Benz,GLC,2018,39 000 km,Automatique,9 cv,Diesel,4,2498,Traction,220
+Porsche,Macan,2023,22 000 km,Automatique,17 cv,Essence,4,1899,Intégrale,360
+Land,Rover Range Rover Sport,2013,178 000 km,Automatique,17 cv,Diesel,5,1332,Intégrale,145
+Renault,Clio,2021,122 000 km,Manuelle,5 cv,Essence,4,999,Traction,41
+Peugeot,3008,2020,93 000 km,Automatique,7 cv,Essence,4,999,Traction,69
+Audi,A5 Sportback S-Line,2021,102 000 km,Automatique,8 cv,Essence,5,1000,Traction,142
+Land,Rover Discovery,2015,176 000 km,Automatique,15 cv,Essence,5,899,Intégrale,114
+BMW,X1 xLine,2023,21 000 km,Automatique,9 cv,Essence,4,1598,Traction,175
+BMW,X5,2018,214 000 km,Automatique,13 cv,Diesel,5,1998,Intégrale,170
+BMW,X3,2020,69 500 km,Automatique,8 cv,Diesel,5,999,Traction,220
+Mercedes-Benz,Classe C,2016,176 000 km,Automatique,8 cv,Essence,5,1399,Traction,90
+Audi,A3 Berline,2022,56 000 km,Automatique,8 cv,Essence,5,1599,Traction,119
+Jaguar,XJL,2014,51 500 km,Automatique,16 cv,Essence,4,2727,Propulsion,150
+Mercedes-Benz,GLC Coupé,2020,70 000 km,Automatique,12 cv,Hybride,4,1500,Traction,245
+Audi,A7 Sportback Quattro V6,2022,86 000 km,Automatique,23 cv,Essence,5,1497,Intégrale,295
+Land,Rover Range Rover,2017,52 000 km,Automatique,43 cv,Essence,4,1598,Intégrale,460
+Mercedes-Benz,Classe A,2021,37 000 km,Automatique,8 cv,Hybride,,,Traction,137
+BMW,Série 4 Coupé,2023,20 500 km,Automatique,10 cv,Essence,5,2925,Traction,265
+Hyundai,Tucson,2023,11 500 km,Automatique,10 cv,Essence,4,1298,Intégrale,142
+Chery,Tiggo 8,2022,49 500 km,Automatique,9 cv,Essence,5,1590,Traction,92
+Mercedes-Benz,GLA,2021,91 000 km,Automatique,9 cv,Essence,5,1197,Traction,182
+BMW,X2,2018,38 000 km,Automatique,7 cv,Essence,5,1500,Propulsion,132
+BMW,Série 4 Gran Coupé,2017,108 000 km,Automatique,7 cv,Essence,5,5000,Traction,105
+MG,HS Luxury,2021,78 000 km,Automatique,10 cv,Essence,4,999,Traction,77
+Ford,Kuga,2019,93 000 km,Manuelle,8 cv,Essence,4,1498,Traction,71
+Volkswagen,Golf 7,2017,98 500 km,Manuelle,5 cv,Essence,5,1999,Traction,62
+KIA,Sportage,2021,77 000 km,Automatique,8 cv,Essence,4,1899,Traction,103
+KIA,Sportage,2019,123 000 km,Automatique,8 cv,Essence,5,2987,Traction,76
+Haval,H6 Luxury,2019,99 000 km,Automatique,9 cv,Essence,5,1591,Traction,72
+Mercedes-Benz,Classe C,2022,35 000 km,Automatique,9 cv,Essence,4,1400,Traction,215
+Mazda,3,2017,130 000 km,Manuelle,6 cv,Essence,5,1498,Traction,46
+Ford,Ecosport,2020,94 000 km,Manuelle,7 cv,Essence,5,1599,Traction,66
+Mercedes-Benz,GLB AMG,2022,50 000 km,Automatique,9 cv,Essence,5,1200,Traction,175
+Mercedes-Benz,Classe C Avantgarde,2008,185 000 km,Automatique,10 cv,Diesel,5,1499,Traction,55
+Mercedes-Benz,Classe E coupé AMG,2012,134 000 km,Automatique,10 cv,Essence,5,1597,Propulsion,77
+Chery,Tiggo 3X,2022,48 000 km,Automatique,6 cv,Essence,5,1500,Traction,52
+Seat,Ibiza,2020,123 000 km,Manuelle,4 cv,Essence,3,899,Traction,52
+Peugeot,2008 Allure,2017,93 000 km,Manuelle,5 cv,Essence,5,1399,Propulsion,48
+Seat,Arona Style,2021,58 000 km,Manuelle,6 cv,Essence,4,1497,Intégrale,67
+KIA,Rio 5p GT-Line,2021,51 000 km,Manuelle,5 cv,Essence,4,2198,Traction,62
+BMW,Série 5,2021,70 000 km,Automatique,10 cv,Essence,4,1598,Traction,178
+BMW,X2,2019,67 000 km,Automatique,8 cv,Essence,4,1197,Propulsion,145
+Seat,Leon Xcellence,2023,37 000 km,Automatique,7 cv,Essence,5,1500,Traction,108
+Jeep,Wrangler 4.0L,1989,200 000 km,Manuelle,8 cv,Essence,5,1197,Traction,72
+Mercedes-Benz,Classe E 1.6L,2017,132 000 km,Automatique,9 cv,Essence,5,1595,Traction,138
+Mercedes-Benz,Classe C AMG,2014,164 000 km,Automatique,9 cv,Essence,4,1598,Traction,89
+Volkswagen,Golf 8,2023,40 000 km,Automatique,8 cv,Essence,5,3604,Traction,139
+Audi,Q5 2.0L,2009,255 000 km,Automatique,13 cv,Essence,,,Traction,47
+Mercedes-Benz,Classe C,2013,235 000 km,Manuelle,9 cv,Essence,5,2200,Traction,55
+Audi,A3 Sportback Sportback,2018,210 000 km,Manuelle,6 cv,Essence,4,1598,Traction,69
+Audi,A3 Sportback S-Line,2023,14 000 km,Automatique,6 cv,Essence,5,1248,Traction,127
+Volkswagen,Golf 7 Join,2019,96 000 km,Manuelle,6 cv,Essence,,,Traction,73
+Hyundai,Tucson N Line,2021,115 000 km,Automatique,7 cv,Hybride,2,2261,Traction,117
+Mercedes-Benz,GLC Plug-in Hybride AMG,2021,46 000 km,Automatique,10 cv,Hybride,4,1600,Traction,285
+Ford,Focus,2016,149 000 km,Manuelle,5 cv,Essence,2,1998,Traction,36
+Audi,A3 Sportback 1.2L,2019,125 000 km,Manuelle,6 cv,Essence,5,1599,Traction,78
+BMW,Série 1 M,2022,40 000 km,Automatique,7 cv,Essence,4,2987,Traction,138
+Citroën,Berlingo Utilitaire 1.6L,2023,31 000 km,Manuelle,5 cv,Diesel,5,1995,Traction,58
+BMW,X2 S drive,2020,74 000 km,Automatique,8 cv,Essence,4,1598,Traction,132
+BMW,X1 1.6L,2016,126 000 km,Automatique,7 cv,Essence,4,1398,Traction,85
+Volkswagen,Golf 8 1.5L,2021,80 000 km,Manuelle,7 cv,Essence,5,1796,Traction,93
+BMW,Série 5 520,2014,182 000 km,Automatique,9 cv,Essence,4,1395,Traction,75
+Mazda,3,2017,124 000 km,Manuelle,6 cv,Essence,3,1599,Traction,49
+Nissan,Juke,2015,160 000 km,Automatique,7 cv,Essence,5,1599,Traction,39
+Peugeot,2008 Allure,2015,96 000 km,Manuelle,5 cv,Essence,,,Traction,40
+Ssangyong,Tivoli,2018,96 000 km,Manuelle,7 cv,Essence,5,1499,Traction,52
+Hyundai,i20 High Grade,2022,26 100 km,Manuelle,5 cv,Essence,5,1461,Traction,66
+Audi,A4 Design Luxe,2018,45 000 km,Automatique,8 cv,Essence,5,999,Traction,115
+Chevrolet,Aveo,2009,250 000 km,Manuelle,6 cv,Essence,2,1595,Traction,20
+BMW,Série 4 Gran Coupé Luxury Line,2019,83 000 km,Automatique,7 cv,Essence,4,1489,Propulsion,115
+Ford,Fiesta,2014,183 000 km,Manuelle,5 cv,Essence,5,1200,Traction,29
+BMW,Série 3 coupé,2007,250 000 km,Automatique,10 cv,Diesel,5,2800,Traction,49
+Volkswagen,Golf 6 Trend,2011,147 985 km,Manuelle,5 cv,Essence,5,1600,Traction,41
+Mercedes-Benz,GLC Coupé AMG,2021,41 765 km,Automatique,12 cv,Hybride,5,1199,Traction,260
+Renault,Clio,2015,110 000 km,Manuelle,5 cv,Essence,5,1400,Traction,42
+Ford,Fusion 1.6,2017,90 000 km,Manuelle,9 cv,Essence,5,899,Traction,55
+Jaguar,E-Pace,2020,95 000 km,Automatique,12 cv,Essence,5,1199,Intégrale,175
+Mercedes-Benz,GLC Coupé AMG,2024,1 000 km,Automatique,11 cv,Hybride,5,999,Propulsion,380
+KIA,Carens GT-Line,2014,213 000 km,Automatique,8 cv,Diesel,5,1200,Intégrale,45
+Volkswagen,Golf 8,2021,68 000 km,Manuelle,6 cv,Essence,5,1598,Traction,86
+Volkswagen,Golf 8,2021,78 000 km,Manuelle,5 cv,Essence,4,1998,Traction,81
+Volkswagen,T-roc Pack chrome,2019,59 000 km,Manuelle,6 cv,Essence,5,1399,Traction,79
+Peugeot,308 Active,2021,36 765 km,Manuelle,5 cv,Essence,5,1598,Traction,53
+Mercedes-Benz,Classe E AMG,2021,100 756 km,Automatique,11 cv,Hybride,4,7000,Traction,240
+Nissan,Juke Tekna,2014,224 654 km,Manuelle,5 cv,Diesel,5,1598,Traction,51
+Mercedes-Benz,GLC Coupé AMG,2021,47 000 km,Automatique,12 cv,Hybride,3,1600,Traction,260
+Mercedes-Benz,CLA Urban,2018,125 043 km,Automatique,7 cv,Essence,4,3498,Traction,97
+KIA,Rio 5p SX,2019,68 954 km,Manuelle,5 cv,Essence,5,1200,Traction,54
+Volkswagen,Golf 7 Highline,2016,26 043 km,Manuelle,7 cv,Essence,4,1598,Traction,75
+Volkswagen,Golf 8 Life,2020,70 001 km,Manuelle,6 cv,Essence,4,1240,Traction,87
+Toyota,Land Cruiser,2010,142 060 km,Automatique,11 cv,Diesel,4,1198,Traction,175
+Volkswagen,Golf 7 Confortline,2019,169 452 km,Automatique,6 cv,Essence,4,2000,Traction,69
+BMW,Série 1,2009,131 766 km,Automatique,7 cv,Essence,4,1598,Traction,40
+Mercedes-Benz,Classe E AMG,2019,55 001 km,Automatique,9 cv,Essence,5,1499,Traction,165
+Mercedes-Benz,Classe C AMG +,2024,0 km,Automatique,9 cv,Essence,5,3000,Traction,275
+Mercedes-Benz,GLA La nouvelle Gla 250e AMG,2023,10 730 km,Automatique,8 cv,Hybride,5,2143,Traction,235
+Mercedes-Benz,Classe E AMG,2023,10 776 km,Automatique,11 cv,Essence,,,Traction,390
+BMW,X3 Luxury Line,2006,186 000 km,Automatique,13 cv,Diesel,4,1198,Traction,65
+Mercedes-Benz,Classe C AMG,2022,50 893 km,Automatique,9 cv,Essence,5,3000,Traction,185
+KIA,Picanto Populaire,2021,3 805 km,Manuelle,4 cv,Essence,5,920,Traction,43
+Haval,H6,2023,12 442 km,Automatique,8 cv,Essence,5,999,Traction,126
+Nissan,Juke Tekna,2014,163 166 km,Automatique,7 cv,Essence,5,2143,Traction,51
+Mitsubishi,Pajero LIMITED EDITION,2023,20 742 km,Manuelle,11 cv,Diesel,5,1000,Traction,160
+Mercedes-Benz,CLA AMG Edition 1,2021,31 235 km,Automatique,8 cv,Hybride,4,1498,Traction,169
+Mini,5 portes,2021,18 000 km,Automatique,7 cv,Essence,5,1498,Traction,120
+BMW,Série 3 coupé,2010,156 000 km,Automatique,9 cv,Essence,5,1600,Traction,62
+Mahindra,KUV 100 K6+,2021,63 000 km,Manuelle,5 cv,Essence,3,1400,Traction,30
+Haval,Jolion 1 ere,2023,30 000 km,Automatique,9 cv,Essence,5,1197,Traction,93
+Peugeot,308,2023,48 000 km,Automatique,7 cv,Diesel,5,1200,Traction,126
+Volkswagen,Tiguan R-Line,2023,54 723 km,Automatique,9 cv,Essence,4,1600,Traction,198
+Peugeot,Expert,2019,139 199 km,Manuelle,6 cv,Diesel,5,1199,Traction,59
+Volkswagen,Golf 8 R-Line,2022,36 651 km,Automatique,8 cv,Hybride,3,1599,Traction,138
+Mini,Cabrio,2010,86 111 km,Manuelle,7 cv,Essence,5,1198,Traction,48
+KIA,Picanto 1 ère main,2024,0 km,Automatique,5 cv,Essence,3,1796,Traction,61
+Porsche,Cayman S,2008,39 508 km,Manuelle,21 cv,Essence,4,1998,Traction,275
+Seat,Ibiza,2021,99 519 km,Manuelle,4 cv,Essence,4,1999,Traction,54
+Toyota,Land Cruiser,2003,316 620 km,Automatique,12 cv,Diesel,5,2999,Traction,119
+Mercedes-Benz,GLC Coupé AMG,2020,82 415 km,Automatique,10 cv,Hybride,5,1777,Traction,230
+Mercedes-Benz,Classe C AMG,2011,249 000 km,Automatique,9 cv,Essence,5,1595,Traction,65
+Mercedes-Benz,Classe C,2021,30 570 km,Automatique,8 cv,Essence,5,1198,Traction,178
+Mercedes-Benz,CLA AMG,2024,1 000 km,Automatique,8 cv,Hybride,5,1499,Traction,225
+Volkswagen,Golf 8,2020,85 181 km,Manuelle,5 cv,Essence,5,1999,Traction,88
+Volkswagen,Golf 7 Join,2018,86 000 km,Manuelle,6 cv,Essence,5,2000,Traction,79
+Volkswagen,T-roc,2019,74 107 km,Manuelle,6 cv,Essence,5,999,Traction,78
+Renault,Symbol,2020,115 000 km,Manuelle,5 cv,Essence,4,999,Traction,36
+Mercedes-Benz,CLA AMG,2023,18 500 km,Automatique,8 cv,Hybride,4,1598,Traction,185
+Mercedes-Benz,Classe A AMG,2018,68 000 km,Automatique,8 cv,Essence,4,1000,Traction,135
+BMW,Série 3 Luxury,2013,112 000 km,Automatique,7 cv,Essence,4,1998,Traction,65
+Audi,Q5 S-line,2015,176 000 km,Automatique,10 cv,Diesel,5,3500,Traction,110
+Mercedes-Benz,Classe C AMG,2019,145 000 km,Automatique,6 cv,Diesel,5,1198,Traction,145
+Peugeot,2008,2018,125 000 km,Automatique,6 cv,Essence,,,Traction,55
+Mercedes-Benz,Classe A AMG,2019,141 000 km,Automatique,7 cv,Diesel,5,1984,Traction,119
+KIA,Sportage Hybride GT-Line,2023,37 400 km,Automatique,10 cv,Hybride,5,1400,Traction,155
+Hyundai,ix35,2013,324 765 km,Automatique,11 cv,Diesel,4,1398,Intégrale,55
+Volkswagen,Tiguan Highline,2019,127 546 km,Automatique,8 cv,Essence,4,1200,Traction,125
+KIA,Cerato 5p,2014,180 000 km,Automatique,8 cv,Essence,4,1598,Traction,41
+Peugeot,508 Allure,2019,111 000 km,Automatique,7 cv,Diesel,4,1800,Propulsion,95
+Mazda,CX-7,2011,154 667 km,Automatique,15 cv,Essence,3,2000,Traction,28
+BMW,M3 Individual full options,2008,140 000 km,Automatique,30 cv,Essence,5,1499,Propulsion,150
+Peugeot,4008,2014,99 000 km,Manuelle,9 cv,Essence,5,1600,Traction,47
+Audi,Q3 Sportback S-Line,2021,68 000 km,Automatique,8 cv,Essence,5,1197,Traction,188
+Land,Rover Range Rover Sport HSE Dynamic,2020,89 000 km,Automatique,19 cv,Hybride,5,1000,Traction,370
+Mercedes-Benz,GLC Coupé AMG,2020,68 000 km,Automatique,12 cv,Hybride,5,1556,Traction,258
+KIA,Sportage GT-Line,2017,155 000 km,Automatique,10 cv,Diesel,4,1198,Traction,92
+Fiat,500 Cult Club,2023,3 000 km,Automatique,5 cv,Essence,4,1498,Traction,62
+Mercedes-Benz,Classe A AMG,2021,60 000 km,Automatique,7 cv,Essence,4,1800,Traction,115
+Volkswagen,Tiguan R-Line,2019,160 000 km,Automatique,8 cv,Essence,4,1598,Traction,110
+Volkswagen,Scirocco,2010,200 000 km,Manuelle,7 cv,Essence,4,1597,Traction,40
+Audi,A5 Sportback,2019,80 000 km,Automatique,8 cv,Essence,5,1200,Traction,115
+Hyundai,Tucson,2018,81 000 km,Automatique,10 cv,Diesel,3,1599,Traction,100
+Land,Rover Discovery,2016,110 000 km,Automatique,15 cv,Essence,,,Propulsion,125
+Mercedes-Benz,Classe A,2021,90 000 km,Automatique,7 cv,Essence,4,1400,Traction,110
+Hyundai,Tucson Hybride Top Grade,2023,16 000 km,Automatique,7 cv,Diesel,5,1599,Traction,178
+Peugeot,508,2018,145 000 km,Automatique,7 cv,Essence,5,3500,Traction,51
+Mercedes-Benz,Classe C coupé AMG,2019,120 000 km,Automatique,8 cv,Essence,4,1593,Propulsion,145
+Land,Rover Range Rover Sport,2017,90 000 km,Automatique,19 cv,Diesel,5,3200,Propulsion,230
+Porsche,Cayenne,2015,158 000 km,Automatique,31 cv,Essence,04,1598,Propulsion,220
+BMW,Série 3,2015,210 000 km,Automatique,7 cv,Essence,5,899,Propulsion,67
+Mercedes-Benz,Classe C,2013,180 000 km,Automatique,9 cv,Essence,5,1560,Propulsion,66
+Renault,Kadjar,2021,98 000 km,Automatique,7 cv,Essence,4,1595,Traction,83
+Land,Rover Range Rover Sport,2007,208 000 km,Automatique,13 cv,Diesel,,1598,Propulsion,85
+Audi,Q3,2023,40 000 km,Automatique,8 cv,Hybride,5,1799,Traction,200
+KIA,Sportage,2018,140 000 km,Automatique,10 cv,Diesel,4,1000,Traction,118
+Land,Rover Range Rover Sport,2020,80 000 km,Automatique,17 cv,Hybride,3,899,Intégrale,310
+Audi,A3 Berline Ambition,2016,122 000 km,Automatique,6 cv,Essence,5,1598,Traction,65
+KIA,Picanto GT-Line,2018,109 000 km,Automatique,5 cv,Essence,5,998,Traction,39
+Audi,Q3 S-line,2011,237 000 km,Automatique,10 cv,Diesel,5,3000,Traction,63
+KIA,Rio 5p EX,2019,69 000 km,Manuelle,5 cv,Essence,4,1200,Traction,47
+Volkswagen,Passat,2016,193 500 km,Manuelle,7 cv,Essence,5,1999,Traction,55
+Volkswagen,Golf 7 Style Plus,2019,158 800 km,Automatique,6 cv,Essence,4,1798,Traction,61
+Renault,Grand Espace toute option,2024,2 000 km,Manuelle,5 cv,Diesel,4,1395,Traction,79
+Volkswagen,Polo Sedan Highline,2021,84 000 km,Manuelle,5 cv,Essence,4,999,Traction,53
+Audi,Q5,2013,157 000 km,Automatique,10 cv,Diesel,2,2498,Intégrale,89
+BMW,X5 Pack M,2015,170 000 km,Automatique,13 cv,Diesel,5,1200,Intégrale,148
+BMW,X4 Kit M,2021,47 000 km,Automatique,15 cv,Essence,2,1219,Traction,258
+Volkswagen,Golf 8,2021,70 000 km,Manuelle,7 cv,Essence,4,1198,Traction,94
+Hyundai,Tucson Top Grade,2020,80 000 km,Automatique,7 cv,Diesel,3,1199,Traction,98
+BMW,X5,2016,102 000 km,Automatique,13 cv,Diesel,5,1200,Intégrale,168
+Land,Rover Range Rover Sport,2016,96 000 km,Automatique,24 cv,Essence,4,1600,Propulsion,198
+Peugeot,3008 GT-Line,2018,30 000 km,Automatique,9 cv,Essence,2,2000,Traction,95
+Mercedes-Benz,GLE Coupé,2021,71 000 km,Automatique,8 cv,Hybride,5,1998,Propulsion,358
+Ford,Puma Hybrid,2020,10 000 km,Manuelle,6 cv,Hybride,5,1598,Traction,79
+Volkswagen,Golf 8 R-Line,2023,14 000 km,Automatique,8 cv,Essence,4,1999,Traction,158
+Nissan,Qashqai,2018,97 000 km,Automatique,6 cv,Essence,5,1499,Traction,73
+Mercedes-Benz,CLA AMG,2020,117 000 km,Automatique,6 cv,Diesel,2,5798,Traction,148
+Mercedes-Benz,Classe A A 180 D,2020,161 000 km,Automatique,6 cv,Diesel,4,1498,Traction,108
+Audi,Q3 Sportback S-Line,2020,15 000 km,Automatique,8 cv,Essence,2,1991,Traction,162
+Mercedes-Benz,Classe A AMG,2022,44 000 km,Automatique,6 cv,Hybride,4,2000,Traction,148
+Mercedes-Benz,Classe C,2022,71 000 km,Automatique,9 cv,Hybride,4,999,Propulsion,195
+Toyota,C-HR,2020,165 000 km,Automatique,6 cv,Essence,5,1599,Traction,75
+KIA,Cerato KOUP,2010,204 000 km,Manuelle,7 cv,Essence,5,1500,Traction,30
+Seat,Ibiza,2020,36 000 km,Manuelle,4 cv,Essence,5,1199,Traction,54
+Skoda,Octavia Style,2016,360 000 km,Automatique,8 cv,Essence,5,2700,Traction,36
+Fiat,Panda City Cross,2021,82 675 km,Manuelle,4 cv,Essence,4,1198,Traction,38
+Fiat,Doblo,2021,41 000 km,Manuelle,6 cv,Essence,5,1498,Traction,51
+Volkswagen,Golf 7 importee toit pano,2019,65 000 km,Manuelle,5 cv,Essence,4,1998,Traction,73
+Peugeot,3008,2014,143 000 km,Manuelle,7 cv,Essence,4,1498,Propulsion,37
+Foton,Forland presque neuf,2020,34 000 km,Manuelle,9 cv,Diesel,5,1699,Traction,63
+BMW,Série 1 Pack M,2014,200 000 km,Manuelle,7 cv,Essence,3,1560,Traction,59
+Seat,Leon,2015,180 000 km,Manuelle,6 cv,Essence,5,1599,Intégrale,43
+Haval,Jolion,2021,59 000 km,Automatique,9 cv,Essence,5,1599,Traction,85
+Audi,A1 Sportback,2023,15 000 km,Automatique,6 cv,Essence,4,1500,Traction,115
