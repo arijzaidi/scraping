@@ -16,7 +16,7 @@ total_df = pd.DataFrame()
 def clean_text(text, regex_pattern=r'\d+'):
     if not text:
         return np.nan
-    match = re.search(regex_pattern, text.replace('\xa0', '').replace('DT', '').strip())
+    match = re.search(regex_pattern, text.replace('DT', '').strip())
     return match.group() if match else np.nan
 
 # Fonction pour extraire les détails des annonces
@@ -79,8 +79,9 @@ def scrape_page(page_number):
                 marques.append(np.nan)
                 modeles.append(np.nan)
 
-        price_tag = item.find('div', class_='price')
-        prices.append(clean_text(price_tag.text if price_tag else np.nan))
+        price_tag = item.find('div', class_='price').text.replace('DT', '').strip()
+        prices.append(price_tag if price_tag else np.nan)
+        
 
         link_tag = item.find('a', class_='occasion-link-overlay', href=True)
         if link_tag:
