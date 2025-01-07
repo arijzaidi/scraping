@@ -1,0 +1,450 @@
+,Marque,Modèle,boite,horsepower,fuel,nbre_portes,cylindrée,Prix,year,kilometrage
+0,alfa-romeo,giulia 2.0-turbo-bva-super,Automatique,11CV,Essence,4,1995CM³,198 000DTTTC,0,0
+1,alfa-romeo,stelvio 2.0-turbo-q4-bva,Automatique,17CV,Essence,5,1995CM³,265 000DTTTC,0,0
+2,audi,a3-sportback 35-tfsi-advanced-line,Automatique,8CV,Essence,5,1395CM³,145 000DTTTC,0,0
+3,audi,a3-berline 35-tfsi-business-extended,Automatique,8CV,Essence,4,1395CM³,149 000DTTTC,0,0
+4,audi,a4 35-tfsi-s-tronic-business-line-plus,Automatique,8CV,Essence,4,1984CM³,198 000DTTTC,0,0
+5,audi,a6 40-tfsi-s-tronic-s-line-2023,Automatique,11CV,Essence | Hybride léger,4,1984CM³,295 000DTTTC,0,0
+6,audi,q2 35-tfsi-s-tronic-s-line-2023,Automatique,8CV,Essence,5,1498CM³,159 000DTTTC,0,0
+7,audi,q3 35-tfsi-s-tronic-advanced-line,Automatique,9CV,Essence,5,1498CM³,205 000DTTTC,0,0
+8,audi,q3-sportback 35-tfsi-s-tronic-business-limited,Automatique,9CV,Essence,5,1498CM³,235 000DTTTC,0,0
+9,audi,q7 2.0-l-tfsi-quattro-bva-s-line-7-places-2021,Automatique,16CV,Essence,5,1984CM³,445 000DTTTC,0,0
+10,audi,q8-e-tron 55-e-quattro-advanced-line,Automatique,12CV,Electrique,5,,299 000DTTTC,0,0
+11,audi,q8-sportback-e-tron 55-e-quattro-s-line,Automatique,12CV,Electrique,5,,349 000DTTTC,0,0
+12,audi,e-tron-gt quattro,Automatique,37CV,Electrique,4,,360 000DTTTC,0,0
+13,bako,bee start#specs,Automatique,1CV,Electrique,2,,16 210DTTTC,0,0
+14,bako,bee wave#specs,Automatique,1CV,Electrique,2,,18 264DTTTC,0,0
+15,bako,bee horizons#specs,Automatique,1CV,Electrique,2,,21 508DTTTC,0,0
+16,bako,evan start#specs,Automatique,N.C,Electrique,3,,22 586DTTTC,0,0
+17,bako,evan wave#specs,Automatique,N.C,Electrique,3,,27 990DTTTC,0,0
+18,bako,evan horizons#specs,Automatique,N.C,Electrique,3,,32 313DTTTC,0,0
+19,bestune,bestune-t77 1.5-l-160-ch#specs,Automatique,9CV,Essence,5,1498CM³,113 777DTTTC,0,0
+20,bestune,bestune-t77 1.5-l-bva-premium#specs,Automatique,9CV,Essence,5,1498CM³,118 777DTTTC,0,0
+21,bmw,serie-1-5p 116i-lounge#specs,Automatique,6CV,Essence,5,1499CM³,150 900DTTTC,0,0
+22,bmw,serie-1-5p 116i-edition-color-vision#specs,Automatique,6CV,Essence,5,1499CM³,159 400DTTTC,0,0
+23,bmw,serie-1-5p 118i-edition-color-vision#specs,Automatique,8CV,Essence,5,1499CM³,167 500DTTTC,0,0
+24,bmw,serie-1-5p 116i-pack-m#specs,Automatique,6CV,Essence,5,1499CM³,167 900DTTTC,0,0
+25,bmw,serie-2-gran-coupe 218i-lounge#specs,Automatique,8CV,Essence,4,1499CM³,169 900DTTTC,0,0
+26,bmw,serie-2-gran-coupe 218i-color-vision-edition#specs,Automatique,8CV,Essence,4,1499CM³,184 600DTTTC,0,0
+27,bmw,serie-2-gran-coupe 218i-pack-sport-m#specs,Automatique,8CV,Essence,4,1499CM³,191 900DTTTC,0,0
+28,bmw,serie-3 320i-business-line#specs,Automatique,9CV,Essence,4,1598CM³,207 900DTTTC,0,0
+29,bmw,serie-3 320i-24-lounge#specs,Automatique,9CV,Essence,4,1598CM³,225 900DTTTC,0,0
+30,bmw,serie-3 320i-pack-m#specs,Automatique,9CV,Essence,4,1598CM³,249 900DTTTC,0,0
+31,bmw,serie-3 320i-pack-m-pro#specs,Automatique,9CV,Essence,4,1598CM³,267 900DTTTC,0,0
+32,bmw,serie-4-gran-coupe 420i-business-line#specs,Automatique,10CV,Essence,5,1998CM³,281 500DTTTC,0,0
+33,bmw,serie-4-gran-coupe 2021-420iGC-pack-m#specs,Automatique,10CV,Essence,5,1998CM³,331 900DTTTC,0,0
+34,bmw,serie-4-coupe 420i-pack-m-sport,Automatique,10CV,Essence,2,1998CM³,329 900DTTTC,0,0
+35,bmw,serie-5 520i-business-line#specs,Automatique,11CV,Essence | Hybride léger,4,1999CM³,269 900DTTTC,0,0
+36,bmw,serie-5 520i-lounge#specs,Automatique,11CV,Essence | Hybride léger,4,1999CM³,293 900DTTTC,0,0
+37,bmw,serie-5 520i-pack-m#specs,Automatique,11CV,Essence | Hybride léger,4,1999CM³,315 900DTTTC,0,0
+38,bmw,serie-7 740i-launch-edition,Automatique,26CV,Essence | Hybride léger,4,2998CM³,782 900DTTTC,0,0
+39,bmw,x1 18i-sdrive-premiere#specs,Automatique,9CV,Essence,5,1499CM³,188 900DTTTC,0,0
+40,bmw,x1 18i-sdrive-x-line#specs,Automatique,9CV,Essence,5,1499CM³,213 900DTTTC,0,0
+41,bmw,x1 18i-sdrive-pack-sport-m#specs,Automatique,9CV,Essence,5,1499CM³,218 900DTTTC,0,0
+42,bmw,x1-hybride xdrive-25e-lounge-xline#specs,Automatique,8CV,Essence | Hybride rechargeable,5,1499CM³,217 900DTTTC,0,0
+43,bmw,x1-hybride xdrive-25e-x-line#specs,Automatique,8CV,Essence | Hybride rechargeable,5,1499CM³,239 900DTTTC,0,0
+44,bmw,x1-hybride xdrive-25e-pack-m#specs,Automatique,8CV,Essence | Hybride rechargeable,5,1499CM³,244 900DTTTC,0,0
+45,bmw,x2 18i-sdrive-lounge#specs,Automatique,8CV,Essence,5,1499CM³,199 900DTTTC,0,0
+46,bmw,x2 18i-sdrive-pack-m#specs,Automatique,8CV,Essence,5,1499CM³,224 900DTTTC,0,0
+47,bmw,x2 18i-sdrive-pack-m-pro#specs,Automatique,8CV,Essence,5,1499CM³,244 900DTTTC,0,0
+48,bmw,x3-hybride-rechargeable 30e-xdrive-business-line#specs,Automatique,11CV,Essence | Hybride rechargeable,5,1995CM³,355 000DTTTC,0,0
+49,bmw,x3-hybride-rechargeable 30e-xdrive-pack-m#specs,Automatique,11CV,Essence | Hybride rechargeable,5,1995CM³,359 000DTTTC,0,0
+50,bmw,x3-hybride-rechargeable 30e-xdrive-pack-m-pro#specs,Automatique,11CV,Essence | Hybride rechargeable,5,1995CM³,392 000DTTTC,0,0
+51,bmw,x4 20i-xdrive-pack-m,Automatique,11CV,Essence,5,1998CM³,434 900DTTTC,0,0
+52,bmw,x5-hybride 45e-x-drive-pack-m#specs,Automatique,15CV,Essence | Hybride rechargeable,5,2998CM³,496 400DTTTC,0,0
+53,bmw,x5-hybride 50e-x-drive-pack-m#specs,Automatique,21CV,Essence | Hybride rechargeable,5,2998CM³,581 900DTTTC,0,0
+54,bmw,i4 edrive40-business-line#specs,Automatique,22CV,Electrique,5,,236 900DTTTC,0,0
+55,bmw,i4 edrive40-pack-m#specs,Automatique,22CV,Electrique,5,,279 900DTTTC,0,0
+56,bmw,ix1 xdrive30#specs,Automatique,8CV,Electrique,5,,216 900DTTTC,0,0
+57,bmw,ix1 xdrive30-pack-m#specs,Automatique,8CV,Electrique,5,,224 900DTTTC,0,0
+58,bmw,ix3 m-sport,Automatique,8CV,Electrique,5,,284 900DTTTC,0,0
+59,bmw,i5 edrive40-pack-m,Automatique,N.C.CV,Electrique,4,,333 200DTTTC,0,0
+60,bmw,ix xdrive40,Automatique,11CV,Electrique,5,,431 900DTTTC,0,0
+61,byd,dolphin fwd,Automatique,5CV,Electrique,5,,94 990DTTTC,0,0
+62,byd,king 1.5-l-dm-i,Automatique,5CV,Essence | Hybride rechargeable,4,1498CM³,105 990DTTTC,0,0
+63,byd,atto-3 bev,Automatique,5CV,Electrique,5,,123 990DTTTC,0,0
+64,byd,song-plus 1.5-l-dm-i,Automatique,7CV,Essence | Hybride rechargeable,5,1497CM³,156 990DTTTC,0,0
+65,byd,tang-ev bev,Automatique,9CV,Electrique,5,,229 990DTTTC,0,0
+66,changan,new-star 1.2-l,Manuelle,6CV,Essence,3 | 2 portes latérales coulissantes,1243CM³,39 900DTTTC,0,0
+67,changan,star-truck-double-cabine 1.2-l,Manuelle,7CV,Essence,4,1243CM³,49 900DTTTC,0,0
+68,changan,hunter 1.9-l-turbo-diesel-4x4,Manuelle,6CV,Diesel,4,1910CM³,123 046DTTTC,0,0
+69,chery,tiggo-1x-populaire 1.0-l-turbo,Manuelle,4CV,Essence,5,998CM³,34 068DTTTC,0,0
+70,chery,tiggo-3x 1.0-l-turbo-cvt-luxury,Automatique,6CV,Essence,5,998CM³,66 990DTTTC,0,0
+71,chery,arrizo-5 1.5-l-bvm#specs,Manuelle,7CV,Essence,4,1499CM³,63 490DTTTC,0,0
+72,chery,arrizo-5 1.5-l-cvt-luxury#specs,Automatique,7CV,Essence,4,1499CM³,71 490DTTTC,0,0
+73,chery,tiggo-7 1.5-t-cvt,Automatique,9CV,Essence,5,1498CM³,99 580DTTTC,0,0
+74,chery,tiggo-8-pro 1.6-t-7-dct,Automatique,11CV,Essence,5,1598CM³,129 590DTTTC,0,0
+75,chevrolet,groove 1.5-l-premier-2022,Automatique,6CV,Essence,5,1485CM³,85 825DTTTC,0,0
+76,chevrolet,captiva 1.5-turbo-cvt-2025-5-places#specs,Automatique,9CV,Essence,5,1451CM³,105 913DTTTC,0,0
+77,chevrolet,captiva 1.5-turbo-cvt-2025-7-places#specs,Automatique,9CV,Essence,5,1451CM³,109 913DTTTC,0,0
+78,chevrolet,equinox 1.5-turbo-bva-awd,Automatique,10CV,Essence,5,1451CM³,148 968DTTTC,0,0
+79,citroen,c3-populaire 1.2-l,Manuelle,4CV,Essence,5,1199CM³,34 626DTTTC,0,0
+80,citroen,c4-x 1.2-l-eat8-plus#specs,Automatique,7CV,Essence,4,1199CM³,89 900DTTTC,0,0
+81,citroen,c4-x 1.2-l-eat8-max#specs,Automatique,7CV,Essence,4,1199CM³,94 900DTTTC,0,0
+82,citroen,berlingo-van 1.6-l-hdi#specs,Manuelle,5CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,67 490DTTTC,0,0
+83,citroen,berlingo-van 1.6-l-hdi-1000-kg#specs,Manuelle,5CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,68 490DTTTC,0,0
+84,citroen,berlingo-van 1.6-l-hdi-xl-1000-kg#specs,Manuelle,5CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,69 900DTTTC,0,0
+85,citroen,jumpy-fourgon 2.0-l-hdi,Manuelle,7CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1997CM³,84 900DTTTC,0,0
+86,citroen,jumper 2.2-l-hdi-l1h1-8m3#specs,Manuelle,7CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2179CM³,89 900DTTTC,0,0
+87,citroen,jumper 2.2-l-hdi-l2h2-11.5m3#specs,Manuelle,7CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2179CM³,91 900DTTTC,0,0
+88,citroen,jumper 2.2-l-hdi-l3h3-15m3#specs,Manuelle,7CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2179CM³,94 900DTTTC,0,0
+89,citroen,berlingo-multispace 1.6-l-hdi,Manuelle,5CV,Diesel,5 | 2 portes latérales coulissantes,1560CM³,103 900DTTTC,0,0
+90,cupra,leon 1.4-tsi#specs,Automatique,8CV,Essence,5,1395CM³,131 980DTTTC,0,0
+91,cupra,leon 1.4-tsi-sport#specs,Automatique,8CV,Essence,5,1395CM³,141 980DTTTC,0,0
+92,cupra,formentor 2.0-l-tsi-dsg-7-4drive-exclusive,Automatique,11CV,Essence,5,1998CM³,167 980DTTTC,0,0
+93,dacia,sandero-stepway 1.0-l#specs,Manuelle,6CV,Essence,5,999CM³,62 990DTTTC,0,0
+94,dacia,sandero-stepway 1.0-l-bva#specs,Automatique,6CV,Essence,5,999CM³,72 990DTTTC,0,0
+95,dacia,sandero 1.0-l-tce,Manuelle,5CV,Essence,5,999CM³,57 450DTTTC,0,0
+96,dacia,logan 1.0-l-tce-2023,Manuelle,5CV,Essence,4,999CM³,62 500DTTTC,0,0
+97,dacia,duster 1.5-l-dci-confort#specs,Manuelle,5CV,Diesel,5,1461CM³,88 700DTTTC,0,0
+98,dacia,duster 1.5-l-dci-4x4-confort-22#specs,Manuelle,6CV,Diesel,5,1461CM³,100 550DTTTC,0,0
+99,dacia,duster 1.5-l-dci-4x2-bva-confort#specs,Automatique,6CV,Diesel,5,1461CM³,101 350DTTTC,0,0
+100,dfsk,glory-500 1.5-mt#specs,Manuelle,7CV,Essence,5,1498CM³,67 900DTTTC,0,0
+101,dfsk,glory-500 1.5-t-cvt#specs,Automatique,7CV,Essence,5,1498CM³,83 900DTTTC,0,0
+102,dfsk,glory-580 1.5-l-cvt-luxury,Automatique,8CV,Essence,5,1499CM³,99 900DTTTC,0,0
+103,dfsk,glory-ix5 1.5-t-deluxe-cvt,Automatique,9CV,Essence,5,1498CM³,118 900DTTTC,0,0
+104,dfsk,k01s simple-cabine-std#specs,Manuelle,5CV,Essence,2,1000CM³,29 900DTTTC,0,0
+105,dfsk,k01s simple-cabine-dlx#specs,Manuelle,5CV,Essence,2,1000CM³,31 900DTTTC,0,0
+106,dfsk,k01h large-cabine-1.1-l-std#specs,Manuelle,6CV,Essence,2,1050CM³,35 900DTTTC,0,0
+107,dfsk,k01h large-cabine-1.1-l-dlx#specs,Manuelle,6CV,Essence,2,1050CM³,37 900DTTTC,0,0
+108,dfsk,k02s double-cabine-1.0-l-std#specs,Manuelle,5CV,Essence,4,1000CM³,39 900DTTTC,0,0
+109,dfsk,k02s double-cabine-1.0-l-dlx#specs,Manuelle,5CV,Essence,4,1000CM³,41 900DTTTC,0,0
+110,dfsk,c31 1.5-l-simple-cabine-dlx,Manuelle,7CV,Essence,2,1493CM³,46 900DTTTC,0,0
+111,dfsk,c32 1.5-l-double-cabine-dlx,Manuelle,7CV,Essence,4,1493CM³,58 900DTTTC,0,0
+112,dongfeng,rich-6 2.5-turbo-diesel-4x2#specs,Manuelle,8CV,Diesel,4,2498CM³,98 900DTTTC,0,0
+113,dongfeng,rich-6 2.5-turbo-diesel-4x4#specs,Manuelle,8CV,Diesel,4,2498CM³,108 900DTTTC,0,0
+114,dongfeng,rich-6 2.5-turbo-diesel-4x4-toutes-options#specs,Manuelle,8CV,Diesel,4,2498CM³,112 900DTTTC,0,0
+115,dongfeng,t5-evo 1.5-l-turbo,Automatique,9CV,Essence,5,1500CM³,122 700DTTTC,0,0
+116,faw,besturn-x40 1.6-l,Automatique,6CV,Essence,5,1598CM³,84 900DTTTC,0,0
+117,fiat,tipo-berline 1.4-l-entry-taxi#specs,Manuelle,5CV,Essence,4,1368CM³,54 900DTTTC,0,0
+118,fiat,tipo-berline 1.4-l-2024-mid#specs,Manuelle,5CV,Essence,4,1368CM³,81 500DTTTC,0,0
+119,fiat,500 1.2-l-bva-cult-club,Automatique,4CV,Essence,3,1242CM³,70 500DTTTC,0,0
+120,fiat,fiorino-combi 1.3-l-multijet,Manuelle,4CV,Diesel,5 | 2 portes latérales coulissantes,1248CM³,82 000DTTTC,0,0
+121,fiat,doblo 1.6-l-hdi-van-club,Manuelle,5CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,67 490DTTTC,0,0
+122,fiat,ducato 2.2-hdi-8m3-l1h1#specs,Manuelle,7CV,Diesel,2 portes latérales coulissantes | 2 portes arrières battantes tolées | 6,2179CM³,90 400DTTTC,0,0
+123,fiat,ducato 2.2-hdi-11.5-m3-l1h2#specs,Manuelle,7CV,Diesel,2 portes latérales coulissantes | 2 portes arrières battantes tolées | 6,2179CM³,92 400DTTTC,0,0
+124,fiat,ducato 2.2-hdi-13-m3-l2h2#specs,Manuelle,7CV,Diesel,2 portes latérales coulissantes | 2 portes arrières battantes tolées | 6,2179CM³,94 400DTTTC,0,0
+125,foday,f22-s 1.9-l-turbo-4wd,Manuelle,6CV,Diesel,2,1855CM³,99 500DTTTC,0,0
+126,foday,f22 1.9-l-tid4-luxury,Manuelle,6CV,Diesel,4,1855CM³,109 800DTTTC,0,0
+127,foday,f22-max 1.9-l-tid4-luxury,Manuelle,6CV,Diesel,4,1855CM³,116 800DTTTC,0,0
+128,ford,everest 2.0-l-bi-turbo-xlt-7-places#specs,Automatique,13CV,Diesel,5,1996CM³,257 000DTTTC,0,0
+129,ford,everest 2.0-l-bi-turbo-limited-7-places#specs,Automatique,13CV,Diesel,5,1996CM³,285 000DTTTC,0,0
+130,ford,ranger 2.0-l-170-ch-4x4-bva-xlt#specs,Automatique,7CV,Diesel,4,1996CM³,170 000DTTTC,0,0
+131,ford,ranger 2.0-l-tdi-210-ch-4x4-bva-wildtrak#specs,Automatique,5CV,Diesel,4,1996CM³,235 000DTTTC,0,0
+132,ford,ranger-raptor 2.0-l-tdci-210-ch-4x4-bva,Automatique,5CV,Diesel,4,1996CM³,320 000DTTTC,0,0
+133,ford,transit-van 2.2-l-d-330-m-l2h2,Manuelle,7CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2198CM³,91 500DTTTC,0,0
+134,ford,transit-bus restyle-2.2-l-d-15-places,Manuelle,6CV,Diesel,5 | 1 porte latérale coulissante,2198CM³,145 000DTTTC,0,0
+135,gac-motor,ga4 1.5-l-bva,Automatique,6CV,Essence,4,1495CM³,69 900DTTTC,0,0
+136,gac-motor,gs3 1.3-l-bva,Automatique,7CV,Essence,5,1325CM³,79 970DTTTC,0,0
+137,geely,gx3-pro 1.5-l-cvt,Automatique,6CV,Essence,5,1498CM³,68 800DTTTC,0,0
+138,geely,coolray 1.5-l-turbo-gs#specs,Automatique,10CV,Essence,5,1477CM³,86 800DTTTC,0,0
+139,geely,coolray 1.5-l-turbo-gf#specs,Automatique,10CV,Essence,5,1477CM³,98 800DTTTC,0,0
+140,geely,azkara 1.5-l-turbo-hybrid,Automatique,9CV,Essence | Hybride léger,5,1477CM³,122 800DTTTC,0,0
+141,great-wall,wingle-5-double-cabine 2.0-l-diesel-4x2-2023,Manuelle,7CV,Diesel,4,1996CM³,87 500DTTTC,0,0
+142,great-wall,poer 2.0-l-diesel-4x4,Manuelle,11CV,Diesel,5,1996CM³,115 900DTTTC,0,0
+143,great-wall,poer-at 2.0-l-diesel-4x4-bva,Automatique,7CV,Diesel,5,1996CM³,141 900DTTTC,0,0
+144,haval,jolion 1.5-t-fl,Automatique,9CV,Essence,5,1479CM³,102 900DTTTC,0,0
+145,haval,h6-hybride 1.5-t-hev,Automatique,8CV,Essence | Hybride,5,1499CM³,144 900DTTTC,0,0
+146,honda,jazz 1.5-l-e-hev,Automatique,5CV,Essence | Hybride,5,1498CM³,85 990DTTTC,0,0
+147,honda,hr-v 1.5-l-cvt-ex-2023,Automatique,7CV,Essence,5,1498CM³,127 990DTTTC,0,0
+148,honda,zr-v 1.5-l-cvt,Automatique,11CV,Essence,5,1498CM³,149 990DTTTC,0,0
+149,honda,city 1.5-l-cvt-lx-2023#specs,Automatique,6CV,Essence,4,1498CM³,78 990DTTTC,0,0
+150,honda,city 1.5-l-cvt-lx-sport-2023#specs,Automatique,6CV,Essence,4,1498CM³,81 490DTTTC,0,0
+151,honda,city 1.5-l-cvt-lx-sport-plus-2023#specs,Automatique,6CV,Essence,4,1498CM³,82 990DTTTC,0,0
+152,honda,civic 1.5-l-cvt,Automatique,10CV,Essence,4,1498CM³,159 990DTTTC,0,0
+153,honda,civic-hybride 2.0-l-e-hev,Automatique,7CV,Essence | Hybride,4,1993CM³,186 990DTTTC,0,0
+154,honda,civic-type-r 2.0-l-turbo,Manuelle,21CV,Essence,4,1996CM³,279 990DTTTC,0,0
+155,honda,accord 1.5-l-turbo-24,Automatique,10CV,Essence,4,1498CM³,189 990DTTTC,0,0
+156,hyundai,grand-i10-populaire 1.0-l,Manuelle,4CV,Essence,5,998CM³,34 426DTTTC,0,0
+157,hyundai,grand-i10 1.2-l-gls-2024#specs,Manuelle,5CV,Essence,5,1197CM³,51 950DTTTC,0,0
+158,hyundai,grand-i10 2020-1.2-l-high-grade#specs,Manuelle,5CV,Essence,5,1197CM³,56 450DTTTC,0,0
+159,hyundai,grand-i10 1.2-l-bva-high-grade-2024#specs,Automatique,5CV,Essence,5,1197CM³,60 950DTTTC,0,0
+160,hyundai,grand-i10-sedan 1.2-l-2024,Manuelle,5CV,Essence,4,1197CM³,56 950DTTTC,0,0
+161,hyundai,i20 1.2-l-gls-plus#specs,Manuelle,4CV,Essence,5,1197CM³,66 950DTTTC,0,0
+162,hyundai,i20 1.2-l-high-grade-restyle#specs,Manuelle,4CV,Essence,5,1197CM³,72 950DTTTC,0,0
+163,hyundai,i20 1.0-l-t-mhev#specs,Automatique,5CV,Essence | Hybride léger,5,998CM³,85 950DTTTC,0,0
+164,hyundai,venue 1.0-l-turbo-bva,Automatique,7CV,Essence,5,998CM³,90 000DTTTC,0,0
+165,hyundai,creta 1.5-l-bva,Automatique,6CV,Essence,5,1491CM³,118 950DTTTC,0,0
+166,hyundai,kona-ev bva,Automatique,11CV,Electrique,5,,123 950DTTTC,0,0
+167,hyundai,kona-hybride 1.6-l-t-gdi-bva,Automatique,5CV,Essence | Hybride,5,1580CM³,130 000DTTTC,0,0
+168,hyundai,kona 1.6-l-t-gdi-7-dct-4wd#specs,Automatique,11CV,Essence,5,1598CM³,137 000DTTTC,0,0
+169,hyundai,kona 1.6-l-t-gdi-7-dct-4wd-n-line#specs,Automatique,11CV,Essence,5,1598CM³,150 000DTTTC,0,0
+170,hyundai,tucson 1.6-l-t-gdi-7-dct-4wd-top-grade,Automatique,10CV,Essence,5,1598CM³,180 000DTTTC,0,0
+171,hyundai,tucson-hybride 1.6-l-t-gdi-bva-6-2wd-top-grade,Automatique,9CV,Essence | Hybride,5,1598CM³,170 000DTTTC,0,0
+172,hyundai,azera-hybride 1.6-l-t-gdi-bva-6-2wd-calligraphy,Automatique,9CV,Essence | Hybride,4,1598CM³,249 950DTTTC,0,0
+173,hyundai,ioniq-5 58-kwh-2wd-hg#specs,Automatique,9CV,Electrique,5,,168 950DTTTC,0,0
+174,hyundai,ioniq-5 77-kwh-4wd-hg#specs,Automatique,21CV,Electrique,5,,210 950DTTTC,0,0
+175,hyundai,santa-fe 2.2-l-crdi,Automatique,12CV,Diesel,5,2199CM³,280 000DTTTC,0,0
+176,hyundai,palisade-calligraphy 2.2-l-tci-bva-4x4#specs,Automatique,12CV,Diesel,5,2199CM³,350 000DTTTC,0,0
+177,hyundai,palisade-calligraphy 3.5-l-gdi-bva-4x4#specs,Automatique,19CV,Essence,5,3470CM³,350 100DTTTC,0,0
+178,hyundai,staria 2.2-crdi,Manuelle,8CV,Diesel,5,2199CM³,159 600DTTTC,0,0
+179,hyundai,staria-9-places 2.2-crdi-9-places#specs,Manuelle,11CV,Diesel,5,2199CM³,190 000DTTTC,0,0
+180,hyundai,staria-9-places 2.2-crdi-bva-4wd#specs,Automatique,11CV,Diesel,5,2199CM³,210 100DTTTC,0,0
+181,hyundai,staria-9-places 2.2-crdi-bva-4wd-luxe#specs,Automatique,11CV,Diesel,5,2199CM³,280 000DTTTC,0,0
+182,jac,t8-dc 2.0-l-cti-diesel-4x4,Manuelle,7CV,Diesel,4,1999CM³,105 000DTTTC,0,0
+183,jaguar,e-pace 2.0-d-i4-r-dynamic-s,Automatique,12CV,Diesel,5,1998CM³,350 000DTTTC,0,0
+184,jaguar,f-pace 2.0-t-250-r-dynamic-s,Automatique,16CV,Essence,5,1997CM³,399 000DTTTC,0,0
+185,jeep,renegade 1.4-turbo-limited-bva-4x2,Automatique,8CV,Essence,5,1368CM³,126 500DTTTC,0,0
+186,jeep,wrangler-2021 2.0-l-rubicon,Automatique,18CV,Essence,3,2000CM³,327 000DTTTC,0,0
+187,jeep,wrangler-unlimited 2.0-l-rubicon#specs,Automatique,18CV,Essence,5,2000CM³,375 000DTTTC,0,0
+188,jeep,wrangler-unlimited 3.6-l-v6-rubicon#specs,Automatique,19CV,Essence,5,3604CM³,405 000DTTTC,0,0
+189,kia,picanto-populaire 1.0-l,Manuelle,4CV,Essence,5,998CM³,33 660DTTTC,0,0
+190,kia,picanto 1.2-l-bvm-smart#specs,Manuelle,5CV,Essence,5,1197CM³,52 980DTTTC,0,0
+191,kia,picanto 1.2-l-bva-smart#specs,Automatique,4CV,Essence,5,1197CM³,56 480DTTTC,0,0
+192,kia,picanto 1.2-l-bva-gt-line#specs,Automatique,4CV,Essence,5,1197CM³,62 480DTTTC,0,0
+193,kia,picanto 1.2-l-bva-gt-line-plus#specs,Automatique,4CV,Essence,5,1197CM³,65 480DTTTC,0,0
+194,kia,stonic 1.2l-bvm-ex#specs,Manuelle,5CV,Essence,5,1197CM³,72 980DTTTC,0,0
+195,kia,stonic 1.2l-bvm-sx#specs,Manuelle,5CV,Essence,5,1197CM³,77 980DTTTC,0,0
+196,kia,sonet 1.2-l-bvm-ex#specs,Manuelle,6CV,Essence,5,1497CM³,88 480DTTTC,0,0
+197,kia,sonet 1.5-l-cvt-ex-plus#specs,Automatique,6CV,Essence,5,1497CM³,93 980DTTTC,0,0
+198,kia,sonet 1.5-l-cvt-sx#specs,Automatique,6CV,Essence,5,1497CM³,99 980DTTTC,0,0
+199,kia,seltos 1.4-t-gdi-top-grade,Automatique,8CV,Essence,5,1353CM³,119 980DTTTC,0,0
+200,kia,niro 1.6-l-ex#specs,Automatique,5CV,Essence | Hybride,5,1580CM³,139 980DTTTC,0,0
+201,kia,niro 1.6-l-sx#specs,Automatique,5CV,Essence | Hybride,5,1580CM³,149 980DTTTC,0,0
+202,kia,sportage 1.6-l-t-gdi-7-dct-ex#specs,Automatique,10CV,Essence,5,1598CM³,140 980DTTTC,0,0
+203,kia,sportage 1.6-l-t-gdi-7-dct-sx#specs,Automatique,10CV,Essence,5,1598CM³,152 980DTTTC,0,0
+204,kia,sportage-hybride 1.6-l-t-gdi-4x2-gt-line#specs,Automatique,10CV,Essence | Hybride,5,1598CM³,174 980DTTTC,0,0
+205,kia,sportage-hybride 1.6-l-t-gdi-4x4-gt-line#specs,Automatique,10CV,Essence | Hybride,5,1598CM³,189 980DTTTC,0,0
+206,kia,ev6 gt-line-125kw-standard-range-58-kwh2wd#specs,Automatique,9CV,Electrique,5,,199 980DTTTC,0,0
+207,kia,ev6 gt-line-168kw-long-range-77.4-kwh-2wd#specs,Automatique,13CV,Electrique,5,,219 980DTTTC,0,0
+208,kia,ev6 gt-line-239kw-long-range-77.4-kwh-4wd#specs,Automatique,21CV,Electrique,5,,239 980DTTTC,0,0
+209,kia,ev6-gt awd,Automatique,11CV,Electrique,5,,262 980DTTTC,0,0
+210,land-rover,range-rover-evoque 2.0-l-d163-dynamic-se#specs,Automatique,9CV,Diesel,5,1999CM³,340 000DTTTC,0,0
+211,land-rover,range-rover-evoque 2.0-l-p200-dynamic-se#specs,Automatique,12CV,Essence,5,1997CM³,341 700DTTTC,0,0
+212,land-rover,defender-90 2.0-l-p300-x-dynamix-se,Automatique,21CV,Essence,3,1997CM³,398 000DTTTC,0,0
+213,land-rover,defender 3.0-l-p400-s#specs,Automatique,29CV,Essence | Hybride léger,5,2996CM³,364 200DTTTC,0,0
+214,land-rover,defender 2.0-l-p300-se#specs,Automatique,21CV,Essence,5,1997CM³,413 000DTTTC,0,0
+215,land-rover,range-rover-velar 2.0-l-p250-s,Automatique,15CV,Essence,5,1998CM³,396 500DTTTC,0,0
+216,land-rover,range-rover-sport 3.0-l-p400-mhev-se#specs,Automatique,29CV,Essence | Hybride léger,5,2996CM³,607 200DTTTC,0,0
+217,land-rover,range-rover-sport 3.0-l-p460-phev-se#specs,Automatique,25CV,Essence | Hybride rechargeable,5,2997CM³,647 000DTTTC,0,0
+218,land-rover,range-rover 3.0-l-p400-mhev-se#specs,Automatique,24CV,Essence | Hybride léger,5,2997CM³,702 500DTTTC,0,0
+219,land-rover,range-rover 3.0-l-p460-phev-se#specs,Automatique,16CV,Essence | Hybride rechargeable,5,2997CM³,723 000DTTTC,0,0
+220,land-rover,range-rover 4.4-v8-p530-hse#specs,Automatique,43CV,Essence,5,4395CM³,1 054 000DTTTC,0,0
+221,mahindra,kuv-100 1.2-l-k8,Manuelle,5CV,Essence,5,1198CM³,43 960DTTTC,0,0
+222,mahindra,xuv-300 1.2-l-w6#specs,Manuelle,6CV,Essence,5,1197CM³,58 065DTTTC,0,0
+223,mahindra,xuv-300 1.2-l-w8#specs,Manuelle,6CV,Essence,5,1197CM³,63 065DTTTC,0,0
+224,mahindra,xuv-300 1.2-l-w8.0#specs,Manuelle,6CV,Essence,5,1197CM³,69 065DTTTC,0,0
+225,mahindra,pick-up-sc 2.2-l-diesel-4x2-plateau-simple,Manuelle,7CV,Diesel,2,2179CM³,60 916DTTTC,0,0
+226,mahindra,pick-up-dc 2.2-l-diesel-4x2#specs,Manuelle,7CV,Diesel,4,2179CM³,69 046DTTTC,0,0
+227,mahindra,pick-up-dc 2.2-l-diesel-4x4-s6#specs,Manuelle,7CV,Diesel,4,2179CM³,78 046DTTTC,0,0
+228,mercedes-benz,classe-a 200-progressive-sept-23#specs,Automatique,9CV,Essence,5,1332CM³,159 000DTTTC,0,0
+229,mercedes-benz,classe-a 200-premium-sept-23#specs,Automatique,9CV,Essence,5,1332CM³,172 000DTTTC,0,0
+230,mercedes-benz,classe-a 200-amg-sept-23#specs,Automatique,9CV,Essence,5,1332CM³,184 000DTTTC,0,0
+231,mercedes-benz,classe-a-berline 200-progressive-sept-23#specs,Automatique,9CV,Essence,5,1332CM³,160 000DTTTC,0,0
+232,mercedes-benz,classe-a-berline 200-premium-sept-23#specs,Automatique,9CV,Essence,5,1332CM³,172 000DTTTC,0,0
+233,mercedes-benz,classe-a-berline 200-amg-sept-23#specs,Automatique,9CV,Essence,5,1332CM³,185 000DTTTC,0,0
+234,mercedes-benz,cla 200-progressive#specs,Automatique,9CV,Essence,4,1332CM³,191 000DTTTC,0,0
+235,mercedes-benz,cla 200-amg#specs,Automatique,9CV,Essence,4,1332CM³,218 000DTTTC,0,0
+236,mercedes-benz,classe-c 180-eq-boost-9g-tronic-avantgarde#specs,Automatique,9CV,Essence | Hybride léger,4,1496CM³,223 000DTTTC,0,0
+237,mercedes-benz,classe-c 180-eq-boost-9g-tronic-premium#specs,Automatique,9CV,Essence | Hybride léger,4,1496CM³,257 000DTTTC,0,0
+238,mercedes-benz,classe-c 180-eq-boost-9g-tronic-amg#specs,Automatique,9CV,Essence | Hybride léger,4,1496CM³,261 000DTTTC,0,0
+239,mercedes-benz,classe-c 180-eq-boost-9g-tronic-amg-plus#specs,Automatique,9CV,Essence | Hybride léger,4,1496CM³,278 000DTTTC,0,0
+240,mercedes-benz,cle-coupe 200-amg,Automatique,12CV,Essence | Hybride léger,2,1999CM³,302 000DTTTC,0,0
+241,mercedes-benz,classe-e 200-business#specs,Automatique,12CV,Essence | Hybride léger,4,1999CM³,269 000DTTTC,0,0
+242,mercedes-benz,classe-e 200-avantgarde#specs,Automatique,12CV,Essence | Hybride léger,4,1999CM³,298 000DTTTC,0,0
+243,mercedes-benz,classe-e 200-exclusive#specs,Automatique,12CV,Essence | Hybride léger,4,1999CM³,303 000DTTTC,0,0
+244,mercedes-benz,classe-e 200-amg#specs,Automatique,12CV,Essence | Hybride léger,4,1999CM³,333 000DTTTC,0,0
+245,mercedes-benz,classe-s 450-4matic-2024-limousine,Automatique,27CV,Essence | Hybride léger,4,2999CM³,699 000DTTTC,0,0
+246,mercedes-benz,gla 200-progressive-2023#specs,Automatique,9CV,Essence,5,1332CM³,203 000DTTTC,0,0
+247,mercedes-benz,gla 200-amg-2023#specs,Automatique,9CV,Essence,5,1332CM³,221 000DTTTC,0,0
+248,mercedes-benz,glb 200-24-amg,Automatique,9CV,Essence,5,1332CM³,226 000DTTTC,0,0
+249,mercedes-benz,glc 200-4matic-avantgarde#specs,Automatique,12CV,Essence | Hybride léger,5,1999CM³,294 000DTTTC,0,0
+250,mercedes-benz,glc 200-4matic-amg#specs,Automatique,12CV,Essence | Hybride léger,5,1999CM³,329 000DTTTC,0,0
+251,mercedes-benz,glc-coupe 200-4matic-amg,Automatique,12CV,Essence | Hybride léger,5,1999CM³,349 000DTTTC,0,0
+252,mercedes-benz,gle 300d-4matic-amg-2023,Automatique,17CV,Diesel | Hybride léger,5,1993CM³,568 000DTTTC,0,0
+253,mercedes-benz,gle-coupe 300d-4matic-amg-2023,Automatique,16CV,Diesel | Hybride léger,5,1993CM³,588 000DTTTC,0,0
+254,mercedes-benz,classe-v 250-d,Automatique,12CV,Diesel,3 | 2 portes latérales coulissantes,1950CM³,468 000DTTTC,0,0
+255,mg,3 1.5-l-2024#specs,Manuelle,6CV,Essence,5,1498CM³,56 950DTTTC,0,0
+256,mg,3 1.5-l-2024-confort#specs,Manuelle,6CV,Essence,5,1498CM³,63 950DTTTC,0,0
+257,mg,3 1.5-l-bva-2024-luxe#specs,Automatique,6CV,Essence,5,1498CM³,69 950DTTTC,0,0
+258,mg,3-hybride 1.5-l-bva,Automatique,5CV,Essence | Hybride,5,1498CM³,76 950DTTTC,0,0
+259,mg,5 1.5-l-confort#specs,Manuelle,6CV,Essence,4,1498CM³,63 950DTTTC,0,0
+260,mg,5 1.5-l-confort-plus#specs,Manuelle,6CV,Essence,4,1498CM³,67 450DTTTC,0,0
+261,mg,5 1.5-l-luxe-bva#specs,Automatique,7CV,Essence,4,1498CM³,71 950DTTTC,0,0
+262,mg,gt 1.5-l-luxury-bvm#specs,Manuelle,7CV,Essence,4,1498CM³,80 950DTTTC,0,0
+263,mg,gt 1.5-l-luxury-cvt#specs,Automatique,7CV,Essence,4,1498CM³,85 950DTTTC,0,0
+264,mg,gt 1.5-t-sport-7dct#specs,Automatique,9CV,Essence,4,1498CM³,95 450DTTTC,0,0
+265,mg,zs 1.5-l-luxury-bvm#specs,Manuelle,7CV,Essence,5,1498CM³,80 950DTTTC,0,0
+266,mg,zs 1.5-l-luxury-cvt#specs,Automatique,7CV,Essence,5,1498CM³,86 950DTTTC,0,0
+267,mg,zs 1.3-t-trophy-bva#specs,Automatique,9CV,Essence,5,1349CM³,95 950DTTTC,0,0
+268,mg,4 64-kwh-luxuryplus,,5CV,Electrique,5,,99 950DTTTC,0,0
+269,mg,one 1.5-l-bva,Automatique,10CV,Essence,5,1490CM³,103 950DTTTC,0,0
+270,mg,rx5 1.5-l-bva,Automatique,10CV,Essence,5,1490CM³,113 950DTTTC,0,0
+271,mg,ezs electrique-my2023,Automatique,9CV,Electrique,5,,116 950DTTTC,0,0
+272,mg,ehs 1.5-phev-trophy,Automatique,9CV,Essence | Hybride rechargeable,5,1490CM³,144 950DTTTC,0,0
+273,mg,marvel-r 70-kwh-luxuryplus,Automatique,5CV,Electrique,5,,149 950DTTTC,0,0
+274,mg,rx8 2.0-t-lux,Automatique,16CV,Essence,5,1995CM³,174 950DTTTC,0,0
+275,mini,3-portes 1.5-l-john-cooper-works,Automatique,9CV,Essence,3,1499CM³,198 900DTTTC,0,0
+276,mini,countryman 1.5-l-bva-classic#specs,Automatique,9CV,Essence,5,1499CM³,159 000DTTTC,0,0
+277,mini,countryman 1.5-l-bva-favoured#specs,Automatique,9CV,Essence,5,1499CM³,195 900DTTTC,0,0
+278,mini,countryman 1.5-l-bva-john-cooper-works#specs,Automatique,9CV,Essence,5,1499CM³,215 000DTTTC,0,0
+279,mitsubishi,attrage-populaire 1.2-l-glx-bvm-populaire,Manuelle,4CV,Essence,4,1193CM³,34 662DTTTC,0,0
+280,mitsubishi,eclipse-cross 1.5-t-mivec-cvt,Automatique,8CV,Essence,5,1499CM³,107 000DTTTC,0,0
+281,mitsubishi,asx 2.0-l-bva,Automatique,9CV,Essence,5,1998CM³,131 700DTTTC,0,0
+282,mitsubishi,l200-double-cabine 2.5-l-did,Manuelle,8CV,Diesel,4,2477CM³,155 000DTTTC,0,0
+283,mitsubishi,pajero 2.8-l,Manuelle,11CV,Diesel,5,2835CM³,196 500DTTTC,0,0
+284,mitsubishi,pajero-sport 2.4-l-did-business#specs,Manuelle,11CV,Diesel,5,2442CM³,243 567DTTTC,0,0
+285,mitsubishi,pajero-sport 2.4-l-did-bva-premium#specs,Automatique,11CV,Diesel,5,2442CM³,267 770DTTTC,0,0
+286,nissan,juke 1.0-l-dig-t-tekna#specs,Manuelle,6CV,Essence,5,999CM³,87 500DTTTC,0,0
+287,nissan,juke 1.0-l-dig-t-dct-tekna-high#specs,Automatique,6CV,Essence,5,999CM³,94 500DTTTC,0,0
+288,nissan,juke 1.0-l-dig-t-dct-tekna-perso#specs,Automatique,6CV,Essence,5,999CM³,95 500DTTTC,0,0
+289,nissan,qashqai 1.3-l-n-connecta#specs,Automatique,8CV,Essence,5,1332CM³,143 500DTTTC,0,0
+290,nissan,qashqai 1.3-l-tekna#specs,Automatique,8CV,Essence,5,1332CM³,144 500DTTTC,0,0
+291,nissan,qashqai 1.3-l-tekna-high#specs,Automatique,8CV,Essence,5,1332CM³,148 500DTTTC,0,0
+292,nissan,qashqai-e-power 1.5-l-n-connecta,Automatique,8CV,Essence | Hybride,5,1497CM³,155 900DTTTC,0,0
+293,opel,corsa 1.2-turbo-edition#specs,Manuelle,6CV,Essence,5,1199CM³,71 900DTTTC,0,0
+294,opel,corsa 1.2-turbo-gs-line#specs,Manuelle,6CV,Essence,5,1199CM³,76 900DTTTC,0,0
+295,opel,crossland 1.2-l-110-ch-bva-edition#specs,Automatique,6CV,Essence,5,1199CM³,79 900DTTTC,0,0
+296,opel,crossland 1.2-l-110-ch-at6-elegance#specs,Automatique,6CV,Essence,5,1199CM³,89 900DTTTC,0,0
+297,opel,mokka 1.2-l-turbo-130-ch-bva8-gs-line#specs,Automatique,7CV,Essence,5,1199CM³,109 900DTTTC,0,0
+298,opel,mokka 1.2-l-turbo-130-ch-at8-gs-matrix-limited#specs,Automatique,7CV,Essence,5,1199CM³,110 900DTTTC,0,0
+299,opel,astra 1.2-l-elegance-2023#specs,Automatique,7CV,Essence,5,1199CM³,105 900DTTTC,0,0
+300,opel,astra 1.2-l-gs#specs,Automatique,7CV,Essence,5,1199CM³,112 900DTTTC,0,0
+301,opel,combo confort-xl-1.6-l-diesel-l2h1-1000-kg-business-edition#specs,Manuelle,5CV,Diesel,3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,66 900DTTTC,0,0
+302,opel,combo 1.6-l-diesel-24-confort-l1h1-650-kg#specs,Manuelle,5CV,Diesel,3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,67 490DTTTC,0,0
+303,opel,combo xl-1.6-l-diesel-24-confort-l2h1-1000-kg#specs,Manuelle,5CV,Diesel,3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,69 900DTTTC,0,0
+304,peugeot,208 1.2-l-mca-active,Manuelle,4CV,Essence,5,1199CM³,64 490DTTTC,0,0
+305,peugeot,2008 1.2-l-puretech-130-bva-active-pack-2024#specs,Automatique,7CV,Essence,5,1199CM³,97 900DTTTC,0,0
+306,peugeot,2008 1.2-l-puretech-130-bva-allure-2024#specs,Automatique,7CV,Essence,5,1199CM³,104 900DTTTC,0,0
+307,peugeot,308 1.2-l-puretech-130-ch-eat8-allure,Automatique,7CV,Essence,5,1199CM³,105 900DTTTC,0,0
+308,peugeot,308-gt 1.2-l-puretech-130-ch-bva,Automatique,7CV,Essence,5,1199CM³,120 900DTTTC,0,0
+309,peugeot,3008 1.6-l-allure-bva,Automatique,9CV,Essence,5,1598CM³,149 900DTTTC,0,0
+310,peugeot,3008-gt-line 1.6l-bva,Automatique,9CV,Essence,5,1598CM³,169 900DTTTC,0,0
+311,peugeot,408 1.6-l-allure-bva#specs,Automatique,13CV,Essence,4,1598CM³,148 900DTTTC,0,0
+312,peugeot,408 1.6-l-allure-pack-bva#specs,Automatique,13CV,Essence,4,1598CM³,149 900DTTTC,0,0
+313,peugeot,408-gt 1.6-l-bva,Automatique,13CV,Essence,4,1598CM³,160 900DTTTC,0,0
+314,peugeot,5008-gt-line 1.6l-thp-163ch,Automatique,9CV,Essence,5,1598CM³,186 900DTTTC,0,0
+315,peugeot,rifter 1.6-l-hdi-90ch,Manuelle,5CV,Diesel,5 | 2 portes latérales coulissantes,1560CM³,100 900DTTTC,0,0
+316,peugeot,expert-combi 2.0-l-hdi-9-places,Manuelle,8CV,Diesel,5 | 1 porte latérale coulissante,1997CM³,151 900DTTTC,0,0
+317,peugeot,traveller 2.0-l-hdi-9-places,Manuelle,8CV,Diesel,5 | 1 porte latérale coulissante,1997CM³,171 900DTTTC,0,0
+318,peugeot,partner 1.6-l-hdi-90ch-24-650-kg#specs,Manuelle,5CV,Diesel,3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,67 490DTTTC,0,0
+319,peugeot,partner 1.6-l-hdi-90ch-24-1000-kg#specs,Manuelle,5CV,Diesel,3 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1560CM³,68 490DTTTC,0,0
+320,peugeot,expert 2.0-l-hdi-5.8-m3,Manuelle,9CV,Diesel,5 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1997CM³,84 900DTTTC,0,0
+321,peugeot,boxer 335-l1h1-fourgon#specs,Manuelle,7CV,Diesel,4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2179CM³,89 900DTTTC,0,0
+322,peugeot,boxer 335-l2h2-fourgon#specs,Manuelle,7CV,Diesel,4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2179CM³,91 900DTTTC,0,0
+323,peugeot,boxer 335-l3h2-fourgon#specs,Manuelle,7CV,Diesel,4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2179CM³,93 900DTTTC,0,0
+324,peugeot,boxer-plateau-double-cabine 350-l2-plateau-double-cabine,Manuelle,7CV,Diesel,4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées,2179CM³,109 900DTTTC,0,0
+325,peugeot,landtrek-simple-cabine 1.9-l-diesel-4x2-benne-tole-pliee#specs,Manuelle,6CV,Diesel,2,1910CM³,75 490DTTTC,0,0
+326,peugeot,landtrek-simple-cabine 1.9-l-diesel#specs,Manuelle,6CV,Diesel,2,1910CM³,79 490DTTTC,0,0
+327,peugeot,landtrek-double-cabine 1.9-l-diesel-4x2#specs,Manuelle,6CV,Diesel,4,1910CM³,92 990DTTTC,0,0
+328,peugeot,landtrek-double-cabine 1.9-l-diesel-4x4#specs,Manuelle,6CV,Diesel,4,1910CM³,102 990DTTTC,0,0
+329,peugeot,landtrek-double-cabine 1.9-l-diesel-4x4-u#specs,Manuelle,6CV,Diesel,4,1910CM³,106 990DTTTC,0,0
+330,porsche,macan 2.0-l-265-ch-pdk-2024,Automatique,17CV,Essence,5,1984CM³,424 000DTTTC,0,0
+331,porsche,cayenne 3.0-l-v6-tiptronic-s-e-hybrid-2024,Automatique,20CV,Essence | Hybride rechargeable,5,2995CM³,600 000DTTTC,0,0
+332,porsche,cayenne-coupe 3.0-v6-tiptronic-s-e-hybrid-2024,Automatique,20CV,Essence | Hybride rechargeable,5,2995CM³,615 000DTTTC,0,0
+333,porsche,taycan 2s-2024,Automatique,16CV,Electrique,4,,463 000DTTTC,0,0
+334,porsche,taycan-cross-turismo -4,Automatique,16CV,Electrique,5,,540 000DTTTC,0,0
+335,porsche,911 carrera-2024,Automatique,26CV,Essence,2,2981CM³,845 000DTTTC,0,0
+336,renault,clio 1.0-l-tce-100,Manuelle,6CV,Essence,5,999CM³,64 950DTTTC,0,0
+337,renault,megane 1.3-l-tce-140,Manuelle,8CV,Essence,5,1332CM³,94 950DTTTC,0,0
+338,renault,megane-sedan 1.3-l-tce-140#specs,Manuelle,8CV,Essence,4,1332CM³,101 650DTTTC,0,0
+339,renault,megane-sedan 1.3-l-tce-140-bva#specs,Automatique,8CV,Essence,4,1332CM³,109 950DTTTC,0,0
+340,renault,austral 1.3-l,Automatique,8CV,Essence,5,1332CM³,134 900DTTTC,0,0
+341,renault,express-van diesel,Manuelle,5CV,Diesel,4 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,1461CM³,57 550DTTTC,0,0
+342,renault,express-combi 1.5-l-dci,Manuelle,5CV,Diesel,5 | 2 portes latérales coulissantes,1461CM³,88 900DTTTC,0,0
+343,renault,master 2.3-l-8-m3#specs,Manuelle,8CV,Diesel,2 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2298CM³,84 900DTTTC,0,0
+344,renault,master 2.3-l-10.8-m3#specs,Manuelle,8CV,Diesel,2 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2298CM³,87 950DTTTC,0,0
+345,renault,master 2.3-l-13-m3#specs,Manuelle,8CV,Diesel,2 | 1 porte latérale coulissante | 2 portes arrières battantes tolées,2298CM³,89 950DTTTC,0,0
+346,seat,ibiza 1.0-l-tsi-bva-reference#specs,Automatique,6CV,Essence,5,999CM³,75 980DTTTC,0,0
+347,seat,ibiza 1.0-l-tsi-style#specs,Manuelle,6CV,Essence,5,999CM³,75 980DTTTC,0,0
+348,seat,ibiza 1.0-l-tsi-bva-xcellence#specs,Automatique,6CV,Essence,5,999CM³,84 980DTTTC,0,0
+349,seat,ibiza 1.0-l-tsi-bva-fr#specs,Automatique,6CV,Essence,5,999CM³,87 980DTTTC,0,0
+350,seat,arona 1.0-tsi-style-plus#specs,Automatique,6CV,Essence,5,999CM³,87 980DTTTC,0,0
+351,seat,arona 1.0-tsi-xperience#specs,Automatique,6CV,Essence,5,999CM³,94 980DTTTC,0,0
+352,seat,arona 1.0-tsi-fr#specs,Automatique,6CV,Essence,5,999CM³,97 980DTTTC,0,0
+353,seat,leon 1.4-tsi-dynamic-2021#specs,Automatique,8CV,Essence,5,1395CM³,99 980DTTTC,0,0
+354,seat,leon 1.4-tsi-fr#specs,Automatique,8CV,Essence,5,1395CM³,118 980DTTTC,0,0
+355,seat,ateca 2020-1.4-l-tsi-style#specs,Automatique,8CV,Essence,5,1395CM³,124 980DTTTC,0,0
+356,seat,ateca 1.4-l-tsi-xperience#specs,Automatique,8CV,Essence,5,1395CM³,136 980DTTTC,0,0
+357,seat,ateca 1.4-l-tsi-fr#specs,Automatique,8CV,Essence,5,1395CM³,139 980DTTTC,0,0
+358,skoda,fabia 1.0-l-mpi-essence#specs,Manuelle,4CV,Essence,5,999CM³,66 980DTTTC,0,0
+359,skoda,fabia 1.0-l-mpi-selection#specs,Manuelle,4CV,Essence,5,999CM³,71 480DTTTC,0,0
+360,skoda,fabia 1.0-l-mpi-monte-carlo#specs,Manuelle,4CV,Essence,5,999CM³,82 480DTTTC,0,0
+361,skoda,kushaq 1.0-tsi-ambition#specs,Manuelle,6CV,Essence,5,999CM³,76 980DTTTC,0,0
+362,skoda,kushaq 1.0-tsi-bva-ambition#specs,Automatique,7CV,Essence,5,999CM³,82 980DTTTC,0,0
+363,skoda,kushaq 1.0-tsi-bva-style#specs,Automatique,7CV,Essence,5,999CM³,89 980DTTTC,0,0
+364,skoda,scala 1.0-l-tsi-dsg-essence#specs,Automatique,6CV,Essence,5,999CM³,88 980DTTTC,0,0
+365,skoda,scala 1.0-l-tsi-dsg-selection#specs,Automatique,6CV,Essence,5,999CM³,102 980DTTTC,0,0
+366,skoda,scala 1.0-l-tsi-dsg-monte-carlo#specs,Automatique,6CV,Essence,5,999CM³,107 980DTTTC,0,0
+367,skoda,kamiq 1.0-l-tsi-dsg-essence#specs,Automatique,6CV,Essence,5,999CM³,91 980DTTTC,0,0
+368,skoda,kamiq 1.0-l-tsi-dsg-selection#specs,Automatique,6CV,Essence,5,999CM³,104 980DTTTC,0,0
+369,skoda,kamiq 1.0-l-tsi-dsg-monte-carlo#specs,Automatique,6CV,Essence,5,999CM³,109 980DTTTC,0,0
+370,skoda,octavia 1.4-tsi-bva-essence#specs,Automatique,8CV,Essence,4,1395CM³,119 980DTTTC,0,0
+371,skoda,octavia 1.4-tsi-bva-selection#specs,Automatique,8CV,Essence,4,1395CM³,129 980DTTTC,0,0
+372,skoda,octavia-rs 2.0-tsi-dsg,Automatique,14CV,Essence,4,1984CM³,195 000DTTTC,0,0
+373,ssangyong,tivoli 1.5-t-ilovit-2024,Automatique,8CV,Essence,5,1497CM³,102 575DTTTC,0,0
+374,ssangyong,korando 1.5-l-gdi-limited-bva,Automatique,9CV,Essence,5,1497CM³,124 980DTTTC,0,0
+375,ssangyong,musso 2.2-l-diesel-4wd#specs,Manuelle,7CV,Diesel,4,2157CM³,136 845DTTTC,0,0
+376,ssangyong,musso 2.2-l-diesel-4wd-crm#specs,Manuelle,7CV,Diesel,4,2157CM³,148 176DTTTC,0,0
+377,ssangyong,musso 2.2-l-diesel-4wd-bva#specs,Automatique,7CV,Diesel,4,2157CM³,158 645DTTTC,0,0
+378,ssangyong,torres 1.5-l-t-gdi-bva,Automatique,9CV,Essence,5,1497CM³,184 580DTTTC,0,0
+379,ssangyong,rexton 2.2-l-diesel-bva-5-places,Automatique,12CV,Diesel,5,2157CM³,312 300DTTTC,0,0
+380,suzuki,celerio-populaire 1.0-l-gl,Manuelle,4CV,Essence,5,998CM³,28 620DTTTC,0,0
+381,suzuki,dzire 1.2-l-gl#specs,Manuelle,5CV,Essence,4,1197CM³,54 900DTTTC,0,0
+382,suzuki,dzire 1.2-l-glx-pack#specs,Manuelle,5CV,Essence,4,1197CM³,57 900DTTTC,0,0
+383,suzuki,ciaz 1.5-l-gl#specs,Manuelle,6CV,Essence,4,1462CM³,62 900DTTTC,0,0
+384,suzuki,ciaz 1.5-l-gl-bva#specs,Automatique,6CV,Essence,4,1462CM³,67 900DTTTC,0,0
+385,suzuki,ciaz 1.5-l-glx#specs,Manuelle,6CV,Essence,4,1462CM³,69 900DTTTC,0,0
+386,suzuki,ciaz 1.5-glx-bva#specs,Automatique,6CV,Essence,4,1462CM³,73 900DTTTC,0,0
+387,suzuki,baleno 1.5-l-gl-bvm#specs,Manuelle,6CV,Essence,5,1462CM³,66 900DTTTC,0,0
+388,suzuki,baleno 1.5-l-glx-bva#specs,Automatique,6CV,Essence,5,1462CM³,76 900DTTTC,0,0
+389,suzuki,ertiga 1.5-l-glx#specs,Manuelle,6CV,Essence,5,1462CM³,78 900DTTTC,0,0
+390,suzuki,ertiga 1.5-l-bva-glx-7-places#specs,Automatique,6CV,Essence,5,1462CM³,83 900DTTTC,0,0
+391,suzuki,fronx 1.5-l-bvm#specs,Manuelle,6CV,Essence,5,1462CM³,76 900DTTTC,0,0
+392,suzuki,fronx 1.5-l-bva-glx#specs,Automatique,6CV,Essence,5,1462CM³,91 900DTTTC,0,0
+393,suzuki,jimny 1.5-l-gl-4x4#specs,Manuelle,6CV,Essence,3,1462CM³,99 900DTTTC,0,0
+394,suzuki,jimny 1.5-l-gl-4x4-bva#specs,Automatique,6CV,Essence,3,1462CM³,104 900DTTTC,0,0
+395,suzuki,jimny-5p 1.5-l-gl-4x4-bva,Automatique,6CV,Essence,5,1462CM³,129 900DTTTC,0,0
+396,suzuki,grand-vitara 1.5-l-bva-glx,Automatique,6CV,Essence | Hybride léger,5,1462CM³,132 900DTTTC,0,0
+397,tata,super-ace 1.4-l-turbo-diesel-simple-cabine-2023,Manuelle,5CV,Diesel,2,1396CM³,39 900DTTTC,0,0
+398,tata,xenon-x2 2.2l-turbo,Manuelle,7CV,Diesel,2,2179CM³,56 900DTTTC,0,0
+399,tata,xenon-dc 2.2-l-4x2-2023,Manuelle,7CV,Diesel,4,2179CM³,74 900DTTTC,0,0
+400,tata,xenon-x2-double-cabine-4x4 2.2-l-4x4,Manuelle,7CV,Diesel,4,2179CM³,81 900DTTTC,0,0
+401,toyota,yaris-hybride 1.5-l-cvt-france,Automatique,4CV,Essence | Hybride,5,1490CM³,83 800DTTTC,0,0
+402,toyota,corolla 1.6-l-cvt-bva-active,Automatique,7CV,Essence,4,1598CM³,108 900DTTTC,0,0
+403,toyota,yaris-cross 1.5-l-cvt-2023#specs,Automatique,5CV,Essence | Hybride,5,1490CM³,117 900DTTTC,0,0
+404,toyota,yaris-cross 1.5-l-cvt#specs,Automatique,5CV,Essence | Hybride,5,1490CM³,119 900DTTTC,0,0
+405,toyota,corolla-sedan-hybride 1.8-l-hybride,Automatique,5CV,Essence | Hybride,4,1798CM³,124 800DTTTC,0,0
+406,toyota,rav-4-hybride 2.5-l-hybride,Automatique,9CV,Essence | Hybride,5,2478CM³,164 800DTTTC,0,0
+407,toyota,land-cruiser-76 4.2-l,Manuelle,11CV,Diesel,4 | 2 portes arrières battantes vitrées,4164CM³,224 998DTTTC,0,0
+408,toyota,fortuner 2.4-l-d-4d-bva,Automatique,8CV,Diesel,5,2393CM³,274 800DTTTC,0,0
+409,toyota,prado 2.8-l-tx-bva#specs,Automatique,11CV,Diesel,5,2755CM³,342 000DTTTC,0,0
+410,toyota,prado 2.8-l-wx-bva-adventure#specs,Automatique,11CV,Diesel,5,2755CM³,398 000DTTTC,0,0
+411,toyota,land-cruiser-300 3.5-l-v6-bi-turbo-essence-4wd-vx#specs,Automatique,32CV,Essence,5,3445CM³,530 000DTTTC,0,0
+412,toyota,land-cruiser-300 3.3-l-v6-bi-turbo-diesel-4wd-vx#specs,Automatique,21CV,Diesel,5,3346CM³,540 000DTTTC,0,0
+413,toyota,land-cruiser-300 3.3-l-v6-bi-turbo-diesel-4wd-gr-sport#specs,Automatique,21CV,Diesel,5,3346CM³,568 000DTTTC,0,0
+414,toyota,land-cruiser-79 4.2-l-diesel-4x4-simple-cabine,Manuelle,11CV,Diesel,2,4164CM³,144 800DTTTC,0,0
+415,toyota,hilux-simple-cabine 2.4-l-diesel-d-4d-4x4,Manuelle,8CV,Diesel,2,2393CM³,123 800DTTTC,0,0
+416,toyota,hilux 2.4-l-diesel-d-4d-4x4-double-cabine#specs,Manuelle,8CV,Diesel,4,2393CM³,159 800DTTTC,0,0
+417,toyota,hilux 2.4-l-diesel-d-4d-4x4-bva-double-cabine#specs,Automatique,8CV,Diesel,4,2393CM³,192 900DTTTC,0,0
+418,toyota,hiace 2.5-l-diesel-16-places,Manuelle,10CV,Diesel,5 | 2 portes latérales coulissantes,2494CM³,142 000DTTTC,0,0
+419,toyota,coaster 4.2-l,Manuelle,11CV,Diesel,2 | 1 porte latérale battante,4164CM³,243 000DTTTC,0,0
+420,toyota,hiace-van 3.0-l-diesel,Manuelle,10CV,Diesel,3 | 1 porte latérale coulissante,2986CM³,79 900DTTTC,0,0
+421,volkswagen,virtus 1.0-l-confortline#specs,Manuelle,6CV,Essence,4,999CM³,65 980DTTTC,0,0
+422,volkswagen,virtus 1.0-l-highline#specs,Automatique,7CV,Essence,4,999CM³,79 980DTTTC,0,0
+423,volkswagen,virtus 1.0-l-topline#specs,Automatique,7CV,Essence,4,999CM³,86 980DTTTC,0,0
+424,volkswagen,t-cross 1.0-l-confortline#specs,Manuelle,6CV,Essence,5,999CM³,75 980DTTTC,0,0
+425,volkswagen,t-cross 1.0-l-highline#specs,Automatique,7CV,Essence,5,999CM³,92 980DTTTC,0,0
+426,volkswagen,t-cross 1.0-l-topline#specs,Automatique,7CV,Essence,5,999CM³,104 980DTTTC,0,0
+427,volkswagen,polo 1.0-l-drive#specs,Manuelle,5CV,Essence,5,999CM³,85 480DTTTC,0,0
+428,volkswagen,polo 1.0-l-life#specs,Manuelle,5CV,Essence,5,999CM³,93 480DTTTC,0,0
+429,volkswagen,tiguan 1.4-l-tsi-life-2024#specs,Automatique,8CV,Essence,5,1395CM³,154 980DTTTC,0,0
+430,volkswagen,tiguan 1.4-l-tsi-elegance-2024#specs,Automatique,8CV,Essence,5,1395CM³,169 980DTTTC,0,0
+431,volkswagen,tiguan 1.4-l-tsi-r-line-2024#specs,Automatique,8CV,Essence,5,1395CM³,197 980DTTTC,0,0
+432,volkswagen,amarok 2.0-l-tdi-4x4-bva-life-double-cabine#specs,Automatique,5CV,Diesel,4,1996CM³,199 980DTTTC,0,0
+433,volkswagen,amarok 2.0-l-tdi-4x4-bva-aventura-double-cabine#specs,Automatique,5CV,Diesel,4,1996CM³,239 980DTTTC,0,0
+434,volkswagen,caddy-cargo 2021-2.0-l-tdi-business,Manuelle,7CV,Diesel,4 | 1 porte latérale coulissante | 2 portes arrières battantes vitrées,1968CM³,75 980DTTTC,0,0
+435,volvo,ex30 single-motor#specs,Automatique,5CV,Electrique,5,,124 900DTTTC,0,0
+436,volvo,ex30 single-motor-extended-range#specs,Automatique,5CV,Electrique,5,,159 900DTTTC,0,0
+437,volvo,ex30 twin-motor#specs,Automatique,8CV,Electrique,5,,169 900DTTTC,0,0
+438,volvo,xc40 2.0-l-plus-dark-23#specs,Automatique,9CV,Essence | Hybride léger,5,1969CM³,192 900DTTTC,0,0
+439,volvo,xc40 2.0-l-ultimate-dark#specs,Automatique,9CV,Essence | Hybride léger,5,1969CM³,214 900DTTTC,0,0
+440,volvo,ec40-recharge twin-ultra-black-edition,Automatique,14CV,Electrique,5,,229 900DTTTC,0,0
+441,volvo,xc60 2.0-l-plus-dark#specs,Automatique,15CV,Essence | Hybride léger,5,1969CM³,299 900DTTTC,0,0
+442,volvo,xc60 2.0-l-recharge-ultimate-bright#specs,Automatique,20CV,Essence | Hybride rechargeable,5,1969CM³,354 900DTTTC,0,0
+443,volvo,xc60 2.0-l-ultra-dark#specs,Automatique,15CV,Essence | Hybride léger,5,1969CM³,354 900DTTTC,0,0
+444,volvo,s90 2.0-l-plus-bright#specs,Automatique,15CV,Essence | Hybride léger,4,1969CM³,273 900DTTTC,0,0
+445,volvo,s90 2.0-l-24-ultimate-bright#specs,Automatique,15CV,Essence | Hybride léger,4,1969CM³,289 900DTTTC,0,0
+446,volvo,xc90 2.0-l-ultimate-bright-my2024#specs,Automatique,15CV,Essence | Hybride léger,5,1969CM³,375 900DTTTC,0,0
+447,volvo,xc90 2.0-l-recharge-my2024-ultimate-bright#specs,Automatique,20CV,Essence | Hybride rechargeable,5,1969CM³,449 900DTTTC,0,0
+448,wallyscar,wolf 1.5-t,Automatique,9CV,Essence,5,1498CM³,119 900DTTTC,0,0
